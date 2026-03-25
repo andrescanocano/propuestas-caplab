@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>{{TITULO}}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=PT+Sans:wght@400;700&family=Questrial&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --brand: #002233;
+    --brand-80: rgba(0,34,51,0.80);
+    --brand-50: rgba(0,34,51,0.50);
+    --brand-25: rgba(0,34,51,0.25);
+    --brand-08: rgba(0,34,51,0.08);
+    --grey-1: #EFEEED;
+    --grey-2: #ECEDEE;
+    --grey-3: #D8D9DD;
+    --grey-4: #9799A0;
+    --grey-5: #505658;
+    --bg: #ffffff;
+    --text: #002233;
+    --text-secondary: #505658;
+    --text-muted: #9799A0;
+    --border: #9799A0;
+    --surface: #ECEDEE;
+    --surface-alt: #EFEEED;
+    --radius: 6px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: "PT Sans", "Segoe UI", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.7;
+    font-size: 15px;
+  }
+
+  /* --- Banner (screen only) --- */
+  .banner {
+    background: var(--brand);
+    padding: 36px 48px;
+    text-align: center;
+  }
+  .banner-logo { height: 36px; margin-bottom: 10px; }
+  .banner-slogan {
+    font-family: "Questrial", sans-serif;
+    font-size: 13px;
+    color: rgba(255,255,255,0.55);
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+  }
+
+  /* --- Print header (hidden on screen) --- */
+  .print-header {
+    display: none;
+  }
+
+  /* --- Page container --- */
+  .page {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 0 48px 80px;
+  }
+
+  /* --- Meta (fecha + referencia) --- */
+  .meta-bar {
+    padding: 20px 0;
+    border-bottom: 1px solid var(--grey-3);
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .meta-bar span {
+    font-family: "Questrial", sans-serif;
+    font-size: 12px;
+    color: var(--text-muted);
+    letter-spacing: 0.03em;
+  }
+
+  /* --- Hero --- */
+  .hero {
+    margin-bottom: 48px;
+    padding: 40px 0;
+    border-bottom: 1px solid var(--grey-3);
+  }
+  .hero .label {
+    font-family: "Questrial", sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--text-muted);
+    margin-bottom: 16px;
+  }
+  .hero h1 {
+    font-family: "Abril Fatface", serif;
+    font-size: clamp(32px, 5vw, 48px);
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    line-height: 1.15;
+    margin-bottom: 16px;
+    color: var(--brand);
+  }
+  .hero .subtitle {
+    font-size: 16px;
+    color: var(--text-secondary);
+    max-width: 600px;
+  }
+
+  /* --- Sections --- */
+  .section {
+    margin-bottom: 0;
+    padding: 40px 0;
+    border-bottom: 1px solid var(--grey-3);
+  }
+  .section:nth-child(even) {
+    background: var(--surface-alt);
+    margin-left: -48px;
+    margin-right: -48px;
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+  .section:last-child { border-bottom: none; }
+  .section-title {
+    font-family: "Questrial", sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--brand);
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid var(--brand);
+    display: inline-block;
+  }
+  .section h2 {
+    font-family: "Abril Fatface", serif;
+    font-size: clamp(22px, 3vw, 30px);
+    font-weight: 400;
+    line-height: 1.2;
+    margin-bottom: 16px;
+    color: var(--brand);
+  }
+  .section p {
+    font-size: 15px;
+    color: var(--text-secondary);
+    margin-bottom: 12px;
+    max-width: 700px;
+  }
+
+  /* --- Cards --- */
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--grey-3);
+    border-radius: var(--radius);
+    padding: 28px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  .card:hover { border-color: var(--brand-50); box-shadow: 0 2px 12px rgba(0,34,51,0.06); }
+  .card-label {
+    font-family: "Questrial", sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--brand);
+    margin-bottom: 10px;
+  }
+  .card-title { font-size: 16px; font-weight: 700; margin-bottom: 6px; }
+  .card-text { font-size: 14px; color: var(--text-secondary); line-height: 1.6; }
+
+  /* --- Lists --- */
+  .item-list { list-style: none; padding: 0; }
+  .item-list li {
+    font-size: 15px;
+    color: var(--text-secondary);
+    padding: 12px 0 12px 28px;
+    position: relative;
+    border-bottom: 1px solid var(--grey-2);
+    line-height: 1.5;
+  }
+  .item-list li::before {
+    content: "\2192";
+    position: absolute;
+    left: 0;
+    color: var(--brand);
+    font-weight: 700;
+  }
+  .item-list li:last-child { border-bottom: none; }
+
+  .checklist { list-style: none; padding: 0; }
+  .checklist li {
+    font-size: 15px;
+    color: var(--text-secondary);
+    padding: 10px 0 10px 32px;
+    position: relative;
+    line-height: 1.5;
+  }
+  .checklist li::before {
+    content: "\2713";
+    position: absolute;
+    left: 0;
+    color: var(--brand);
+    font-weight: 700;
+    font-size: 16px;
+  }
+
+  /* --- Phases --- */
+  .phases {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 24px;
+    margin-top: 20px;
+  }
+  .phase {
+    padding-left: 20px;
+    border-left: 3px solid var(--brand);
+  }
+  .phase-number {
+    font-family: "Questrial", sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--brand);
+    margin-bottom: 8px;
+  }
+  .phase-title { font-size: 16px; font-weight: 700; margin-bottom: 6px; }
+  .phase-text { font-size: 14px; color: var(--text-secondary); line-height: 1.6; }
+  .phase-time {
+    font-family: "Questrial", sans-serif;
+    font-size: 12px;
+    color: var(--grey-5);
+    font-weight: 700;
+    margin-top: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  /* --- Table --- */
+  .invest-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 16px;
+    font-size: 15px;
+  }
+  .invest-table th {
+    font-family: "Questrial", sans-serif;
+    text-align: left;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--brand);
+    padding: 14px 16px;
+    background: var(--grey-3);
+    border-bottom: 3px solid var(--brand);
+  }
+  .invest-table td {
+    padding: 16px;
+    border-bottom: 1px solid var(--grey-2);
+    color: var(--text-secondary);
+  }
+  .invest-table tr:nth-child(even) td { background: var(--surface-alt); }
+  .invest-table tr:last-child td {
+    border-bottom: 3px solid var(--brand);
+    font-weight: 700;
+    color: var(--brand);
+    background: transparent;
+  }
+  .invest-table .amount { text-align: right; font-variant-numeric: tabular-nums; }
+
+  /* --- Note --- */
+  .note {
+    margin-top: 20px;
+    padding: 20px 24px;
+    background: var(--surface);
+    border-left: 4px solid var(--brand);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    font-size: 14px;
+    color: var(--text-secondary);
+    line-height: 1.6;
+  }
+  .note strong { color: var(--brand); }
+
+  /* --- Two columns --- */
+  .two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 32px;
+    margin-top: 20px;
+  }
+
+  /* --- CTA --- */
+  .cta {
+    margin-top: 48px;
+    padding: 48px;
+    background: var(--brand);
+    border-radius: var(--radius);
+    text-align: center;
+    color: #ffffff;
+  }
+  .cta h2 {
+    font-family: "Abril Fatface", serif;
+    font-size: 28px;
+    font-weight: 400;
+    margin-bottom: 12px;
+    color: #ffffff;
+  }
+  .cta p {
+    font-size: 15px;
+    color: rgba(255,255,255,0.75);
+    margin: 0 auto 24px;
+    max-width: 500px;
+  }
+  .cta-contact {
+    font-size: 14px;
+    line-height: 2;
+    color: rgba(255,255,255,0.75);
+  }
+  .cta-contact strong { color: #ffffff; }
+  .cta-contact a { color: rgba(255,255,255,0.9); text-decoration: none; }
+  .cta-contact a:hover { text-decoration: underline; }
+
+  /* --- Footer --- */
+  .footer {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 20px 48px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .footer-logo { height: 24px; opacity: 0.4; }
+  .footer-text {
+    font-family: "Questrial", sans-serif;
+    font-size: 11px;
+    color: var(--text-muted);
+    letter-spacing: 0.05em;
+  }
+
+  /* --- Responsive --- */
+  @media (max-width: 768px) {
+    .page { padding: 0 24px 60px; }
+    .banner { padding: 28px 24px; }
+    .meta-bar { flex-direction: column; gap: 4px; text-align: center; }
+    .two-col, .phases, .cards { grid-template-columns: 1fr; }
+    .section:nth-child(even) { margin-left: -24px; margin-right: -24px; padding-left: 24px; padding-right: 24px; }
+    .footer { padding: 20px 24px 40px; }
+  }
+
+  /* --- Print: version limpia --- */
+  @media print {
+    body { font-size: 13px; color: #000; }
+    .page { max-width: 100%; padding: 0 24px 20px; }
+
+    /* Ocultar banner, mostrar print-header */
+    .banner { display: none !important; }
+    .print-header {
+      display: flex !important;
+      align-items: center;
+      justify-content: space-between;
+      padding: 20px 0;
+      border-bottom: 2px solid #002233;
+      margin-bottom: 24px;
+    }
+    .print-header img { height: 28px; }
+    .print-header span {
+      font-family: "Questrial", sans-serif;
+      font-size: 11px;
+      color: #666;
+    }
+
+    /* Limpiar secciones alternas */
+    .section:nth-child(even) {
+      background: none !important;
+      margin-left: 0; margin-right: 0;
+      padding-left: 0; padding-right: 0;
+    }
+    .section { padding: 24px 0; }
+
+    /* Sin fondos decorativos */
+    .card { background: none !important; border: 1px solid #ccc; }
+    .note { background: none !important; border-left: 3px solid #002233; }
+    .invest-table th { background: none !important; border-bottom: 2px solid #002233; }
+    .invest-table tr:nth-child(even) td { background: none !important; }
+
+    /* CTA: version print con borde */
+    .cta {
+      background: none !important;
+      color: #000 !important;
+      border: 2px solid #002233;
+      padding: 32px;
+    }
+    .cta h2 { color: #002233 !important; }
+    .cta p { color: #333 !important; }
+    .cta-contact { color: #333 !important; }
+    .cta-contact strong { color: #000 !important; }
+    .cta-contact a { color: #002233 !important; }
+
+    /* Cards en columna unica para mejor flow */
+    .cards { grid-template-columns: 1fr; gap: 12px; }
+    .phases { grid-template-columns: 1fr; gap: 16px; }
+
+    /* Solo elementos atomicos evitan corte */
+    .card { break-inside: avoid; }
+    .phase { break-inside: avoid; }
+    .note { break-inside: avoid; }
+    .invest-table { break-inside: avoid; }
+    .hero { break-inside: avoid; }
+    .cta { break-inside: avoid; }
+
+    /* Footer */
+    .footer { padding: 16px 0; }
+    .footer-logo { opacity: 1; }
+  }
+</style>
+</head>
+<body>
+
+<!-- Banner (screen only) -->
+<div class="banner">
+  <img src="{{LOGO_BLANCO}}" alt="Capital Lab" class="banner-logo"><br>
+  <span class="banner-slogan">Informacion Inteligente</span>
+</div>
+
+<!-- Content -->
+<div class="page">
+  <!-- Print header (print only) -->
+  <div class="print-header">
+    <img src="{{LOGO_HORIZONTAL}}" alt="Capital Lab">
+    <span>{{FECHA}} | {{REFERENCIA}}</span>
+  </div>
+
+  <div class="meta-bar">
+    <span>{{FECHA}}</span>
+    <span>{{REFERENCIA}}</span>
+  </div>
+
+  <div class="hero">
+    <div class="label">Propuesta comercial</div>
+    <h1>{{TITULO_HERO}}</h1>
+    <p class="subtitle">{{SUBTITULO}}</p>
+  </div>
+
+  {{SECCIONES}}
+
+  <div class="cta">
+    <h2>{{CTA_TITULO}}</h2>
+    <p>{{CTA_TEXTO}}</p>
+    <div class="cta-contact">
+      <strong>Andres Cano</strong> — CEO<br>
+      <a href="mailto:andrescano@caplab.com.co">andrescano@caplab.com.co</a><br>
+      <a href="https://www.caplab.com.co" target="_blank">www.caplab.com.co</a>
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+  <img src="{{LOGO_HORIZONTAL}}" alt="Capital Lab" class="footer-logo">
+  <div class="footer-text">Capital Lab S.A.S.</div>
+</div>
+
+</body>
+</html>

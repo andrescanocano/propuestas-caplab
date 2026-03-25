@@ -9,9 +9,11 @@ import os
 import sys
 
 # Rutas de logos (base64 pre-generados)
-LOGO_H_PATH = os.path.join(os.path.dirname(__file__), "..", "logo_b64.txt")
-LOGO_C_PATH = os.path.join(os.path.dirname(__file__), "..", "logo_circle_b64.txt")
-TEMPLATE_PATH = os.path.join(os.path.dirname(__file__), "templates", "base_propuesta.html")
+LOGO_H_PATH = os.path.join(os.path.dirname(__file__), "..", "logo_b64.txt")          # Negro
+LOGO_C_PATH = os.path.join(os.path.dirname(__file__), "..", "logo_circle_b64.txt")   # Negro
+LOGO_W_PATH = os.path.join(os.path.dirname(__file__), "..", "logo_blanco_b64.txt")   # Blanco (banner)
+TEMPLATES_DIR = os.path.join(os.path.dirname(__file__), "templates")
+TEMPLATE_PATH = os.path.join(TEMPLATES_DIR, "base_propuesta.html")
 
 
 def load_logo(path):
@@ -111,19 +113,21 @@ def render_section(section):
     return f'<div class="section">\n' + "\n".join(html_parts) + "\n</div>"
 
 
-def generate(config_path, output_dir):
+def generate(config_path, output_dir, template_name=None):
     """Genera la propuesta HTML desde un JSON de configuracion."""
     # Cargar config
     with open(config_path, "r", encoding="utf-8") as f:
         config = json.load(f)
 
     # Cargar template
-    with open(TEMPLATE_PATH, "r", encoding="utf-8") as f:
+    tpl_path = os.path.join(TEMPLATES_DIR, template_name) if template_name else TEMPLATE_PATH
+    with open(tpl_path, "r", encoding="utf-8") as f:
         template = f.read()
 
     # Cargar logos
     logo_h = load_logo(LOGO_H_PATH)
     logo_c = load_logo(LOGO_C_PATH)
+    logo_w = load_logo(LOGO_W_PATH)
 
     # Renderizar secciones
     secciones_html = "\n\n".join(render_section(s) for s in config.get("secciones", []))
@@ -132,6 +136,7 @@ def generate(config_path, output_dir):
     html = template
     html = html.replace("{{TITULO}}", config.get("titulo", "Propuesta - Capital Lab"))
     html = html.replace("{{LOGO_HORIZONTAL}}", logo_h)
+    html = html.replace("{{LOGO_BLANCO}}", logo_w)
     html = html.replace("{{LOGO_CIRCLE}}", logo_c)
     html = html.replace("{{FECHA}}", config.get("fecha", ""))
     html = html.replace("{{REFERENCIA}}", config.get("referencia", ""))
@@ -158,13 +163,14 @@ def main():
     parser = argparse.ArgumentParser(description="Genera propuestas HTML para Capital Lab")
     parser.add_argument("--config", required=True, help="Ruta al JSON de configuracion")
     parser.add_argument("--output", required=True, help="Directorio de salida (ej: docs/2026/pipe-contabilidad/)")
+    parser.add_argument("--template", default=None, help="Nombre del template (ej: propuesta_marca.html)")
     args = parser.parse_args()
 
     if not os.path.exists(args.config):
         print(f"Error: no se encontro {args.config}")
         sys.exit(1)
 
-    generate(args.config, args.output)
+    generate(args.config, args.output, args.template)
 
 
 if __name__ == "__main__":
