@@ -1,0 +1,124 @@
+{
+  "titulo": "Capital Lab — Constitución de Sociedad SAS",
+  "fecha": "25 de marzo de 2026",
+  "referencia": "PROP-2026-002",
+  "titulo_hero": "Tu empresa de house flipping, bien hecha desde el día uno",
+  "subtitulo": "Preparada para Andrés Felipe Pérez Sierra",
+  "contacto_nombre": "Andrés Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "Arranquemos",
+  "cta_texto": "Ya diste el paso más difícil: decidir emprender. Ahora deja que la estructura legal y tributaria trabaje a tu favor desde el primer día. Hablemos y definimos todo en una sola sesión.",
+  "secciones": [
+    {
+      "etiqueta": "Tu proyecto",
+      "titulo": "House flipping con estructura",
+      "tipo": "texto",
+      "texto": [
+        "Comprar casas en mal estado, remodelarlas y venderlas con margen es un negocio con potencial enorme en Colombia. Ya tienes tu primera casa en proceso — ahora necesitas una empresa que respalde cada transacción, proteja tu patrimonio personal y te permita escalar sin improvisar.",
+        "Pero house flipping no es un negocio cualquiera: cada casa es inventario, cada remodelación es costo capitalizable, cada venta tiene retenciones específicas, y una mala estructura tributaria puede comerse tu margen antes de que lo veas.",
+        "Por eso no basta con constituir una empresa. Necesitas que nazca con la estructura correcta — societaria, tributaria y financiera. Eso es exactamente lo que hacemos."
+      ]
+    },
+    {
+      "etiqueta": "Qué incluye",
+      "tipo": "checklist",
+      "titulo": "Proceso integral de constitución",
+      "items": [
+        "Asesoría en estructura societaria óptima para el sector inmobiliario",
+        "Definición de objeto social y estatutos adaptados a house flipping",
+        "Elaboración del documento de constitución ante Cámara de Comercio",
+        "Cartas de aceptación de representante legal",
+        "Acompañamiento en formularios de registro y beneficio empresa joven (Ley 1780)",
+        "Inscripción y activación del RUT ante la DIAN",
+        "Resolución de facturación electrónica",
+        "Asesoría en régimen tributario (ordinario vs. simple) con enfoque inmobiliario",
+        "Configuración inicial de calendario fiscal y obligaciones tributarias",
+        "Orientación para apertura de cuenta bancaria empresarial"
+      ]
+    },
+    {
+      "etiqueta": "Equipo",
+      "tipo": "dos_columnas",
+      "titulo": "Dos firmas, un solo equipo a tu servicio",
+      "columnas": [
+        {
+          "titulo": "Capital Lab — Cerebro tributario y financiero",
+          "items": [
+            "Estructura tributaria diseñada para maximizar tu margen en cada operación",
+            "Configuración DIAN y calendario fiscal desde el día uno",
+            "Régimen tributario recomendado según tu proyección de ingresos",
+            "Planeación financiera inicial para house flipping",
+            "Tecnología propia para automatizar tu operación contable"
+          ]
+        },
+        {
+          "titulo": "DoClick — Respaldo legal y societario",
+          "items": [
+            "Elaboración de estatutos y documentos legales",
+            "Registro y formalización en Cámara de Comercio",
+            "Trámites societarios completos",
+            "Reconocidos Highly Recommended por Leaders League 2026 en Derecho Corporativo"
+          ]
+        }
+      ]
+    },
+    {
+      "etiqueta": "Por qué una SAS",
+      "tipo": "cards",
+      "titulo": "La estructura ideal para arrancar",
+      "cards": [
+        {
+          "etiqueta": "Patrimonio protegido",
+          "titulo": "Responsabilidad limitada",
+          "texto": "Respondés hasta el monto de tus aportes. Tu patrimonio personal queda blindado — crítico cuando cada operación mueve cifras de 9 dígitos."
+        },
+        {
+          "etiqueta": "Sin burocracia",
+          "titulo": "Máxima flexibilidad",
+          "texto": "No necesitás junta directiva ni revisor fiscal (bajo ciertos umbrales). Estatutos 100% adaptables al negocio inmobiliario."
+        },
+        {
+          "etiqueta": "Rápido y económico",
+          "titulo": "Constitución simple",
+          "texto": "Documento privado, sin escritura pública. En 3 a 4 semanas tenés tu empresa lista para facturar, contratar y operar."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Timeline",
+      "tipo": "fases",
+      "titulo": "De la idea a la empresa en 3 pasos",
+      "fases": [
+        {
+          "titulo": "Definición",
+          "texto": "Nombre, objeto social, aportes, estructura de gobierno y estrategia tributaria. Una sesión con nosotros y queda resuelto.",
+          "tiempo": "1 semana"
+        },
+        {
+          "titulo": "Formalización",
+          "texto": "Elaboración de documentos, firma digital y registro ante Cámara de Comercio.",
+          "tiempo": "1–2 semanas"
+        },
+        {
+          "titulo": "Activación",
+          "texto": "RUT activo, resolución de facturación electrónica, calendario fiscal configurado y cuenta bancaria en trámite.",
+          "tiempo": "1 semana"
+        }
+      ]
+    },
+    {
+      "etiqueta": "Inversión",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversión",
+      "columnas": ["Concepto", "Valor"],
+      "filas": [
+        ["Constitución SAS (asesoría tributaria + trámites legales)", "$3.850.000 + IVA"],
+        ["Gastos de registro — Cámara de Comercio", "Según capital social"],
+        ["Impuesto de registro (0,7% del capital)", "Según capital social"],
+        ["Total estimado (sin gastos CámCom)", "$4.581.500 IVA incluido"]
+      ],
+      "nota": "<strong>Forma de pago:</strong> 50% al aceptar la propuesta, 50% al momento de la constitución.<br><br><strong>Nota:</strong> Los gastos de Cámara de Comercio e impuesto de registro dependen del capital social que definamos juntos. Te asesoramos sobre el monto óptimo para tu operación.<br><br>Esta propuesta tiene vigencia de 15 días calendario."
+    }
+  ]
+}

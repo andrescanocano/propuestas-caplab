@@ -1,0 +1,89 @@
+{
+  "titulo": "Capital Lab — Propuesta de Servicios Contables",
+  "fecha": "DD de mes de AAAA",
+  "referencia": "PROP-AAAA-NNN",
+  "titulo_hero": "Servicios contables, tributarios y financieros",
+  "subtitulo": "Preparada para [Nombre Empresa] S.A.S.",
+  "contacto_nombre": "Andres Cano",
+  "contacto_cargo": "CEO",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "Empecemos",
+  "cta_texto": "Queremos conocer tu operacion para disenar un acompanamiento a la medida.",
+  "secciones": [
+    {
+      "etiqueta": "Contexto",
+      "titulo": "Entendemos tu negocio",
+      "texto": "[Descripcion personalizada del prospecto: sector, momento, necesidad]",
+      "tipo": "texto"
+    },
+    {
+      "etiqueta": "Servicios incluidos",
+      "tipo": "checklist",
+      "titulo": "Todo lo que incluye",
+      "items": [
+        "Procesamiento mensual de informacion contable",
+        "Gestion integral DIAN (declaraciones, retenciones, facturacion electronica)",
+        "Contabilidad bajo NIIF y estados financieros",
+        "Planeacion tributaria y optimizacion fiscal",
+        "Conciliaciones de cuentas clave",
+        "Consultas ilimitadas con profesionales",
+        "Analista contable dedicado",
+        "Acceso a plataforma de automatizacion y software contable propio"
+      ]
+    },
+    {
+      "etiqueta": "Diferenciales",
+      "tipo": "cards",
+      "titulo": "Por que Capital Lab",
+      "cards": [
+        {
+          "etiqueta": "Tecnologia propia",
+          "texto": "Plataforma que captura, procesa y registra informacion automaticamente. Acceso directo a bases de datos de la DIAN."
+        },
+        {
+          "etiqueta": "Anticipacion",
+          "texto": "Borradores tributarios 3+ dias antes de vencimiento. Cero multas por incumplimiento en todo nuestro portafolio."
+        },
+        {
+          "etiqueta": "Equipo completo",
+          "texto": "Equipo multidisciplinario respaldado por firma con tarjeta profesional de la Junta Central de Contadores."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Proceso",
+      "tipo": "fases",
+      "titulo": "Como funciona",
+      "fases": [
+        {
+          "titulo": "Diagnostico y Onboarding",
+          "texto": "Entendemos tu negocio, estructura societaria y obligaciones tributarias. Configuramos flujos automaticos.",
+          "tiempo": "2-4 semanas"
+        },
+        {
+          "titulo": "Operacion Continua",
+          "texto": "Procesamiento automatico de documentos, ciclos semanales, cierre mensual en ~3 dias.",
+          "tiempo": "Mensual"
+        },
+        {
+          "titulo": "Informacion Oportuna",
+          "texto": "Estados financieros bajo NIIF, dashboards, proyecciones de flujo de caja.",
+          "tiempo": "Trimestral"
+        }
+      ]
+    },
+    {
+      "etiqueta": "Inversion",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversion",
+      "columnas": ["Concepto", "Valor mensual"],
+      "filas": [
+        ["Gestion contable, tributaria y financiera", "$X.XXX.XXX"],
+        ["Software contable (incluido)", "$0"],
+        ["IVA (19%)", "$XXX.XXX"],
+        ["Total mensual", "$X.XXX.XXX"]
+      ],
+      "nota": "<strong>Contrato:</strong> 6 meses con evaluacion periodica. La tarifa se basa en volumen de informacion y nivel de ingresos."
+    }
+  ]
+}

@@ -13,7 +13,7 @@ LOGO_H_PATH = os.path.join(os.path.dirname(__file__), "..", "logo_b64.txt")     
 LOGO_C_PATH = os.path.join(os.path.dirname(__file__), "..", "logo_circle_b64.txt")   # Negro
 LOGO_W_PATH = os.path.join(os.path.dirname(__file__), "..", "logo_blanco_b64.txt")   # Blanco (banner)
 TEMPLATES_DIR = os.path.join(os.path.dirname(__file__), "templates")
-TEMPLATE_PATH = os.path.join(TEMPLATES_DIR, "base_propuesta.html")
+TEMPLATE_PATH = os.path.join(TEMPLATES_DIR, "propuesta_marca.html")
 
 
 def load_logo(path):
@@ -145,6 +145,9 @@ def generate(config_path, output_dir, template_name=None):
     html = html.replace("{{SECCIONES}}", secciones_html)
     html = html.replace("{{CTA_TITULO}}", config.get("cta_titulo", "<strong>Hablemos</strong>"))
     html = html.replace("{{CTA_TEXTO}}", config.get("cta_texto", "Queremos entender tu negocio para disenar una solucion a la medida."))
+    html = html.replace("{{CONTACTO_NOMBRE}}", config.get("contacto_nombre", "Andres Cano"))
+    html = html.replace("{{CONTACTO_CARGO}}", config.get("contacto_cargo", "CEO"))
+    html = html.replace("{{CONTACTO_EMAIL}}", config.get("contacto_email", "andrescano@caplab.com.co"))
 
     # Crear directorio de salida
     os.makedirs(output_dir, exist_ok=True)

@@ -1,0 +1,115 @@
+{
+  "titulo": "Capital Lab — Propuesta de Constitucion de Sociedad",
+  "fecha": "DD de mes de AAAA",
+  "referencia": "PROP-AAAA-NNN",
+  "titulo_hero": "Constitucion de sociedad SAS",
+  "subtitulo": "Preparada para [Nombre del Emprendedor/Empresa]",
+  "contacto_nombre": "Andres Cano",
+  "contacto_cargo": "CEO",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "Empecemos",
+  "cta_texto": "Definamos juntos la estructura ideal para tu nueva empresa.",
+  "secciones": [
+    {
+      "etiqueta": "Contexto",
+      "titulo": "Tu proyecto",
+      "texto": "[Descripcion del proyecto del prospecto: que quiere hacer, sector, vision]",
+      "tipo": "texto"
+    },
+    {
+      "etiqueta": "Que incluye",
+      "tipo": "checklist",
+      "titulo": "Proceso de constitucion",
+      "items": [
+        "Asesoria en estructura societaria y tipo de sociedad",
+        "Definicion de objeto social y estatutos",
+        "Elaboracion de documento de constitucion",
+        "Registro ante Camara de Comercio",
+        "Inscripcion y activacion del RUT ante la DIAN",
+        "Resolucion de facturacion electronica",
+        "Asesoria en regimen tributario (ordinario vs simple)",
+        "Configuracion inicial de obligaciones fiscales",
+        "Orientacion para apertura de cuenta bancaria"
+      ]
+    },
+    {
+      "etiqueta": "Equipo",
+      "tipo": "dos_columnas",
+      "titulo": "Quienes te acompanan",
+      "columnas": [
+        {
+          "titulo": "Capital Lab — Asesoria tributaria y financiera",
+          "items": [
+            "Estructura tributaria optima para tu negocio",
+            "Configuracion DIAN y calendario fiscal",
+            "Regimen tributario recomendado",
+            "Planeacion financiera inicial"
+          ]
+        },
+        {
+          "titulo": "DoClick — Tramites legales y societarios",
+          "items": [
+            "Elaboracion de estatutos y documentos legales",
+            "Registro en Camara de Comercio",
+            "Tramites societarios y formalizacion",
+            "Acompanamiento legal continuo"
+          ]
+        }
+      ]
+    },
+    {
+      "etiqueta": "Ventajas SAS",
+      "tipo": "cards",
+      "titulo": "Por que una SAS",
+      "cards": [
+        {
+          "etiqueta": "Responsabilidad limitada",
+          "texto": "Los socios responden hasta el monto de sus aportes. Tu patrimonio personal queda protegido."
+        },
+        {
+          "etiqueta": "Flexibilidad",
+          "texto": "Estatutos adaptables, no requiere junta directiva ni revisor fiscal bajo ciertos umbrales."
+        },
+        {
+          "etiqueta": "Simplicidad",
+          "texto": "Constitucion por documento privado (sin escritura publica). Proceso rapido y economico."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Proceso",
+      "tipo": "fases",
+      "titulo": "Timeline estimado",
+      "fases": [
+        {
+          "titulo": "Definicion",
+          "texto": "Nombre, objeto social, socios, aportes, estructura de gobierno.",
+          "tiempo": "1 semana"
+        },
+        {
+          "titulo": "Formalizacion",
+          "texto": "Elaboracion de documentos, firma, registro en Camara de Comercio.",
+          "tiempo": "1-2 semanas"
+        },
+        {
+          "titulo": "Activacion",
+          "texto": "RUT, resolucion de facturacion, cuenta bancaria, calendario fiscal.",
+          "tiempo": "1 semana"
+        }
+      ]
+    },
+    {
+      "etiqueta": "Inversion",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversion",
+      "columnas": ["Concepto", "Valor"],
+      "filas": [
+        ["Constitucion SAS (asesoria + tramites legales)", "$X.XXX.XXX"],
+        ["Gastos de registro (Camara de Comercio)", "Segun capital social"],
+        ["Impuesto de registro (0.7% del capital)", "Segun capital social"],
+        ["Total estimado", "$X.XXX.XXX"]
+      ],
+      "nota": "<strong>Nota:</strong> Los gastos de Camara de Comercio e impuesto de registro dependen del capital social definido. Te asesoramos sobre el monto optimo."
+    }
+  ]
+}
