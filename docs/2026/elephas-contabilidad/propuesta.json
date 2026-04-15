@@ -59,11 +59,12 @@
       ]
     },
     {
-      "etiqueta": "Aclaraciones de alcance",
-      "titulo": "Dos puntos donde tu equipo y el nuestro se complementan",
+      "etiqueta": "Consideraciones operativas",
+      "titulo": "Cómo coordinamos algunos detalles operativos del día a día",
       "tipo": "texto",
       "texto": [
-        "<strong>Facturación electrónica — la emite ELEPHAS, nosotros acompañamos.</strong> Por diseño y buena práctica, la emisión de las facturas electrónicas la hace directamente ELEPHAS desde su propia operación, porque eso mantiene el control comercial en tu equipo y evita dependencias operativas con un tercero. Lo que sí hacemos nosotros es el acompañamiento completo: configuración inicial ante la DIAN, capacitación al equipo que emitirá las facturas, resolución de dudas tributarias y operativas, y soporte continuo ante cualquier inconveniente con el proveedor tecnológico de facturación.",
+        "<strong>Facturación electrónica y documento soporte electrónico — la emitís vos, nosotros o los dos, según prefieras.</strong> Capital Lab tiene plena capacidad para emitir la factura electrónica y el documento soporte electrónico en tu nombre y lo hacemos sin problema si esa es tu decisión. Ahora bien, por eficiencia y practicidad te recomendamos que sea una persona dentro de ELEPHAS quien emita esos documentos: tu equipo tiene la información comercial en tiempo real (quién compra, en qué condiciones, con qué plazos) y eso hace la emisión más ágil, con menos idas y vueltas. En ese escenario, Capital Lab configura el software con tu proveedor tecnológico, capacita a la persona designada y hace seguimiento continuo para asegurar el cumplimiento DIAN. La decisión queda contigo — ambos caminos están dentro del alcance del servicio.",
+        "<strong>Nómina electrónica — la emitimos nosotros, sin matices.</strong> A diferencia de los dos documentos anteriores, la nómina electrónica la generamos y transmitimos directamente desde Capital Lab como parte del servicio mensual, sin necesidad de intervención de tu equipo. Eso ya está incluido en el paquete de nómina que leíste en la sección Servicios incluidos.",
         "<strong>Afiliaciones al sistema de Seguridad Social — con un aliado especializado.</strong> Las afiliaciones a EPS, AFP, ARL y Caja de Compensación de empleados nuevos se gestionan a través de nuestro aliado especializado en este tipo de trámites. El costo es variable por evento y, en promedio, está entre $40.000 y $70.000 por empleado nuevo. Nosotros coordinamos el proceso de principio a fin para que ELEPHAS no tenga que interactuar directamente con el aliado, y la afiliación queda debidamente documentada en el expediente del empleado."
       ]
     },
@@ -166,8 +167,7 @@
       "items": [
         "× Presentación de la declaración de renta y envío de información exógena — ver Propuesta 2 (Cierre 2025 + Renta + Exógena)",
         "× Revisoría fiscal — ver Propuesta 3 (Revisoría Fiscal)",
-        "× Emisión directa de la facturación electrónica (la emite ELEPHAS desde su propia operación; nosotros configuramos, capacitamos y damos soporte continuo — ver sección Aclaraciones de alcance)",
-        "× Afiliaciones directas al sistema de Seguridad Social (se gestionan con nuestro aliado especializado, costo variable aprox. $40.000–$70.000 por empleado nuevo — ver sección Aclaraciones de alcance)",
+        "× Afiliaciones directas al sistema de Seguridad Social con factura Capital Lab (se gestionan con nuestro aliado especializado, costo variable aprox. $40.000–$70.000 por empleado nuevo — ver sección Consideraciones operativas)",
         "× Representación ante la DIAN en procesos de fiscalización ya abiertos a la fecha de firma",
         "× Peritajes, valoraciones de empresa y auditorías forenses",
         "× Puesta a punto de información contable de períodos anteriores"

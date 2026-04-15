@@ -12,12 +12,12 @@
   "secciones": [
     {
       "etiqueta": "El encargo",
-      "titulo": "Cerremos bien el año y dejemos renta y exógena listas",
+      "titulo": "Revisión, ajustes y cumplimiento fiscal del ejercicio 2025",
       "tipo": "texto",
       "texto": [
-        "Esta propuesta cubre el cierre del ejercicio contable 2025 de ELEPHAS S.A.S. bajo NIIF para Pymes Grupo 2. Según el tamaño de la compañía, ELEPHAS está obligada a presentar la declaración de renta del año gravable 2025 y a enviar la información exógena AG2025 ante la DIAN.",
-        "La propuesta contempla dos escenarios en función de quién ejecuta la presentación de la declaración de renta y el envío de la información exógena: si las hace Capital Lab, aplica el valor mayor; si las hace otro equipo o el propio cliente y Capital Lab solo entrega el cierre contable como insumo, aplica el valor menor. El cumplimiento de esas obligaciones es innegociable — lo que se define acá es con quién se ejecutan.",
-        "En cualquiera de los dos escenarios, el cierre contable 2025 queda listo, firmado y con las notas completas, para que sirva como base sólida tanto para la operación del año siguiente como para cualquier conversación con bancos, clientes o autoridades."
+        "Esta propuesta cubre el trabajo sobre el ejercicio 2025 de ELEPHAS S.A.S. Más que un cierre contable en sentido clásico, el encargo es una <strong>revisión integral</strong> de la información del año, los <strong>ajustes contables</strong> necesarios para cumplir con los indicadores que terceros le exigen a ELEPHAS (RUP, bancos, entidades de vigilancia, procesos de licitación o contratación), y la <strong>armonización</strong> entre la información contable y la que va a soportar las declaraciones tributarias.",
+        "Según el tamaño de la compañía, ELEPHAS está obligada a presentar la declaración de renta AG2025 y a enviar la información exógena AG2025 ante la DIAN. Esta propuesta contempla dos escenarios en función de quién ejecuta esa presentación: si la hace Capital Lab (escenario A), está incluida en el valor mayor; si la hace otro equipo o el propio cliente y Capital Lab solo entrega los estados financieros como insumo, aplica el valor menor.",
+        "En ambos escenarios, los <strong>estados financieros 2025 los firma Capital Lab como contador público</strong>, lo que habilita su presentación formal ante entidades oficiales — bancos, Cámara de Comercio, DIAN, auditores, aliados comerciales y cualquier tercero que los requiera con respaldo profesional."
       ]
     },
     {
@@ -25,14 +25,16 @@
       "tipo": "checklist",
       "titulo": "Dos bloques, un solo encargo",
       "items": [
-        "Bloque A — Cierre contable 2025 bajo NIIF para Pymes Grupo 2: estados financieros completos (Situación Financiera, Resultados, Cambios en el Patrimonio y Flujos de Efectivo) con sus notas y certificaciones",
-        "Bloque A — Conciliaciones de cierre: bancos, cuentas por cobrar, cuentas por pagar, impuestos, inventarios y propiedad, planta y equipo",
-        "Bloque A — Conciliación contable/fiscal como soporte técnico del año gravable",
+        "Bloque A — Revisión integral de la información contable 2025 y detección de puntos a ajustar",
+        "Bloque A — Ajustes contables que permitan cumplir con los indicadores que terceros le exigen a ELEPHAS (RUP, bancos, licitaciones, entidades de vigilancia)",
+        "Bloque A — Armonización contable-fiscal: coherencia entre la contabilidad y lo que va a soportar las declaraciones tributarias",
+        "Bloque A — Estados financieros 2025 bajo NIIF para Pymes Grupo 2 (Situación Financiera, Resultados, Cambios en el Patrimonio y Flujos de Efectivo) con sus notas",
+        "Bloque A — <strong>Firma de los estados financieros por contador público de Capital Lab</strong>, con validez para presentación ante bancos, Cámara de Comercio, DIAN, auditores, aliados comerciales y procesos de licitación",
         "Bloque B — Presentación de la declaración de renta AG2025: liquidación privada, anexos y pago dentro del calendario DIAN (aplica solo en el Escenario A)",
         "Bloque B — Envío de la información exógena AG2025 ante la DIAN: preparación, validaciones previas y presentación dentro del calendario oficial (aplica solo en el Escenario A)",
         "Bloque B — Soportes internos (papeles de trabajo) que respaldan cada cifra de la declaración y cada formato de exógena"
       ],
-      "nota": "En el Escenario B (ver tabla de inversión) el Bloque A se ejecuta igual y queda como insumo para que otro equipo presente la declaración de renta y envíe la información exógena. El Bloque B no se ejecuta por Capital Lab."
+      "nota": "En el Escenario B (ver tabla de inversión) el Bloque A se ejecuta igual — incluyendo la firma de los estados financieros por Capital Lab — y queda como insumo para que otro equipo presente la declaración de renta y envíe la información exógena. El Bloque B no se ejecuta por Capital Lab."
     },
     {
       "etiqueta": "Tu equipo dedicado",
@@ -41,18 +43,18 @@
       "cards": [
         {
           "etiqueta": "Auxiliar contable",
-          "titulo": "Consolidación de la información del ejercicio",
-          "texto": "Recopila, organiza y depura la información contable de todo el año. Prepara las bases para las conciliaciones y para los anexos de la declaración y de los formatos de exógena."
+          "titulo": "Consolidación y organización de la información 2025",
+          "texto": "Recopila, organiza y depura la información contable de todo el año. Prepara las bases para la revisión, los ajustes y los anexos de la declaración y de los archivos de exógena."
         },
         {
           "etiqueta": "Analista",
-          "titulo": "Conciliaciones, cierre y tributario",
-          "texto": "Ejecuta las conciliaciones de cierre y construye los estados financieros con sus notas. En el Escenario A, adicionalmente prepara la declaración de renta y los archivos de información exógena con todas sus validaciones previas."
+          "titulo": "Revisión, ajustes y armonización contable-fiscal",
+          "texto": "Ejecuta la revisión integral, identifica y procesa los ajustes necesarios, asegura la coherencia contable-fiscal, y construye los estados financieros con sus notas. En el Escenario A, adicionalmente prepara la declaración de renta y los archivos de información exógena con todas sus validaciones previas."
         },
         {
           "etiqueta": "Contador",
-          "titulo": "Revisión técnica, firma y presentación",
-          "texto": "Revisa integralmente el cierre y firma los estados financieros. En el Escenario A, adicionalmente firma y presenta la declaración de renta, envía la información exógena y acompaña cualquier interacción con la DIAN durante el proceso."
+          "titulo": "Revisión técnica, firma de EEFF y presentación fiscal",
+          "texto": "Revisa integralmente el trabajo del año, firma los estados financieros 2025 como contador público con validez para presentación ante entidades oficiales. En el Escenario A, adicionalmente firma y presenta la declaración de renta, envía la información exógena y acompaña cualquier interacción con la DIAN durante el proceso."
         }
       ],
       "nota": "Contratar este encargo junto con la Propuesta 1 (Contabilidad mensual) implica que un solo equipo opera la información a lo largo del año y la cierra, sin transferencias de conocimiento entre proveedores. En el Escenario A ese mismo equipo presenta la renta y envía la exógena; en el Escenario B entrega el cierre contable y el expediente listo para que otro equipo se encargue de la presentación."
@@ -69,7 +71,7 @@
         },
         {
           "titulo": "Ejecución",
-          "texto": "Conciliaciones de cierre, construcción de estados financieros y notas. En el Escenario A, adicionalmente: preparación, presentación de la declaración de renta AG2025 y envío de la información exógena AG2025, con todas sus validaciones previas.",
+          "texto": "Revisión de la información 2025, ajustes contables para cumplimiento de indicadores, armonización contable-fiscal, y construcción y firma de los estados financieros con sus notas. En el Escenario A, adicionalmente: preparación, presentación de la declaración de renta AG2025 y envío de la información exógena AG2025, con todas sus validaciones previas.",
           "tiempo": "Semanas 2 a 6"
         },
         {
