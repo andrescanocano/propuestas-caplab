@@ -27,7 +27,7 @@
       "items": [
         "Procesamiento mensual de información contable bajo NIIF para Pymes Grupo 2",
         "Revisión de balances y conciliaciones (disponible, cuentas por cobrar, cuentas por pagar, impuestos)",
-        "Gestión integral DIAN: declaraciones, retenciones, facturación electrónica",
+        "Gestión integral DIAN: declaraciones, retenciones e información oficial",
         "Planeación tributaria y optimización de la carga fiscal a lo largo del año",
         "Estados financieros mensuales bajo NIIF Pymes — Estado de Resultados, Situación Financiera, Flujo de Efectivo, Cambios en el Patrimonio",
         "Socialización de información tributaria y financiera de forma trimestral",
@@ -36,9 +36,15 @@
         "Equipo asignado: auxiliar contable, analista y contador (ver sección dedicada)",
         "Acceso y configuración de plataforma tecnológica para automatización",
         "Provisión de software contable para registro de la información",
-        "Dashboards ejecutivos con KPIs clave y análisis descriptivo con recomendaciones"
+        "Dashboards ejecutivos con KPIs clave y análisis descriptivo con recomendaciones",
+        "Liquidación mensual de nómina de todos los empleados (quincenal o mensual según política interna)",
+        "Liquidación de prestaciones sociales: prima de servicios, cesantías, intereses a las cesantías y vacaciones",
+        "Liquidación por terminación de contrato cuando aplique, incluyendo certificaciones de retiro",
+        "Generación de colillas o desprendibles de pago para cada empleado cada período",
+        "Liquidación y presentación mensual de la Planilla Integrada de Aportes a la Seguridad Social (PILA)",
+        "Generación y transmisión de la nómina electrónica ante la DIAN, cumpliendo la normativa vigente"
       ],
-      "nota": "La tarifa ya incluye los servicios anualizados: renovación de Cámara de Comercio, declaración de industria y comercio, y emisión de estados financieros anuales con notas. La declaración de renta y la información exógena se gestionan en una propuesta independiente (ver Propuesta 2)."
+      "nota": "La tarifa ya incluye los servicios anualizados: renovación de Cámara de Comercio, declaración de industria y comercio, y emisión de estados financieros anuales con notas. La presentación de la declaración de renta y el envío de información exógena se gestionan en una propuesta independiente (ver Propuesta 2)."
     },
     {
       "etiqueta": "Implementación",
@@ -50,6 +56,15 @@
         "Configuración de reenvíos automáticos desde tu correo corporativo hacia Capital Lab para recepción inmediata de facturas, notas crédito/débito y documentos soporte",
         "Sincronización DIAN automatizada: configuración del token DIAN hacia nuestros sistemas para sincronización constante y en tiempo real de tu información tributaria oficial",
         "Integración con entidades bancarias: gestión de usuarios de consulta en cuentas bancarias para conciliaciones precisas y control detallado de transacciones"
+      ]
+    },
+    {
+      "etiqueta": "Aclaraciones de alcance",
+      "titulo": "Dos puntos donde tu equipo y el nuestro se complementan",
+      "tipo": "texto",
+      "texto": [
+        "<strong>Facturación electrónica — la emite ELEPHAS, nosotros acompañamos.</strong> Por diseño y buena práctica, la emisión de las facturas electrónicas la hace directamente ELEPHAS desde su propia operación, porque eso mantiene el control comercial en tu equipo y evita dependencias operativas con un tercero. Lo que sí hacemos nosotros es el acompañamiento completo: configuración inicial ante la DIAN, capacitación al equipo que emitirá las facturas, resolución de dudas tributarias y operativas, y soporte continuo ante cualquier inconveniente con el proveedor tecnológico de facturación.",
+        "<strong>Afiliaciones al sistema de Seguridad Social — con un aliado especializado.</strong> Las afiliaciones a EPS, AFP, ARL y Caja de Compensación de empleados nuevos se gestionan a través de nuestro aliado especializado en este tipo de trámites. El costo es variable por evento y, en promedio, está entre $40.000 y $70.000 por empleado nuevo. Nosotros coordinamos el proceso de principio a fin para que ELEPHAS no tenga que interactuar directamente con el aliado, y la afiliación queda debidamente documentada en el expediente del empleado."
       ]
     },
     {
@@ -149,9 +164,10 @@
       "tipo": "lista",
       "titulo": "Lo que NO incluye este servicio",
       "items": [
-        "× Declaración de renta anual e información exógena — ver Propuesta 2 (Cierre 2025 + Renta + Exógena)",
+        "× Presentación de la declaración de renta y envío de información exógena — ver Propuesta 2 (Cierre 2025 + Renta + Exógena)",
         "× Revisoría fiscal — ver Propuesta 3 (Revisoría Fiscal)",
-        "× Administración de nómina y seguridad social — se cotiza como servicio independiente",
+        "× Emisión directa de la facturación electrónica (la emite ELEPHAS desde su propia operación; nosotros configuramos, capacitamos y damos soporte continuo — ver sección Aclaraciones de alcance)",
+        "× Afiliaciones directas al sistema de Seguridad Social (se gestionan con nuestro aliado especializado, costo variable aprox. $40.000–$70.000 por empleado nuevo — ver sección Aclaraciones de alcance)",
         "× Representación ante la DIAN en procesos de fiscalización ya abiertos a la fecha de firma",
         "× Peritajes, valoraciones de empresa y auditorías forenses",
         "× Puesta a punto de información contable de períodos anteriores"
@@ -165,12 +181,11 @@
         {
           "titulo": "Capital Lab — Servicios complementarios",
           "items": [
-            "Nómina electrónica y liquidación de prestaciones",
             "Revisoría fiscal",
             "Valoración de empresas",
             "Auditoría interna",
             "Requerimientos de entidades oficiales",
-            "Afiliaciones al sistema de seguridad social"
+            "Planeación tributaria puntual y consultorías específicas"
           ]
         },
         {
