@@ -1,0 +1,92 @@
+{
+  "titulo": "Capital Lab — Revisoría Fiscal",
+  "fecha": "15 de abril de 2026",
+  "referencia": "PROP-2026-006",
+  "titulo_hero": "Revisoría fiscal que acompaña, verifica y respalda",
+  "subtitulo": "Preparada para ELEPHAS S.A.S.",
+  "contacto_nombre": "Andrés Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "La tranquilidad de decidir bien",
+  "cta_texto": "La revisoría fiscal es un tercero que mira con rigor y habla claro. Definimos el alcance, formalizamos la designación en asamblea y arrancamos.",
+  "secciones": [
+    {
+      "etiqueta": "Obligatoriedad",
+      "titulo": "Por qué ELEPHAS requiere revisor fiscal",
+      "tipo": "texto",
+      "texto": [
+        "Por el tamaño actual de la compañía, ELEPHAS S.A.S. está obligada a contar con revisor fiscal según el artículo 203 del Código de Comercio: toda sociedad cuyos activos brutos superen 5.000 SMMLV o cuyos ingresos brutos superen 3.000 SMMLV al cierre del ejercicio anterior debe designar revisor fiscal.",
+        "Cumplir con esa obligación no es un trámite: implica contar con un contador público externo que vigile los estados financieros, los dictamine, rinda informes a la asamblea, se pronuncie sobre cualquier asunto relevante y acompañe el cumplimiento general de las normas aplicables.",
+        "Esta propuesta cubre exactamente ese encargo bajo el modelo estándar de la Ley 43 de 1990."
+      ]
+    },
+    {
+      "etiqueta": "Alcance",
+      "tipo": "checklist",
+      "titulo": "Qué incluye la revisoría fiscal",
+      "items": [
+        "Vigilancia permanente de los estados financieros y de los procesos contables y de control interno",
+        "Dictamen anual sobre los estados financieros de ELEPHAS S.A.S.",
+        "Informes a la asamblea ordinaria de accionistas y, cuando aplique, a la junta directiva",
+        "Pronunciamientos formales ante asuntos relevantes detectados durante el ejercicio",
+        "Verificación del cumplimiento de obligaciones tributarias, laborales y societarias",
+        "Acompañamiento en actas de asamblea y en actas de órganos sociales cuando se requiera intervención del revisor fiscal",
+        "Atención a requerimientos de entidades de vigilancia y control relacionados con el rol del revisor fiscal"
+      ]
+    },
+    {
+      "etiqueta": "Modelo de contratación",
+      "tipo": "texto",
+      "titulo": "Cómo se contrata y se factura",
+      "texto": [
+        "La revisoría fiscal es un servicio personal de un contador público con tarjeta profesional vigente. Se contrata directamente con la persona natural designada como revisor fiscal y con su respectivo suplente, no con Capital Lab S.A.S. como persona jurídica.",
+        "La facturación del servicio se realiza mediante cuenta de cobro emitida por el revisor fiscal a nombre personal, no mediante factura electrónica.",
+        "Los honorarios de revisoría fiscal prestados por una persona natural contador público no son responsables de IVA cuando el contador no está inscrito como responsable de este impuesto, conforme al artículo 437 del Estatuto Tributario.",
+        "Firmante: contador público con tarjeta profesional vigente dentro del ecosistema Capital Lab. Los datos específicos del revisor fiscal y de su suplente se confirman y formalizan en el acta de designación al momento del onboarding, como parte de los requisitos societarios habituales para iniciar el encargo."
+      ]
+    },
+    {
+      "etiqueta": "Inversión",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversión",
+      "columnas": ["Concepto", "Valor mensual"],
+      "filas": [
+        ["Honorarios de revisoría fiscal (persona natural)", "$1.000.000"],
+        ["IVA", "No aplica"],
+        ["Total mensual", "$1.000.000"]
+      ],
+      "nota": "<strong>Facturación:</strong> cuenta de cobro a nombre del contador público designado como revisor fiscal, no factura electrónica de Capital Lab.<br><br><strong>Formalización:</strong> la designación del revisor fiscal y de su suplente debe aprobarse en la asamblea ordinaria de accionistas de ELEPHAS S.A.S. y registrarse ante la Cámara de Comercio.<br><br><strong>Vigencia:</strong> esta propuesta tiene vigencia de 30 días calendario."
+    },
+    {
+      "etiqueta": "Lo que no incluye",
+      "tipo": "lista",
+      "titulo": "Lo que NO incluye este servicio",
+      "items": [
+        "× Contabilidad mensual, tributaria y financiera — ver Propuesta 1 (Contabilidad, Tributaria y Financiera)",
+        "× Cierre contable, declaración de renta e información exógena — ver Propuesta 2 (Cierre 2025 + Renta + Exógena)",
+        "× Asesoría tributaria ordinaria y planeación fiscal (se cubre en el CTF)",
+        "× Representación en procesos de fiscalización ya abiertos con anterioridad a la designación del revisor fiscal",
+        "× Auditorías financieras para terceros (otro encargo, otra propuesta)"
+      ]
+    },
+    {
+      "etiqueta": "Independencia",
+      "tipo": "texto",
+      "titulo": "Contratable por separado",
+      "texto": [
+        "Esta propuesta es independiente de la Propuesta 1 (Contabilidad mensual) y de la Propuesta 2 (Cierre 2025 + Renta + Exógena). Puede contratarse sola.",
+        "Cuando se contrata junto con las otras dos, se mantiene la independencia profesional exigida por la norma: la revisoría fiscal es ejercida por un contador público en su calidad personal, con sus propios papeles de trabajo y su propio criterio, sobre una contabilidad que prepara otro equipo."
+      ]
+    },
+    {
+      "etiqueta": "Marco legal",
+      "tipo": "texto",
+      "titulo": "Cláusulas",
+      "texto": [
+        "Confidencialidad — El revisor fiscal designado y ELEPHAS S.A.S. se comprometen a guardar absoluta confidencialidad y reserva sobre toda la información a la que se tenga acceso en virtud de esta propuesta y durante la prestación del encargo, en el marco del secreto profesional consagrado en la Ley 43 de 1990.",
+        "Tratamiento de datos personales — ELEPHAS S.A.S. autoriza el tratamiento de los datos personales necesarios para la ejecución del encargo de revisoría fiscal, de conformidad con la normatividad vigente.",
+        "Formalización — Para efectos de iniciar el encargo se suscriben: (1) acta de designación de revisor fiscal y suplente aprobada por la asamblea de accionistas, (2) inscripción de la designación en la Cámara de Comercio y (3) contrato de prestación de servicios profesionales entre el revisor fiscal (persona natural) y ELEPHAS S.A.S."
+      ]
+    }
+  ]
+}

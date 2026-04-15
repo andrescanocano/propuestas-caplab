@@ -1,0 +1,212 @@
+{
+  "titulo": "Capital Lab — Propuesta de Servicios Contables, Tributarios y Financieros",
+  "fecha": "15 de abril de 2026",
+  "referencia": "PROP-2026-004",
+  "titulo_hero": "Una estructura contable a la altura del crecimiento de tu operación",
+  "subtitulo": "Preparada para ELEPHAS S.A.S.",
+  "contacto_nombre": "Andrés Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "La tranquilidad de decidir bien",
+  "cta_texto": "Una operación que casi duplicó sus ingresos en un año necesita más que un buen contador: necesita un equipo, una plataforma y un método. Hablemos y definimos el arranque.",
+  "secciones": [
+    {
+      "etiqueta": "Tu operación",
+      "titulo": "Un negocio que crece rápido necesita contabilidad que escale con él",
+      "tipo": "texto",
+      "texto": [
+        "ELEPHAS casi duplicó sus ingresos en el último año. Ese crecimiento es buena noticia, pero también cambia por completo la exigencia contable, tributaria y formal sobre la compañía: más documentos por mes, más retenciones que gestionar, nuevos topes que se cruzan, obligaciones formales que antes no aplicaban y menos margen de error ante la DIAN.",
+        "Una estructura que funcionaba bien hace dos años, cuando la operación era la mitad del tamaño, hoy deja expuestos frentes críticos: cumplimiento oportuno, consistencia de la información entre áreas, calidad de los estados financieros que soportan decisiones, y claridad frente a terceros (bancos, clientes, aliados) que miran los números antes de confiar.",
+        "Capital Lab no es una firma contable que usa tecnología. Somos una empresa de tecnología contable que traduce tus datos en decisiones. Nuestro modelo combina plataforma propia, equipo dedicado y método probado en 31+ clientes sin una sola sanción DIAN en todo el portafolio."
+      ]
+    },
+    {
+      "etiqueta": "Servicios incluidos",
+      "tipo": "checklist",
+      "titulo": "Todo lo que necesitás, nada que no",
+      "items": [
+        "Procesamiento mensual de información contable bajo NIIF para Pymes Grupo 2",
+        "Revisión de balances y conciliaciones (disponible, cuentas por cobrar, cuentas por pagar, impuestos)",
+        "Gestión integral DIAN: declaraciones, retenciones, facturación electrónica",
+        "Planeación tributaria y optimización de la carga fiscal a lo largo del año",
+        "Estados financieros mensuales bajo NIIF Pymes — Estado de Resultados, Situación Financiera, Flujo de Efectivo, Cambios en el Patrimonio",
+        "Socialización de información tributaria y financiera de forma trimestral",
+        "Consultas ilimitadas con los profesionales de Capital Lab, sujetas a disponibilidad",
+        "Consultas ilimitadas vía WhatsApp para preguntas cortas",
+        "Equipo asignado: auxiliar contable, analista y contador (ver sección dedicada)",
+        "Acceso y configuración de plataforma tecnológica para automatización",
+        "Provisión de software contable para registro de la información",
+        "Dashboards ejecutivos con KPIs clave y análisis descriptivo con recomendaciones"
+      ],
+      "nota": "La tarifa ya incluye los servicios anualizados: renovación de Cámara de Comercio, declaración de industria y comercio, y emisión de estados financieros anuales con notas. La declaración de renta y la información exógena se gestionan en una propuesta independiente (ver Propuesta 2)."
+    },
+    {
+      "etiqueta": "Implementación",
+      "tipo": "checklist",
+      "titulo": "Configuración tecnológica desde el día uno",
+      "items": [
+        "Gestión 100% digital de eventos contables: implementación completa de eventos electrónicos mediante nuestra plataforma, asegurando un flujo automatizado y centralizado",
+        "Licenciamiento de software contable: asignación y configuración de licencia en el software usado por Capital Lab para procesamiento y registro",
+        "Configuración de reenvíos automáticos desde tu correo corporativo hacia Capital Lab para recepción inmediata de facturas, notas crédito/débito y documentos soporte",
+        "Sincronización DIAN automatizada: configuración del token DIAN hacia nuestros sistemas para sincronización constante y en tiempo real de tu información tributaria oficial",
+        "Integración con entidades bancarias: gestión de usuarios de consulta en cuentas bancarias para conciliaciones precisas y control detallado de transacciones"
+      ]
+    },
+    {
+      "etiqueta": "Proceso",
+      "tipo": "fases",
+      "titulo": "Cómo funciona",
+      "fases": [
+        {
+          "titulo": "Diagnóstico y onboarding",
+          "texto": "Diagnóstico integral de la operación: procesos contables actuales, dinámicas administrativas, particularidades de tu modelo de negocio y puntos de mejora inmediatos. Configuramos toda la infraestructura tecnológica, asignamos formalmente al equipo dedicado y definimos la estructura contable óptima para ELEPHAS.",
+          "tiempo": "2–4 semanas"
+        },
+        {
+          "titulo": "Operación continua",
+          "texto": "Información contable actualizada en tiempo real. Procesamiento automático de documentos electrónicos, ciclos semanales de causación y depuración. Al cierre de cada mes, invertimos máximo 3 días hábiles en conciliar, completar el procesamiento e iniciar la emisión de reportes.",
+          "tiempo": "Mensual"
+        },
+        {
+          "titulo": "Información para decidir",
+          "texto": "Borradores de declaraciones tributarias con suficiente antelación para tu planificación financiera. Posterior a aprobación: dashboard ejecutivo con KPIs clave, análisis descriptivo con recomendaciones estratégicas y reportes financieros completos.",
+          "tiempo": "Trimestral"
+        }
+      ]
+    },
+    {
+      "etiqueta": "Lo que cubrimos",
+      "tipo": "lista",
+      "titulo": "Lo que cubrimos por el tamaño y la complejidad de tu operación",
+      "items": [
+        "Volumen alto de documentos electrónicos cada mes: causación, revisión y conciliación sin cuellos de botella",
+        "Retenciones múltiples a gestionar (renta, IVA, ICA) y certificados asociados, con trazabilidad completa",
+        "Estados financieros bajo NIIF para Pymes Grupo 2, con notas suficientes para soportar decisiones y conversaciones con terceros",
+        "Cumplimiento oportuno de todas las obligaciones formales DIAN, con borradores mínimo 3 días antes de cada vencimiento",
+        "Cruces periódicos entre la información reportada a la DIAN y la contabilidad, para evitar diferencias y sanciones antes de que aparezcan"
+      ]
+    },
+    {
+      "etiqueta": "Tu equipo dedicado",
+      "tipo": "cards",
+      "titulo": "Tres roles trabajando sobre tu cuenta",
+      "cards": [
+        {
+          "etiqueta": "Auxiliar contable",
+          "titulo": "Procesamiento diario de la información",
+          "texto": "Carga y causación de documentos electrónicos, conciliaciones operativas, seguimiento a la integridad de la información y soporte al día a día. Es el primer punto de contacto para la operación rutinaria."
+        },
+        {
+          "etiqueta": "Analista",
+          "titulo": "Revisión, impuestos y estados financieros",
+          "texto": "Revisión de causaciones, liquidación de impuestos mensuales, construcción de estados financieros, cruces DIAN y control de calidad. Es el responsable técnico de que la información llegue lista para decisiones."
+        },
+        {
+          "etiqueta": "Contador",
+          "titulo": "Supervisión, firma e interlocución estratégica",
+          "texto": "Supervisión integral del proceso, firma de estados financieros y declaraciones, planeación tributaria e interlocución directa con la gerencia. Es quien responde por la operación contable ante cualquier instancia."
+        }
+      ],
+      "nota": "Los tres roles trabajan sobre tu cuenta de forma continua. Los nombres específicos del equipo asignado se confirman en el kickoff del onboarding."
+    },
+    {
+      "etiqueta": "Diferenciales",
+      "tipo": "cards",
+      "titulo": "Por qué Capital Lab",
+      "cards": [
+        {
+          "etiqueta": "Tecnología propia",
+          "titulo": "Automatización real, no discurso",
+          "texto": "Nuestra plataforma automatiza hasta el 90% de los eventos electrónicos, se conecta directamente con la DIAN y procesa información de forma automática. Reducción del 50% en tiempos de respuesta frente al mercado contable tradicional. Acceso a software contable y herramientas tech sin inversión inicial — todo incluido en la tarifa."
+        },
+        {
+          "etiqueta": "Cero multas",
+          "titulo": "31+ clientes, 4 ciudades, cero sanciones",
+          "texto": "Firma registrada ante la Junta Central de Contadores con tarjeta profesional como persona jurídica. Borradores tributarios mínimo 3 días antes de cada vencimiento. Dashboards ejecutivos, análisis descriptivo y reportes financieros para decidir — no solo números. En todo nuestro portafolio, el número de multas por incumplimiento es cero."
+        },
+        {
+          "etiqueta": "Equipo, no freelance",
+          "titulo": "Auxiliar, analista y contador por el costo de uno",
+          "texto": "Equipo multidisciplinario trabajando sobre tu operación. Nuestro servicio representa una fracción de lo que costaría mantener un equipo interno con las mismas capacidades. No es un freelance — es un equipo que no se enferma, no se va de vacaciones y no pierde tu información."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Inversión",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversión",
+      "columnas": ["Concepto", "Valor mensual"],
+      "filas": [
+        ["Gestión contable, tributaria y financiera", "$4.500.000"],
+        ["IVA (19%)", "$855.000"],
+        ["Total mensual", "$5.355.000"],
+        ["Software contable y plataforma tecnológica (incluido)", "$0"]
+      ],
+      "nota": "<strong>Forma de pago sugerida:</strong> anticipado mensual.<br><br><strong>Revisión anual:</strong> la tarifa se revisa una vez al año con base en los ingresos del ejercicio cerrado, con un tope de ajuste del ±25%.<br><br><strong>Servicios adicionales</strong> (planeación tributaria puntual, consultorías específicas, auditorías internas, entre otros) se cotizan aparte."
+    },
+    {
+      "etiqueta": "Lo que no incluye",
+      "tipo": "lista",
+      "titulo": "Lo que NO incluye este servicio",
+      "items": [
+        "× Declaración de renta anual e información exógena — ver Propuesta 2 (Cierre 2025 + Renta + Exógena)",
+        "× Revisoría fiscal — ver Propuesta 3 (Revisoría Fiscal)",
+        "× Administración de nómina y seguridad social — se cotiza como servicio independiente",
+        "× Representación ante la DIAN en procesos de fiscalización ya abiertos a la fecha de firma",
+        "× Peritajes, valoraciones de empresa y auditorías forenses",
+        "× Puesta a punto de información contable de períodos anteriores"
+      ]
+    },
+    {
+      "etiqueta": "Servicios adicionales",
+      "tipo": "dos_columnas",
+      "titulo": "Más allá de la contabilidad",
+      "columnas": [
+        {
+          "titulo": "Capital Lab — Servicios complementarios",
+          "items": [
+            "Nómina electrónica y liquidación de prestaciones",
+            "Revisoría fiscal",
+            "Valoración de empresas",
+            "Auditoría interna",
+            "Requerimientos de entidades oficiales",
+            "Afiliaciones al sistema de seguridad social"
+          ]
+        },
+        {
+          "titulo": "DoClick — Partner legal aliado",
+          "items": [
+            "Trámites societarios y reformas",
+            "Asesoría legal empresarial",
+            "Acompañamiento ante Cámara de Comercio",
+            "Contratos comerciales y laborales",
+            "Reconocidos Highly Recommended por Leaders League 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "etiqueta": "Condiciones",
+      "tipo": "lista",
+      "titulo": "Condiciones y notas",
+      "items": [
+        "La relación comercial se da por iniciada con el pago del primer mes y la firma del contrato que detalla las obligaciones de cada parte",
+        "Las tarifas están indexadas al salario mínimo legal vigente y se ajustan anualmente en la misma proporción, más unos puntos porcentuales",
+        "La estructura de costos está vinculada al volumen de información y al nivel de ingresos. Cualquier cambio considerable requiere revisión del fee mensual dentro del tope del ±25% anual",
+        "La adecuada prestación del servicio está condicionada a la entrega correcta, completa y oportuna de la información contable. Contás con el apoyo del equipo y el ecosistema tecnológico completo para que este proceso sea natural",
+        "Esta propuesta tiene vigencia de 30 días calendario"
+      ]
+    },
+    {
+      "etiqueta": "Marco legal",
+      "tipo": "texto",
+      "titulo": "Cláusulas",
+      "texto": [
+        "Confidencialidad — ELEPHAS S.A.S. y Capital Lab S.A.S. se comprometen a guardar absoluta confidencialidad y reserva sobre toda la información a la que tengan acceso en virtud de esta propuesta, su negociación, aceptación y la prestación del servicio. Las condiciones específicas serán reguladas en el contrato de prestación de servicios.",
+        "Encargo de datos personales — Durante la prestación del servicio, Capital Lab actúa como Encargado del tratamiento de datos personales de terceros proporcionados por el cliente (Responsable), quien garantiza haber obtenido autorización de los titulares. Capital Lab usará los datos únicamente para la prestación de los servicios contratados y los suprimirá de sus sistemas al terminar la relación.",
+        "Tratamiento de datos personales — ELEPHAS S.A.S. autoriza a Capital Lab S.A.S. a realizar el tratamiento de sus datos personales de conformidad con la normatividad vigente y la Política de Protección y Tratamiento de Datos Personales, accesible en caplab.com.co/tratamiento-de-datos.",
+        "Formalización — Para efectos de formalizar la relación comercial se acuerda suscribir: (1) contrato de prestación de servicios, (2) contrato de encargo de datos personales y (3) política de protección y tratamiento de datos personales."
+      ]
+    }
+  ]
+}

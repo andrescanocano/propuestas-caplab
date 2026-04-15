@@ -1,0 +1,127 @@
+{
+  "titulo": "Capital Lab — Cierre 2025, Declaración de Renta AG2025 e Información Exógena",
+  "fecha": "15 de abril de 2026",
+  "referencia": "PROP-2026-005",
+  "titulo_hero": "Cerremos bien el 2025 y dejemos la renta y la exógena impecables",
+  "subtitulo": "Preparada para ELEPHAS S.A.S.",
+  "contacto_nombre": "Andrés Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "La tranquilidad de decidir bien",
+  "cta_texto": "Un cierre bien hecho vale por todo el año que viene. Confirmemos el alcance, agendamos el kickoff y arrancamos.",
+  "secciones": [
+    {
+      "etiqueta": "El encargo",
+      "titulo": "Cierre del ejercicio 2025, renta y exógena",
+      "tipo": "texto",
+      "texto": [
+        "Esta propuesta cubre el cierre del ejercicio contable 2025 de ELEPHAS S.A.S. bajo NIIF para Pymes Grupo 2, la preparación y presentación de la declaración de renta del año gravable 2025, y la información exógena ante la DIAN correspondiente al mismo año — cuando aplique según la Resolución vigente.",
+        "El cierre de un ejercicio con el tamaño de ELEPHAS no es un trámite. Es el momento en que se consolidan las decisiones contables del año, se definen las bases para los impuestos, se exponen o se resuelven los riesgos, y se deja lista la información que soporta la operación del año siguiente frente a bancos, clientes y autoridades.",
+        "Lo ejecuta el mismo equipo que lleva tu contabilidad mensual. Eso elimina reprocesos, diferencias de criterio y pérdida de contexto entre un proveedor que hace el día a día y otro que cierra el año."
+      ]
+    },
+    {
+      "etiqueta": "Qué entregamos",
+      "tipo": "checklist",
+      "titulo": "Tres bloques, un solo encargo",
+      "items": [
+        "Bloque A — Cierre contable 2025: estados financieros completos bajo NIIF para Pymes Grupo 2 (Situación Financiera, Resultados, Cambios en el Patrimonio, Flujos de Efectivo) con sus notas y certificaciones",
+        "Bloque A — Conciliaciones de cierre: bancos, cuentas por cobrar, cuentas por pagar, impuestos, inventarios y propiedad, planta y equipo",
+        "Bloque A — Conciliación contable/fiscal como soporte técnico del año gravable",
+        "Bloque B — Declaración de Renta AG2025: formulario 110, anexos y liquidación privada, con análisis de los pagos anticipados, saldos a favor y estrategia de pago",
+        "Bloque B — Soportes internos (papeles de trabajo) que respaldan cada renglón de la declaración",
+        "Bloque C (condicional) — Información exógena AG2025: formatos DIAN 1001, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011 y 1012 según obligaciones",
+        "Bloque C (condicional) — Validación previa de inconsistencias y presentación oficial ante la DIAN dentro del calendario vigente"
+      ],
+      "nota": "Si en el kickoff se confirma que ELEPHAS no está obligada a presentar información exógena AG2025, el Bloque C no se ejecuta y el valor de la propuesta se ajusta al escenario B de la tabla de inversión."
+    },
+    {
+      "etiqueta": "Tu equipo dedicado",
+      "tipo": "cards",
+      "titulo": "El mismo equipo que lleva tu operación mensual",
+      "cards": [
+        {
+          "etiqueta": "Auxiliar contable",
+          "titulo": "Consolidación de la información del ejercicio",
+          "texto": "Recopila, organiza y depura la información contable de todo el año. Prepara las bases para las conciliaciones y para los anexos de la declaración y de los formatos de exógena."
+        },
+        {
+          "etiqueta": "Analista",
+          "titulo": "Conciliaciones, liquidación y formatos",
+          "texto": "Ejecuta las conciliaciones de cierre, construye los estados financieros con sus notas, liquida la declaración de renta y prepara los formatos de información exógena con todas sus validaciones previas."
+        },
+        {
+          "etiqueta": "Contador",
+          "titulo": "Revisión técnica, firma y presentación",
+          "texto": "Revisa integralmente el cierre, firma los estados financieros y la declaración, presenta la exógena y acompaña cualquier interacción con la DIAN durante el proceso."
+        }
+      ],
+      "nota": "Contratar este encargo junto con la Propuesta 1 (Contabilidad mensual) implica que un solo equipo opera la información a lo largo del año y la cierra, sin transferencias de conocimiento entre proveedores."
+    },
+    {
+      "etiqueta": "Timeline",
+      "tipo": "fases",
+      "titulo": "Cómo lo ejecutamos",
+      "fases": [
+        {
+          "titulo": "Kickoff y levantamiento",
+          "texto": "Reunión de arranque, acceso a la información, inventario de pendientes, validación de la obligatoriedad de exógena y confirmación del escenario A o B de la tabla de inversión. Firma del encargo.",
+          "tiempo": "Semana 1"
+        },
+        {
+          "titulo": "Ejecución",
+          "texto": "Conciliaciones de cierre, construcción de estados financieros y notas, liquidación de la declaración de renta y armado de los formatos de información exógena con sus validaciones previas.",
+          "tiempo": "Semanas 2 a 6"
+        },
+        {
+          "titulo": "Entrega, firma y presentación",
+          "texto": "Revisión final, socialización con la gerencia, firma de estados financieros y declaración, presentación oficial ante la DIAN dentro del calendario vigente y entrega del expediente completo.",
+          "tiempo": "Según calendario DIAN"
+        }
+      ]
+    },
+    {
+      "etiqueta": "Inversión",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversión — dos escenarios",
+      "columnas": ["Escenario", "Valor", "IVA (19%)", "Total"],
+      "filas": [
+        ["A — Con exógena (si ELEPHAS está obligada Art. 631 E.T. AG2025)", "$17.500.000", "$3.325.000", "$20.825.000"],
+        ["B — Sin exógena (si no aplica obligatoriedad en el año)", "$15.000.000", "$2.850.000", "$17.850.000"]
+      ],
+      "nota": "<strong>Determinación del escenario:</strong> la obligatoriedad de información exógena AG2025 se define con base en los topes de la Resolución DIAN vigente (ingresos brutos, ingresos netos y patrimonio bruto a 31-dic-2024). Con los ingresos actuales de ELEPHAS es altamente probable que aplique el escenario A, pero el valor final se confirma en el kickoff y queda documentado en el acta de arranque.<br><br><strong>Forma de pago sugerida:</strong> 50% al aceptar la propuesta, 50% contra entrega final del expediente.<br><br><strong>Vigencia:</strong> esta propuesta tiene vigencia de 30 días calendario."
+    },
+    {
+      "etiqueta": "Lo que no incluye",
+      "tipo": "lista",
+      "titulo": "Lo que NO incluye este servicio",
+      "items": [
+        "× Contabilidad mensual recurrente — ver Propuesta 1 (Contabilidad, Tributaria y Financiera)",
+        "× Revisoría fiscal — ver Propuesta 3 (Revisoría Fiscal)",
+        "× Reconstrucción o ajustes profundos de ejercicios anteriores a 2025",
+        "× Representación ante la DIAN en procesos de fiscalización ya abiertos a la fecha de firma",
+        "× Certificaciones, dictámenes o auditorías que requieran la intervención de un revisor fiscal"
+      ]
+    },
+    {
+      "etiqueta": "Independencia",
+      "tipo": "texto",
+      "titulo": "Contratable por separado",
+      "texto": [
+        "Este encargo es independiente de la Propuesta 1 (Contabilidad mensual) y de la Propuesta 3 (Revisoría Fiscal). Puede contratarse solo, o en conjunto con las otras dos.",
+        "Si se contrata junto con la Propuesta 1, el mismo equipo ejecuta el día a día y el cierre, lo que agiliza tiempos, reduce reprocesos y asegura coherencia entre la información mensual y el cierre anual."
+      ]
+    },
+    {
+      "etiqueta": "Marco legal",
+      "tipo": "texto",
+      "titulo": "Cláusulas",
+      "texto": [
+        "Confidencialidad — ELEPHAS S.A.S. y Capital Lab S.A.S. se comprometen a guardar absoluta confidencialidad y reserva sobre toda la información a la que tengan acceso en virtud de esta propuesta, su negociación, aceptación y la prestación del servicio. Las condiciones específicas serán reguladas en el contrato de prestación de servicios.",
+        "Encargo de datos personales — Durante la prestación del servicio, Capital Lab actúa como Encargado del tratamiento de datos personales de terceros proporcionados por el cliente (Responsable), quien garantiza haber obtenido autorización de los titulares. Capital Lab usará los datos únicamente para la prestación de los servicios contratados y los suprimirá de sus sistemas al terminar la relación.",
+        "Tratamiento de datos personales — ELEPHAS S.A.S. autoriza a Capital Lab S.A.S. a realizar el tratamiento de sus datos personales de conformidad con la normatividad vigente y la Política de Protección y Tratamiento de Datos Personales, accesible en caplab.com.co/tratamiento-de-datos.",
+        "Formalización — Para efectos de formalizar la relación comercial se acuerda suscribir: (1) contrato de prestación de servicios, (2) contrato de encargo de datos personales y (3) política de protección y tratamiento de datos personales."
+      ]
+    }
+  ]
+}
