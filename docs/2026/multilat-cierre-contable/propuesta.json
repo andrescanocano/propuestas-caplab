@@ -1,0 +1,116 @@
+{
+  "titulo": "Capital Lab — Acompañamiento Contable para el Cierre de Multilat S.A.S",
+  "fecha": "5 de mayo de 2026",
+  "referencia": "PROP-2026-008",
+  "titulo_hero": "Cerremos la información contable y tributaria de Multilat con la misma rigurosidad de siempre",
+  "subtitulo": "Preparada para Multilat S.A.S — NIT 901.746.287-7",
+  "contacto_nombre": "Andres Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "El componente contable del cierre, hecho por el equipo que ya conoce a Multilat",
+  "cta_texto": "Si optan por contratar el componente legal con otro proveedor, este encargo entrega todo lo contable y tributario listo y firmado, para que el proceso de liquidación legal se ejecute sin fricciones.",
+  "secciones": [
+    {
+      "etiqueta": "El momento",
+      "titulo": "Acompañamos la parte contable y tributaria del cierre",
+      "tipo": "texto",
+      "texto": [
+        "Esta propuesta cubre el <strong>componente contable y tributario</strong> del cierre de Multilat S.A.S — la preparación, normalización y formalización de la información financiera del ejercicio, los estados financieros de liquidación firmados por contador público, la última declaración de renta y la cesación de actividades ante la DIAN.",
+        "Multilat ha sido un cliente activo de Capital Lab y agradecemos la confianza durante este tiempo. Esta versión de la propuesta es para los casos en los que <strong>el componente legal y societario</strong> de la liquidación (acta de disolución, acta de liquidación, trámites ante la Cámara de Comercio y avisos de ley) <strong>se contrata con otro proveedor</strong>.",
+        "Capital Lab entrega toda la información contable y tributaria normalizada, los estados financieros firmados como insumo para el liquidador y el cumplimiento fiscal cerrado, para que el proveedor legal ejecute la liquidación sin sobresaltos."
+      ]
+    },
+    {
+      "etiqueta": "Qué entregamos",
+      "tipo": "checklist",
+      "titulo": "Alcance del componente contable",
+      "items": [
+        "Normalización y preparación contable de la información para el cierre",
+        "Estados financieros de liquidación firmados por contador público de Capital Lab, con validez para presentación ante Cámara de Comercio, DIAN y terceros",
+        "Última declaración de renta del periodo y trámite de cesación de actividades ante la DIAN (cancelación del RUT)",
+        "Acompañamiento contable mensual durante el proceso (operación corriente hasta la firma del acta de liquidación)",
+        "Soporte al liquidador y al proveedor legal durante el proceso: aclaraciones, generación de soportes y atención de requerimientos de Cámara de Comercio y DIAN"
+      ]
+    },
+    {
+      "etiqueta": "Tu equipo dedicado",
+      "tipo": "cards",
+      "titulo": "El mismo equipo que ha llevado la operación de Multilat",
+      "cards": [
+        {
+          "etiqueta": "Auxiliar contable",
+          "titulo": "Consolidación y normalización de la información",
+          "texto": "Recopila, organiza y depura la información contable del periodo. Prepara las bases para la revisión, los ajustes finales y la información que respalda los estados financieros de liquidación."
+        },
+        {
+          "etiqueta": "Analista",
+          "titulo": "Cierre contable y cumplimiento fiscal",
+          "texto": "Ejecuta los ajustes finales, asegura la coherencia contable-fiscal, construye los estados financieros de liquidación con sus notas y prepara la última declaración de renta y el trámite de cesación de actividades."
+        },
+        {
+          "etiqueta": "Contador",
+          "titulo": "Firma de EEFF y presentación fiscal",
+          "texto": "Revisa integralmente el trabajo, firma los estados financieros de liquidación como contador público con validez para presentación ante entidades oficiales, firma y presenta la declaración de renta y acompaña la cesación de actividades ante la DIAN."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Timeline",
+      "tipo": "fases",
+      "titulo": "Cómo lo ejecutamos",
+      "fases": [
+        {
+          "titulo": "Kickoff y preparación",
+          "texto": "Reunión de arranque, confirmación del alcance, levantamiento de pendientes y arranque de la normalización contable. Firma del encargo.",
+          "tiempo": "Semanas 1 a 2"
+        },
+        {
+          "titulo": "Cierre y cumplimiento fiscal",
+          "texto": "Estados financieros de liquidación firmados, última declaración de renta presentada y cesación de actividades ante la DIAN tramitada.",
+          "tiempo": "Semanas 3 a 6"
+        },
+        {
+          "titulo": "Soporte al proceso legal",
+          "texto": "Acompañamiento al liquidador y al proveedor legal hasta el registro del acta de liquidación ante la Cámara de Comercio: aclaraciones, soportes y atención de requerimientos.",
+          "tiempo": "Hasta el cierre legal"
+        }
+      ]
+    },
+    {
+      "etiqueta": "Inversión",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversión",
+      "columnas": ["Concepto", "Valor"],
+      "filas": [
+        ["Acompañamiento contable — valor base", "$1.750.000 + IVA"],
+        ["Descuento cliente activo (20%)", "− $350.000"],
+        ["<strong>Acompañamiento contable — valor final</strong>", "<strong>$1.400.000 + IVA</strong>"]
+      ],
+      "nota": "<strong>Aplicamos un descuento del 20% por su condición de cliente activo de Capital Lab.</strong><br><br><strong>Forma de pago:</strong> 50% al aceptar la propuesta y 50% contra entrega de los estados financieros de liquidación.<br><br><strong>Vigencia:</strong> esta propuesta tiene vigencia de 30 días calendario."
+    },
+    {
+      "etiqueta": "Lo que no incluye",
+      "tipo": "lista",
+      "titulo": "Lo que NO incluye este servicio",
+      "items": [
+        "× Componente legal y societario de la liquidación (acta de disolución, acta de liquidación, trámites ante la Cámara de Comercio, avisos de ley en prensa, derecho de petición ante la DIAN)",
+        "× Tasas registrales y gastos notariales asociados al proceso legal",
+        "× Reconstrucción contable de ejercicios anteriores no contemplados en la operación recurrente",
+        "× Representación ante la DIAN en procesos de fiscalización o requerimientos abiertos a la fecha de firma del encargo",
+        "× Contingencias tributarias previas no detectadas durante el proceso"
+      ],
+      "nota": "Si requieren también el componente legal de la liquidación, lo cotizamos como un encargo integral en propuesta separada (ver propuesta de Acompañamiento Integral)."
+    },
+    {
+      "etiqueta": "Marco legal",
+      "tipo": "texto",
+      "titulo": "Cláusulas",
+      "texto": [
+        "Confidencialidad — Multilat S.A.S y Capital Lab S.A.S se comprometen a guardar absoluta confidencialidad y reserva sobre toda la información a la que tengan acceso en virtud de esta propuesta, su negociación, aceptación y la prestación del servicio. Las condiciones específicas serán reguladas en el contrato de prestación de servicios.",
+        "Encargo de datos personales — Durante la prestación del servicio, Capital Lab actúa como Encargado del tratamiento de datos personales de terceros proporcionados por el cliente (Responsable), quien garantiza haber obtenido autorización de los titulares. Capital Lab usará los datos únicamente para la prestación de los servicios contratados y los suprimirá de sus sistemas al terminar la relación.",
+        "Tratamiento de datos personales — Multilat S.A.S autoriza a Capital Lab S.A.S a realizar el tratamiento de sus datos personales de conformidad con la normatividad vigente y la Política de Protección y Tratamiento de Datos Personales, accesible en caplab.com.co/tratamiento-de-datos.",
+        "Formalización — Para efectos de formalizar la relación comercial se acuerda suscribir: (1) contrato de prestación de servicios, (2) contrato de encargo de datos personales y (3) política de protección y tratamiento de datos personales."
+      ]
+    }
+  ]
+}

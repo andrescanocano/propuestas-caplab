@@ -1,0 +1,125 @@
+{
+  "titulo": "Capital Lab — Acompañamiento Integral para el Cierre de Multilat S.A.S",
+  "fecha": "5 de mayo de 2026",
+  "referencia": "PROP-2026-007",
+  "titulo_hero": "Cerremos Multilat con orden, sin contingencias y sin sobresaltos",
+  "subtitulo": "Preparada para Multilat S.A.S — NIT 901.746.287-7",
+  "contacto_nombre": "Andres Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "Acompañamos el cierre de Multilat de principio a fin",
+  "cta_texto": "Cerrar bien una sociedad es tan importante como abrirla. Confirmamos los términos, firmamos y dejamos a Multilat con su matrícula mercantil cancelada y sin pendientes con la DIAN.",
+  "secciones": [
+    {
+      "etiqueta": "El momento",
+      "titulo": "Acompañamos el cierre con la misma rigurosidad con la que acompañamos la operación",
+      "tipo": "texto",
+      "texto": [
+        "Esta propuesta cubre el <strong>cierre integral de Multilat S.A.S</strong> — el proceso para llevar la compañía desde su estado actual hasta la cancelación formal de la matrícula mercantil ante la Cámara de Comercio y la cesación de actividades ante la DIAN, sin dejar contingencias contables ni tributarias para los socios.",
+        "Multilat ha sido un cliente activo de Capital Lab y agradecemos la confianza durante este tiempo. El cierre de una sociedad exige un trabajo cuidadoso en dos frentes: el <strong>contable y tributario</strong>, que prepara la información para que la liquidación sea fiel a la realidad financiera del ejercicio; y el <strong>legal y societario</strong>, que materializa la disolución, la liquidación y la cancelación de la sociedad ante las autoridades.",
+        "Por eso esta propuesta integra <strong>ambos componentes en un solo encargo</strong>, con un único interlocutor: Capital Lab opera el componente contable directamente con su equipo, y el componente legal se ejecuta a través de una <strong>firma legal aliada especializada</strong> en derecho societario, coordinada por nosotros."
+      ]
+    },
+    {
+      "etiqueta": "Qué entregamos",
+      "tipo": "checklist",
+      "titulo": "Dos componentes, un solo encargo",
+      "items": [
+        "Componente A — Normalización y preparación contable de la información para el cierre",
+        "Componente A — Estados financieros de liquidación firmados por contador público de Capital Lab, con validez para presentación ante Cámara de Comercio, DIAN y terceros",
+        "Componente A — Última declaración de renta del periodo y trámite de cesación de actividades ante la DIAN (cancelación del RUT)",
+        "Componente A — Acompañamiento contable mensual durante el proceso (operación corriente hasta la firma del acta de liquidación)",
+        "Componente A — Soporte al liquidador durante el proceso legal: aclaraciones, generación de soportes y atención de requerimientos de Cámara de Comercio y DIAN",
+        "Componente B — Acta de disolución y acta de liquidación, redactadas y listas para inscripción registral",
+        "Componente B — Inscripción de los actos ante la Cámara de Comercio para extinguir la personería jurídica",
+        "Componente B — Avisos de ley en prensa requeridos por el proceso de liquidación",
+        "Componente B — Derecho de petición ante la DIAN y notificación a las autoridades tributarias para detener el cobro de impuestos",
+        "Componente B — Entrega del certificado de existencia y representación legal donde conste la cancelación de la matrícula mercantil"
+      ],
+      "nota": "El componente legal (Componente B) se ejecuta a través de una firma legal aliada especializada en derecho societario, coordinada por Capital Lab. El cliente firma una sola relación comercial con Capital Lab y recibe todo el acompañamiento bajo un único interlocutor."
+    },
+    {
+      "etiqueta": "Tu equipo dedicado",
+      "tipo": "cards",
+      "titulo": "El mismo equipo que conoce a Multilat más una firma legal aliada",
+      "cards": [
+        {
+          "etiqueta": "Equipo Capital Lab",
+          "titulo": "Componente contable y tributario",
+          "texto": "El mismo equipo que ha llevado la operación de Multilat: auxiliar contable, analista y contador público. Conocemos la información del cliente, sus particularidades y su historia, lo que reduce drásticamente el tiempo de levantamiento y elimina riesgos de interpretación."
+        },
+        {
+          "etiqueta": "Firma legal aliada",
+          "titulo": "Componente societario y registral",
+          "texto": "Firma especializada en derecho societario que ejecuta la disolución, la liquidación y la cancelación de la matrícula mercantil. Coordinada por Capital Lab para que el cliente tenga un único interlocutor durante todo el proceso."
+        },
+        {
+          "etiqueta": "Coordinación",
+          "titulo": "Un solo punto de contacto",
+          "texto": "Capital Lab coordina ambos componentes y mantiene al cliente informado de los avances. Una sola relación comercial, una sola factura, un solo encargo cerrado de principio a fin."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Timeline",
+      "tipo": "fases",
+      "titulo": "Cómo lo ejecutamos",
+      "fases": [
+        {
+          "titulo": "Kickoff y preparación contable",
+          "texto": "Reunión de arranque con los socios, confirmación del alcance, levantamiento de pendientes contables y tributarios, y arranque de la normalización de la información para el cierre. Firma del encargo.",
+          "tiempo": "Semanas 1 a 2"
+        },
+        {
+          "titulo": "Cierre contable, declaración y disolución",
+          "texto": "Generación de los estados financieros de liquidación firmados por contador público, presentación de la última declaración de renta y trámite de cesación de actividades ante la DIAN. En paralelo, redacción y aprobación del acta de disolución por la firma legal aliada.",
+          "tiempo": "Semanas 3 a 6"
+        },
+        {
+          "titulo": "Liquidación y cancelación registral",
+          "texto": "Acta de liquidación, avisos de ley en prensa, derecho de petición ante la DIAN, inscripción de los actos ante la Cámara de Comercio y entrega del certificado donde conste la cancelación de la matrícula mercantil.",
+          "tiempo": "Semanas 6 a 10"
+        }
+      ],
+      "nota": "Los tiempos de respuesta de la Cámara de Comercio y la DIAN pueden variar según la carga de cada entidad. El equipo hace seguimiento permanente para mantener el proceso en marcha."
+    },
+    {
+      "etiqueta": "Inversión",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversión",
+      "columnas": ["Concepto", "Valor"],
+      "filas": [
+        ["Acompañamiento contable — valor base", "$1.750.000 + IVA"],
+        ["Descuento cliente activo (20%)", "− $350.000"],
+        ["Acompañamiento contable — valor final", "$1.400.000 + IVA"],
+        ["Acompañamiento legal (firma aliada)", "$3.550.000 + IVA"],
+        ["<strong>Total acompañamiento integral</strong>", "<strong>$4.950.000 + IVA</strong>"]
+      ],
+      "nota": "<strong>Aplicamos un descuento del 20% sobre el componente contable por su condición de cliente activo de Capital Lab.</strong><br><br><strong>Forma de pago:</strong> 50% al aceptar la propuesta y 50% al momento del registro del acta de liquidación ante la Cámara de Comercio.<br><br><strong>Vigencia:</strong> esta propuesta tiene vigencia de 30 días calendario."
+    },
+    {
+      "etiqueta": "Lo que no incluye",
+      "tipo": "lista",
+      "titulo": "Lo que NO incluye este servicio",
+      "items": [
+        "× Tasas registrales ante la Cámara de Comercio",
+        "× Costos de publicación en prensa de los avisos de ley",
+        "× Gastos notariales por poderes o trámites adicionales",
+        "× Reconstrucción contable de ejercicios anteriores no contemplados en la operación recurrente",
+        "× Representación ante la DIAN en procesos de fiscalización o requerimientos abiertos a la fecha de firma del encargo",
+        "× Contingencias tributarias o legales previas no detectadas durante el proceso"
+      ]
+    },
+    {
+      "etiqueta": "Marco legal",
+      "tipo": "texto",
+      "titulo": "Cláusulas",
+      "texto": [
+        "Confidencialidad — Multilat S.A.S y Capital Lab S.A.S se comprometen a guardar absoluta confidencialidad y reserva sobre toda la información a la que tengan acceso en virtud de esta propuesta, su negociación, aceptación y la prestación del servicio. Las condiciones específicas serán reguladas en el contrato de prestación de servicios.",
+        "Encargo de datos personales — Durante la prestación del servicio, Capital Lab actúa como Encargado del tratamiento de datos personales de terceros proporcionados por el cliente (Responsable), quien garantiza haber obtenido autorización de los titulares. Capital Lab usará los datos únicamente para la prestación de los servicios contratados y los suprimirá de sus sistemas al terminar la relación.",
+        "Tratamiento de datos personales — Multilat S.A.S autoriza a Capital Lab S.A.S a realizar el tratamiento de sus datos personales de conformidad con la normatividad vigente y la Política de Protección y Tratamiento de Datos Personales, accesible en caplab.com.co/tratamiento-de-datos.",
+        "Formalización — Para efectos de formalizar la relación comercial se acuerda suscribir: (1) contrato de prestación de servicios, (2) contrato de encargo de datos personales y (3) política de protección y tratamiento de datos personales."
+      ]
+    }
+  ]
+}
