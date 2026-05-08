@@ -1,0 +1,175 @@
+{
+  "titulo": "Capital Lab — Propuesta de Servicios Contables",
+  "fecha": "8 de mayo de 2026",
+  "referencia": "PROP-2026-004",
+  "titulo_hero": "Contabilidad que entiende exportación de flores",
+  "subtitulo": "Preparada para Andrés Begué",
+  "contacto_nombre": "Andrés Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "Empecemos",
+  "cta_texto": "Trece años construyendo tu empresa merecen un equipo a la altura. Una llamada y arrancamos.",
+  "secciones": [
+    {
+      "etiqueta": "Tu negocio",
+      "titulo": "Trece años exportando flores merecen un acompañamiento a la altura",
+      "tipo": "texto",
+      "texto": [
+        "La floricultura de exportación no es un negocio de volumen documental. Es un negocio de margen, ciclo de caja y precisión tributaria. Cada despacho es una operación de miles de dólares, cada centavo cuenta en la negociación con el cliente extranjero, y cada bimestre la devolución del IVA exportador es la diferencia entre tener flujo de caja para operar o quedar atado al ciclo del cobro internacional.",
+        "Capital Lab no es una firma contable que usa tecnología. Somos una empresa de tecnología contable que traduce tus datos en decisiones. Para una operación como la tuya — cinco mercados activos, ciclo bimestral de devolución de IVA, cobro internacional a 30, 60 y 90 días — esa diferencia es flujo de caja, tranquilidad tributaria y claridad financiera para decidir hacia dónde va el negocio."
+      ]
+    },
+    {
+      "etiqueta": "Servicios incluidos",
+      "tipo": "checklist",
+      "titulo": "Todo lo que necesitás, nada que no",
+      "items": [
+        "Procesamiento mensual de información contable bajo NIIF para Pymes",
+        "Causación completa de compras, ventas, gastos y nómina",
+        "Conciliaciones bancarias semanales sobre cuenta Bancolombia",
+        "Gestión integral DIAN: declaraciones tributarias, retenciones, presentación oportuna",
+        "<strong>Solicitud de devolución de IVA exportador bimestral</strong> — gestión completa del trámite ante la DIAN",
+        "Liquidación de nómina y nómina electrónica cuando aplique",
+        "Asesoría tributaria proactiva especializada en exportación: optimizaciones legales, planeación de flujo de caja tributario y evaluación de beneficios sectoriales",
+        "Reporte financiero mensual con sesión de socialización: estado de resultados, balance, flujo de caja y análisis de rentabilidad",
+        "Estados financieros bajo NIIF — Estado de Resultados, Situación Financiera, Flujo de Efectivo, Cambios en el Patrimonio",
+        "Consultas ilimitadas vía WhatsApp con analista dedicado",
+        "Consultas ilimitadas con profesionales de Capital Lab, sujetas a disponibilidad",
+        "Plataforma tecnológica Capital Lab para automatización contable, integrada con tu licencia existente de Begranda"
+      ],
+      "nota": "<strong>Nuestra tarifa ya incluye los servicios anualizados:</strong> declaración de renta, información exógena, declaración de industria y comercio (ICA), renovación de Cámara de Comercio y emisión de estados financieros anuales con notas. <strong>No cobramos mes 13</strong> — a diferencia de la práctica tradicional del contador colombiano que factura un mes adicional al año por estos eventos."
+    },
+    {
+      "etiqueta": "Implementación",
+      "tipo": "checklist",
+      "titulo": "Configuración tecnológica desde el día uno",
+      "items": [
+        "Integración con tu licencia existente de Begranda: definimos el flujo de causación sobre el ERP que ya tenés y que tu equipo administra, sin duplicar trabajo ni reemplazar herramientas",
+        "Configuración de reenvíos automáticos desde tu correo corporativo hacia Capital Lab para recepción inmediata de facturas, notas crédito/débito y documentos soporte",
+        "Sincronización DIAN automatizada: configuración del token DIAN hacia nuestros sistemas para sincronización constante y en tiempo real de tu información tributaria oficial",
+        "Integración con Bancolombia: gestión del usuario de consulta sobre tu cuenta para conciliaciones semanales precisas y control detallado de transacciones",
+        "Plataforma Capital Lab: licenciamiento y configuración para automatización de eventos electrónicos y centralización documental"
+      ]
+    },
+    {
+      "etiqueta": "Proceso",
+      "tipo": "fases",
+      "titulo": "Cómo funciona",
+      "fases": [
+        {
+          "titulo": "Diagnóstico y onboarding",
+          "texto": "Diagnóstico integral de tu operación: estructura societaria, obligaciones tributarias actuales, dinámica de exportación, mercados activos y particularidades del modelo de comercialización. Configuramos toda la infraestructura tecnológica y dejamos lista la primera devolución de IVA del bimestre.",
+          "tiempo": "2–4 semanas"
+        },
+        {
+          "titulo": "Operación continua",
+          "texto": "Información contable actualizada en tiempo real. Procesamiento automático de documentos electrónicos, ciclos semanales de causación y depuración. Al cierre de cada mes, invertimos máximo 3 días hábiles en conciliar, completar el procesamiento e iniciar emisión de reportes.",
+          "tiempo": "Mensual"
+        },
+        {
+          "titulo": "Información para decidir",
+          "texto": "Borradores de declaraciones tributarias mínimo 3 días antes de cada vencimiento. Reporte financiero mensual con sesión de socialización para revisar rentabilidad, flujo de caja y desempeño por mercado. Acompañamiento estratégico continuo.",
+          "tiempo": "Mensual y bimestral"
+        }
+      ]
+    },
+    {
+      "etiqueta": "Floricultura de exportación",
+      "tipo": "lista",
+      "titulo": "Lo que sabemos de tu negocio (y que otros no)",
+      "items": [
+        "El IVA exportador es flujo de caja, no un saldo a favor decorativo. Solicitar la devolución bimestral con precisión y oportunidad es la diferencia entre operar con holgura o sufrir el ciclo del cobro internacional",
+        "El cobro a 30, 60 y 90 días en mercados internacionales castiga el flujo de caja: hay que conciliar cartera por cliente y por mercado con disciplina semanal, no mensual",
+        "La operación multimoneda en USD exige tratamiento contable y tributario específico — diferencia en cambio, ajustes patrimoniales y reconocimiento del ingreso bajo NIIF",
+        "La estructura de proveedores con documento soporte electrónico (no facturadores) tiene su propio flujo: cierre mensual de remisiones, conciliación con cada proveedor y emisión correcta del DSE",
+        "Cada mercado de destino tiene reglas distintas — la trazabilidad de la operación de exportación, el manejo del invoice por despacho y el cierre mensual con el cliente requieren disciplina contable, no improvisación",
+        "Los beneficios tributarios para el exportador existen — solo hay que conocerlos y aplicarlos de forma legal y conservadora"
+      ]
+    },
+    {
+      "etiqueta": "Diferenciales",
+      "tipo": "cards",
+      "titulo": "Por qué Capital Lab",
+      "cards": [
+        {
+          "etiqueta": "Tecnología propia",
+          "titulo": "Automatización real, no discurso",
+          "texto": "Nuestra plataforma automatiza hasta el 90% de los eventos electrónicos, se conecta directamente con la DIAN y procesa información de forma automática. Reducción del 50% en tiempos de respuesta frente al mercado contable tradicional. Acceso a software contable y herramientas tech sin inversión inicial — todo incluido en la tarifa."
+        },
+        {
+          "etiqueta": "Cero multas",
+          "titulo": "31+ clientes, 4 ciudades, cero sanciones",
+          "texto": "Firma registrada ante la Junta Central de Contadores con tarjeta profesional como persona jurídica. Borradores tributarios mínimo 3 días antes de cada vencimiento. Dashboards ejecutivos, análisis descriptivo y reportes financieros para decidir — no solo números. En todo nuestro portafolio, el número de multas por incumplimiento es cero."
+        },
+        {
+          "etiqueta": "Equipo completo",
+          "titulo": "No es un freelance — es una firma",
+          "texto": "Equipo multidisciplinario de expertos en contabilidad, tributación, análisis financiero y consultoría estratégica. María Isabel lidera el frente tributario; Andrés Cano el frente financiero. Es un equipo que no se enferma, no se va de vacaciones y no pierde tu información. Una fracción del costo de un equipo propio con las mismas capacidades."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Inversión",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversión",
+      "columnas": ["Concepto", "Valor mensual"],
+      "filas": [
+        ["Gestión contable, tributaria y financiera (incluye solicitud de devolución de IVA bimestral y nómina electrónica cuando aplique)", "$2.250.000"],
+        ["IVA (19%)", "$427.500"],
+        ["Total mensual", "$2.677.500"],
+        ["Plataforma tecnológica Capital Lab (incluida)", "$0"]
+      ],
+      "nota": "<strong>Servicios anualizados incluidos:</strong> renta, información exógena, ICA, renovación Cámara de Comercio y estados financieros anuales con notas. <strong>No cobramos mes 13.</strong><br><br><strong>Contrato:</strong> 6 meses con evaluación periódica. La tarifa se basa en el nivel de actividad, complejidad de la operación y volumen de información."
+    },
+    {
+      "etiqueta": "Servicios adicionales",
+      "tipo": "dos_columnas",
+      "titulo": "Más allá de la contabilidad",
+      "columnas": [
+        {
+          "titulo": "Capital Lab — Servicios complementarios",
+          "items": [
+            "Revisoría fiscal",
+            "Valoración de empresas",
+            "Auditoría",
+            "Atención a requerimientos de entidades oficiales",
+            "Afiliaciones al sistema de seguridad social"
+          ]
+        },
+        {
+          "titulo": "DoClick — Partner legal aliado",
+          "items": [
+            "Asesoría legal empresarial",
+            "Trámites societarios y reformas",
+            "Acompañamiento ante Cámara de Comercio",
+            "Reconocidos Highly Recommended por Leaders League 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "etiqueta": "Condiciones",
+      "tipo": "lista",
+      "titulo": "Condiciones y notas",
+      "items": [
+        "Esta propuesta no incluye: puesta a punto de información contable de períodos anteriores, afiliaciones al sistema de seguridad social (disponible como servicio adicional), emisión de facturas electrónicas y documentos soporte electrónicos (los realiza el cliente desde su ERP), ni gestión de trámites ante entidades oficiales (costo adicional)",
+        "La relación comercial se da por iniciada con el pago del primer mes y la firma del contrato que detalla las obligaciones de cada parte",
+        "Nuestras tarifas están indexadas al salario mínimo legal vigente y se ajustan anualmente en la misma proporción, más unos puntos porcentuales",
+        "La estructura de costos está vinculada a los volúmenes de información y el nivel de ingresos. Cualquier cambio considerable requerirá revisión del fee mensual",
+        "La adecuada prestación del servicio está condicionada a la entrega correcta, completa y oportuna de la información contable. Contás con todo el apoyo de nuestro equipo y un ecosistema tecnológico completo para que este proceso sea natural",
+        "Vigencia de esta propuesta: 30 días calendario desde la fecha de emisión"
+      ]
+    },
+    {
+      "etiqueta": "Marco legal",
+      "tipo": "texto",
+      "titulo": "Cláusulas",
+      "texto": [
+        "Confidencialidad — Andrés Begué se compromete a guardar absoluta confidencialidad y reserva sobre toda la información a la que tenga acceso en virtud de esta propuesta, su negociación, aceptación y la prestación del servicio. Cualquier revelación está prohibida y no podrá usarse como elemento de competencia desleal. Las condiciones específicas serán reguladas en el contrato de prestación de servicios.",
+        "Encargo de datos personales — Durante la prestación del servicio, Capital Lab actúa como Encargado del tratamiento de datos personales de terceros proporcionados por el cliente (Responsable), quien garantiza haber obtenido autorización de los titulares. Capital Lab usará los datos únicamente para la prestación de los servicios contratados y los suprimirá de sus sistemas al terminar la relación.",
+        "Tratamiento de datos personales — Andrés Begué autoriza a Capital Lab S.A.S. a realizar el tratamiento de sus datos personales de conformidad con la normatividad vigente y la Política de Protección y Tratamiento de Datos Personales, accesible en caplab.com.co/tratamiento-de-datos. Capital Lab se compromete a respetar y facilitar el ejercicio de los derechos del cliente.",
+        "Formalización — Para efectos de formalizar la relación comercial, se acuerda suscribir: (1) contrato de prestación de servicios, (2) contrato de encargo de datos personales, y (3) política de protección y tratamiento de datos personales."
+      ]
+    }
+  ]
+}
