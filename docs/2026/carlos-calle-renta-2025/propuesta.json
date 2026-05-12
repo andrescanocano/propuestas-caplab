@@ -1,0 +1,67 @@
+{
+  "titulo": "Capital Lab — Propuesta declaración de renta persona natural",
+  "fecha": "12 de mayo de 2026",
+  "referencia": "PROP-2026-009",
+  "titulo_hero": "Tu declaración de renta 2025, gestionada directamente por nosotros",
+  "subtitulo": "Preparada para Carlos Calle",
+  "contacto_nombre": "Andres Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "Empecemos",
+  "cta_texto": "Una respuesta tuya confirmando y arrancamos cuando estén disponibles los reportes de la DIAN, entre julio y agosto de 2026.",
+  "secciones": [
+    {
+      "etiqueta": "Tu declaración",
+      "titulo": "Hola Carlos",
+      "tipo": "texto",
+      "texto": [
+        "Gracias por considerarnos para acompañarte en la presentación de tu declaración de renta del año gravable 2025, cuyos vencimientos inician en agosto de 2026.",
+        "Este es un servicio que prestamos directamente María Isabel y yo a través de Capital Lab. Esa cercanía hace que cada paso esté revisado de primera mano y que tengas acceso directo a quienes lo ejecutan."
+      ]
+    },
+    {
+      "etiqueta": "Alcance",
+      "tipo": "checklist",
+      "titulo": "Qué incluye el servicio",
+      "items": [
+        "<strong>Solicitud de información y depuración.</strong> Te enviamos un cuestionario estructurado, revisamos los soportes que nos compartas y depuramos la información para que ningún ingreso, costo, deducción o componente patrimonial quede por fuera.",
+        "<strong>Proyección del impuesto.</strong> Con la información depurada calculamos el impuesto estimado antes de oficializar la declaración. Te anticipa el pago y, cuando aplica, identifica oportunidades legales de planeación.",
+        "<strong>Socialización del borrador.</strong> Antes de presentar, te compartimos un borrador comentado y resolvemos juntos cualquier duda. El objetivo es que entiendas por qué tu impuesto es el que es.",
+        "<strong>Presentación oficial ante la DIAN.</strong> Diligenciamos y presentamos la declaración con tu firma electrónica según corresponda.",
+        "<strong>Liquidación y pago.</strong> Te entregamos el recibo oficial con los datos exactos (formulario, banco, fecha límite) para que cumplas sin contratiempos."
+      ]
+    },
+    {
+      "etiqueta": "Acompañamiento",
+      "titulo": "Más allá de presentar la declaración",
+      "tipo": "texto",
+      "texto": [
+        "Este servicio no termina cuando se presenta la declaración.",
+        "Durante todo el proceso tenés línea directa con María Isabel y conmigo: explicamos cada decisión, respondemos las dudas que surjan en el camino y, si después de presentar la DIAN hace alguna observación o requerimiento sobre la declaración, asumimos la respuesta sin costo adicional.",
+        "La tranquilidad de decidir bien empieza por saber que la información detrás de la decisión está bien construida."
+      ]
+    },
+    {
+      "etiqueta": "Inversión",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversión",
+      "columnas": ["Concepto", "Valor"],
+      "filas": [
+        ["Valor del servicio", "$450.000"],
+        ["Descuento clientes activos / representantes", "−$50.000"],
+        ["<strong>Total a pagar</strong>", "<strong>$400.000</strong>"]
+      ],
+      "nota": "El valor no incluye IVA. Se cancela una vez aceptada la propuesta, previo al inicio del proceso de depuración."
+    },
+    {
+      "etiqueta": "Siguientes pasos",
+      "titulo": "Cómo arrancamos",
+      "tipo": "texto",
+      "texto": [
+        "Si la propuesta te hace sentido, basta con responderme confirmando tu aceptación.",
+        "Entre julio y agosto de 2026, cuando tengamos acceso a los reportes de la DIAN, te enviamos el cuestionario de solicitud de información y arrancamos el proceso de depuración.",
+        "Cualquier ajuste o duda previa, hablamos sin problema."
+      ]
+    }
+  ]
+}
