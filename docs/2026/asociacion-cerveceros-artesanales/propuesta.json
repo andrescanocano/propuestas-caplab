@@ -1,0 +1,132 @@
+{
+  "titulo": "Capital Lab — Capacitación contable y tributaria para el sector cervecero artesanal",
+  "fecha": "19 de mayo de 2026",
+  "referencia": "PROP-2026-009",
+  "titulo_hero": "Capacitación contable y tributaria para el sector cervecero artesanal",
+  "subtitulo": "Para la asociación de cerveceros artesanales — Antioquia",
+  "contacto_nombre": "Andres Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "<strong>Tres modelos, tres regímenes, una sola capacitación</strong>",
+  "cta_texto": "Diseñamos esta sesión para que dueños y contadores del sector cervecero artesanal entiendan, con piso operativo real, cómo opera una productora, una comercializadora y un punto de venta propio bajo regímenes tributarios distintos.",
+  "secciones": [
+    {
+      "etiqueta": "El contexto",
+      "titulo": "Por qué la contabilidad del sector cervecero artesanal es distinta",
+      "tipo": "texto",
+      "texto": [
+        "En una cervecera artesanal coexisten, muchas veces dentro del mismo grupo empresarial, tres modelos de negocio: la <strong>empresa productora</strong> (con costos de materia prima, producción e inventarios), la <strong>empresa comercializadora</strong> (con facturación masiva al canal HORECA, cartera B2B y manejo del impuesto al consumo) y el <strong>punto de venta propio</strong> (bar o taproom que normalmente opera bajo Régimen Simple Tributario).",
+        "Tres NITs, tres regímenes, un mismo producto. La mayoría de cerveceras tropieza en los mismos puntos: cómo costear y trasladar a inventario, cómo manejar el impuesto al consumo y su interacción con el costo, cuándo conviene IVA bimestral o cuatrimestral, cómo registrar las rentas departamentales sin complicar la contabilidad, qué obligaciones hay ante Supersalud y cómo construir un presupuesto tributario consolidado del grupo.",
+        "Esta capacitación ataca exactamente esos puntos, con la mecánica contable y tributaria explicada desde el piso operativo real. No es teoría genérica: es la forma en que estos temas se resuelven mes a mes en empresas del sector que Capital Lab opera hoy."
+      ]
+    },
+    {
+      "etiqueta": "Quiénes dictan",
+      "tipo": "cards",
+      "titulo": "Dos voces complementarias del equipo Capital Lab",
+      "cards": [
+        {
+          "etiqueta": "Andrés Cano",
+          "titulo": "CEO — Capital Lab",
+          "texto": "Contador Público, Especialista en Finanzas, Magíster en Administración Financiera. Lidera Capital Lab desde su fundación. Aborda el sector desde la lectura estratégica: qué exigirle al contador, qué KPIs vigilar, qué riesgos tributarios entender antes de tomar decisiones de negocio."
+        },
+        {
+          "etiqueta": "María Isabel Maya Corredor",
+          "titulo": "COO — Capital Lab",
+          "texto": "Lidera las operaciones contables y tributarias de Capital Lab. Aborda el sector desde la mecánica operativa: cómo causar, cómo construir el presupuesto tributario, cómo reconciliar cartera HORECA, cómo manejar el impuesto al consumo en la práctica diaria de una cervecera."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Bloque 1",
+      "tipo": "checklist",
+      "titulo": "Contabilidad de la cervecera artesanal (75 minutos)",
+      "items": [
+        "Diferencias contables entre una empresa productora y una comercializadora del sector: PUC aplicable, lógica de costeo y causación.",
+        "Buenas prácticas de causación según el modelo de operación: facturación concentrada en un cliente único (B2B) versus facturación masiva al canal HORECA.",
+        "Manejo contable de inventarios cerveceros: materias primas, producto terminado, traslado mensual al costo, importancia de la toma física.",
+        "Causación de fletes en la operación cervecera y su tratamiento contable: cuándo van al costo del inventario y cuándo al gasto del periodo.",
+        "Pasarelas de pago y anticipos: cómo cruzar movimientos de pasarela contra la cartera del cliente.",
+        "Cartera B2B en canal HORECA y reconciliación. Manejo contable de remisiones no facturadas."
+      ]
+    },
+    {
+      "etiqueta": "Bloque 2",
+      "tipo": "checklist",
+      "titulo": "Impuestos del sector (75 minutos)",
+      "items": [
+        "Retención en la fuente: tarifas aplicables a las operaciones típicas del sector cervecero artesanal.",
+        "Autorretención de renta diferencial: por qué la tarifa cambia entre productor y comercializador, cómo se calcula y cómo se causa.",
+        "IVA en el sector: periodicidad bimestral versus cuatrimestral, criterio normativo de selección y vencimientos DIAN.",
+        "Impuesto al consumo de cervezas: causación contable, pago mes vencido y cómo interactúa con el inventario en la empresa comercializadora.",
+        "Rentas departamentales: mecánica contable del registro del impuesto.",
+        "Obligaciones ante Supersalud: cargue anual del Informe de Gestión y aporte sobre el impuesto al consumo."
+      ]
+    },
+    {
+      "etiqueta": "Bloque 3",
+      "tipo": "checklist",
+      "titulo": "La empresa productora y comercializadora como grupo (60 minutos)",
+      "items": [
+        "Cuándo conviene operar bajo un solo NIT versus separar productora y distribuidora en dos NITs. Implicaciones contables y tributarias de cada decisión.",
+        "Régimen Simple Tributario en el canal HORECA: cuándo conviene para el bar o punto de venta propio, tarifas aplicables y combinatorias con el resto del grupo.",
+        "Planeación tributaria anual del grupo: cómo construir un presupuesto consolidado de impuestos, calendario de vencimientos DIAN y flujo de caja por concepto tributario.",
+        "KPIs financieros del sector: márgenes esperables en empresa productora versus comercializadora, intensidad de inventario, porcentaje de impuestos sobre ventas."
+      ]
+    },
+    {
+      "etiqueta": "Cierre",
+      "titulo": "Preguntas y respuestas en vivo (30 minutos)",
+      "tipo": "texto",
+      "texto": [
+        "Cerramos la sesión con un bloque de preguntas abiertas. Andrés y María Isabel responden las dudas concretas que dueños y contadores traigan de su propia operación, manteniendo la conversación dentro del marco contable y tributario del sector."
+      ]
+    },
+    {
+      "etiqueta": "Qué entregamos",
+      "tipo": "checklist",
+      "titulo": "Lo que recibe la asociación",
+      "items": [
+        "Tres horas y media de contenido magistral más treinta minutos de preguntas y respuestas en vivo, dictados por Andrés Cano (CEO) y María Isabel Maya Corredor (COO) de Capital Lab.",
+        "Soporte audiovisual de la sesión proyectado en pantalla durante la jornada.",
+        "Certificado de asistencia a nombre de la asociación, como cortesía y sin costo adicional."
+      ]
+    },
+    {
+      "etiqueta": "Inversión",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversión",
+      "columnas": ["Concepto", "Valor"],
+      "filas": [
+        ["Capacitación contable y tributaria del sector cervecero artesanal — sesión única", "<strong>2.5 SMMLV — $4.377.263 + IVA</strong>"]
+      ],
+      "nota": "<strong>Equivalencia:</strong> 2.5 salarios mínimos mensuales legales vigentes, tomando como referencia el SMMLV 2026 fijado en $1.750.905 por el Decreto 1469 de 2025.<br><br><strong>Modalidad:</strong> virtual o presencial en el área metropolitana de Medellín, a coordinar con la asociación. El desplazamiento fuera del área metropolitana de Medellín se cotiza por separado si la asociación opta por una sede que requiera tiquetes u hospedaje.<br><br><strong>Forma de pago:</strong> 50% al aceptar la propuesta y 50% al cierre de la sesión.<br><br><strong>Vigencia:</strong> esta propuesta tiene vigencia de 30 días calendario.<br><br><strong>Reagendamiento:</strong> una vez sin costo con preaviso mínimo de 7 días."
+    },
+    {
+      "etiqueta": "Lo que no incluye",
+      "tipo": "lista",
+      "titulo": "Lo que NO incluye esta capacitación",
+      "items": [
+        "× Tornaguías. Mencionamos su existencia y rol en el sector, pero no dictamos su manejo operativo.",
+        "× Detalle normativo profundo. La capacitación cubre la mecánica contable y tributaria del sector, no análisis jurídico de normas departamentales o sanitarias.",
+        "× Estrategia tributaria o fiscal individualizada por empresa. Depende de cada caso y se atiende como servicio de consultoría aparte.",
+        "× Elaboración u operatividad del proceso de presentación de la declaración de rentas departamentales.",
+        "× Administración o gestión de impuestos en departamentos distintos a aquellos donde Capital Lab tiene experiencia operativa documentada.",
+        "× Asesoría personalizada post-sesión a las cerveceras asistentes. El bloque de preguntas y respuestas es grupal, no individual.",
+        "× Materiales descargables, plantillas, repositorios o kits operativos. Esta es una capacitación magistral, no un paquete de productos.",
+        "× Desplazamiento fuera del área metropolitana de Medellín, si la asociación opta por sede que requiera tiquetes u hospedaje. Se cotiza aparte si aplica."
+      ]
+    },
+    {
+      "etiqueta": "Marco legal",
+      "tipo": "texto",
+      "titulo": "Cláusulas",
+      "texto": [
+        "Confidencialidad — La asociación y Capital Lab S.A.S se comprometen a guardar absoluta reserva sobre toda la información a la que tengan acceso en virtud de esta propuesta, su negociación, aceptación y la prestación del servicio. Las condiciones específicas serán reguladas en el contrato de prestación de servicios.",
+        "Propiedad intelectual del contenido — El material y los contenidos pedagógicos elaborados por Capital Lab para la sesión son de propiedad de Capital Lab S.A.S. La asociación recibe licencia para el uso interno asociado a la capacitación contratada; no se autoriza su reproducción, redistribución ni explotación comercial.",
+        "Tratamiento de datos personales — La asociación autoriza a Capital Lab S.A.S a realizar el tratamiento de sus datos personales y los de las personas que designe como asistentes, de conformidad con la normatividad vigente y la Política de Protección y Tratamiento de Datos Personales, accesible en caplab.com.co/tratamiento-de-datos.",
+        "Formalización — Para efectos de formalizar la relación comercial se acuerda suscribir contrato de prestación de servicios entre la asociación y Capital Lab S.A.S."
+      ]
+    }
+  ]
+}
