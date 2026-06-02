@@ -1,0 +1,164 @@
+{
+  "titulo": "Capital Lab — Propuesta de Servicios Contables, Tributarios y Financieros",
+  "fecha": "2 de junio de 2026",
+  "referencia": "PROP-2026-010",
+  "titulo_hero": "Contabilidad, impuestos y finanzas en un solo equipo que ya conoce tus cifras",
+  "subtitulo": "Preparada para TIC MAS SAS — NIT 901.340.449-1",
+  "contacto_nombre": "Andrés Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "<strong>Empecemos</strong>",
+  "cta_texto": "Ya conocemos tu operación y tus estados financieros. Una llamada y arrancamos con el acompañamiento contable, tributario y financiero que tu empresa necesita.",
+  "secciones": [
+    {
+      "etiqueta": "El momento",
+      "titulo": "Ya conocemos tus cifras — ahora acompañemos tu operación mes a mes",
+      "tipo": "texto",
+      "texto": [
+        "En las últimas semanas trabajamos de cerca con la información financiera de TIC MAS: analizamos tus estados financieros, descompusimos la estructura de tu balance y entendimos a fondo la realidad contable y tributaria de la empresa. Esa base ya está construida — y nos da una ventaja real frente a cualquier otra opción: <strong>no partimos de cero, partimos de conocerte</strong>.",
+        "Capital Lab no es una firma contable que usa tecnología. Somos una <strong>empresa de tecnología contable</strong> que traduce tus datos en decisiones. Para una empresa como la tuya, esa diferencia se traduce en tres cosas concretas: cumplimiento tributario sin sobresaltos, información financiera clara para decidir y un equipo completo que opera tu contabilidad de principio a fin.",
+        "Esta propuesta cubre el <strong>acompañamiento contable, tributario y financiero mensual completo</strong> de TIC MAS SAS — operamos tu contabilidad, gestionamos tus obligaciones ante la DIAN y te entregamos análisis financiero para decidir, todo bajo un solo equipo y una sola tarifa."
+      ]
+    },
+    {
+      "etiqueta": "Servicios incluidos",
+      "tipo": "checklist",
+      "titulo": "Todo lo que necesitás, nada que no",
+      "items": [
+        "Procesamiento mensual de información contable bajo NIIF para Pymes",
+        "Causación completa de compras, ventas, gastos y nómina",
+        "Conciliaciones bancarias periódicas sobre tus cuentas",
+        "Gestión integral DIAN: declaraciones tributarias, retenciones, IVA y presentación oportuna",
+        "Liquidación de nómina y nómina electrónica cuando aplique",
+        "Asesoría tributaria y financiera proactiva: optimizaciones legales, planeación tributaria y acompañamiento para la toma de decisiones",
+        "Reporte financiero mensual: estado de resultados, balance, flujo de caja y análisis de rentabilidad, con socialización periódica de resultados",
+        "Estados financieros bajo NIIF — Estado de Resultados, Situación Financiera, Flujo de Efectivo y Cambios en el Patrimonio",
+        "Un analista dedicado y un auxiliar contable asignados a tu cuenta",
+        "Consultas ilimitadas vía WhatsApp con tu analista dedicado",
+        "Consultas con los profesionales de Capital Lab, sujetas a disponibilidad",
+        "Software contable y plataforma tecnológica Capital Lab proporcionados por nosotros, sin inversión de tu parte — automatización contable y centralización documental"
+      ],
+      "nota": "<strong>Nuestra tarifa ya incluye los servicios anualizados:</strong> declaración de renta, información exógena, declaración de industria y comercio (ICA), renovación de Cámara de Comercio y emisión de estados financieros anuales con notas. <strong>No cobramos mes 13</strong> — a diferencia de la práctica tradicional del contador colombiano que factura un mes adicional al año por estos eventos."
+    },
+    {
+      "etiqueta": "Implementación",
+      "tipo": "checklist",
+      "titulo": "Configuración tecnológica desde el día uno",
+      "items": [
+        "Definición del flujo de causación sobre la herramienta contable, sin duplicar trabajo ni reprocesos",
+        "Configuración de reenvíos automáticos desde tu correo corporativo hacia Capital Lab para recepción inmediata de facturas, notas crédito/débito y documentos soporte",
+        "Sincronización DIAN automatizada: configuración del token DIAN hacia nuestros sistemas para sincronización constante y en tiempo real de tu información tributaria oficial",
+        "Integración con tu entidad bancaria: gestión del usuario de consulta para conciliaciones precisas y control detallado de transacciones",
+        "Plataforma Capital Lab: licenciamiento y configuración para automatización de eventos electrónicos y centralización documental"
+      ]
+    },
+    {
+      "etiqueta": "Proceso",
+      "tipo": "fases",
+      "titulo": "Cómo funciona",
+      "fases": [
+        {
+          "titulo": "Diagnóstico y onboarding",
+          "texto": "Aprovechamos el diagnóstico financiero que ya realizamos sobre tus cifras. Confirmamos el alcance, levantamos pendientes y configuramos toda la infraestructura tecnológica para arrancar la operación corriente.",
+          "tiempo": "2–4 semanas"
+        },
+        {
+          "titulo": "Operación continua",
+          "texto": "Información contable actualizada en tiempo real. Procesamiento automático de documentos electrónicos, ciclos periódicos de causación y depuración. Al cierre de cada mes conciliamos, completamos el procesamiento e iniciamos la emisión de reportes.",
+          "tiempo": "Mensual"
+        },
+        {
+          "titulo": "Información para decidir",
+          "texto": "Borradores de declaraciones tributarias mínimo 3 días antes de cada vencimiento. Reporte financiero mensual para revisar rentabilidad, flujo de caja y desempeño, con socialización periódica de resultados. Acompañamiento estratégico continuo.",
+          "tiempo": "Mensual"
+        }
+      ]
+    },
+    {
+      "etiqueta": "Diferenciales",
+      "tipo": "cards",
+      "titulo": "Por qué Capital Lab",
+      "cards": [
+        {
+          "etiqueta": "Tecnología propia",
+          "titulo": "Automatización real, no discurso",
+          "texto": "Nuestra plataforma automatiza hasta el 90% de los eventos electrónicos, se conecta directamente con la DIAN y procesa información de forma automática. Reducción del 50% en tiempos de respuesta frente al mercado contable tradicional. Acceso a software contable y herramientas tech sin inversión inicial — todo incluido en la tarifa."
+        },
+        {
+          "etiqueta": "Cero multas",
+          "titulo": "31+ clientes, 4 ciudades, cero sanciones",
+          "texto": "Firma registrada ante la Junta Central de Contadores con tarjeta profesional como persona jurídica. Borradores tributarios mínimo 3 días antes de cada vencimiento. Dashboards ejecutivos, análisis descriptivo y reportes financieros para decidir — no solo números. En todo nuestro portafolio, el número de multas por incumplimiento es cero."
+        },
+        {
+          "etiqueta": "Equipo dedicado",
+          "titulo": "Un equipo asignado a tu cuenta",
+          "texto": "Tu operación la lleva un equipo dedicado: un <strong>auxiliar contable</strong> que recopila y organiza la información, un <strong>analista dedicado</strong> que ejecuta el cierre y el cumplimiento tributario, y un <strong>contador público</strong> que revisa, firma los estados financieros y presenta las declaraciones. María Isabel lidera el frente tributario y Andrés Cano el frente financiero — un equipo multidisciplinario completo respaldando tu contabilidad, con continuidad y cobertura permanente."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Inversión",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversión",
+      "columnas": ["Concepto", "Valor mensual"],
+      "filas": [
+        ["Gestión contable, tributaria y financiera mensual — valor base", "$1.750.000 + IVA"],
+        ["Descuento por referido de ASF Soluciones", "− $500.000"],
+        ["<strong>Valor final mensual</strong>", "<strong>$1.250.000 + IVA</strong>"],
+        ["IVA (19%)", "$237.500"],
+        ["<strong>Total mensual a pagar</strong>", "<strong>$1.487.500</strong>"]
+      ],
+      "nota": "<strong>Aplicamos un descuento especial de $500.000 por su vinculación como referido de ASF Soluciones</strong> — un gesto con quienes llegan de la mano de nuestros aliados de confianza. La tarifa base de este servicio es de $1.750.000 + IVA mensuales.<br><br><strong>Cómo definimos y ajustamos la tarifa:</strong> el precio de nuestros servicios se define por el nivel de ingresos de la empresa y el volumen de información a procesar. A medida que los ingresos de la compañía crecen, la tarifa debe ajustarse en consecuencia. Por eso trabajamos con un <strong>contrato semestral y evaluaciones cada seis meses</strong>: ese punto de revisión nos permite mantener la tarifa alineada con la realidad del negocio y garantizar en todo momento la oportunidad y la calidad del servicio.<br><br><strong>Vigencia:</strong> esta propuesta tiene vigencia de 30 días calendario desde la fecha de emisión."
+    },
+    {
+      "etiqueta": "Servicios adicionales",
+      "tipo": "dos_columnas",
+      "titulo": "Más allá de la contabilidad",
+      "columnas": [
+        {
+          "titulo": "Capital Lab — Servicios complementarios",
+          "items": [
+            "Revisoría fiscal",
+            "Valoración de empresas",
+            "Auditoría",
+            "Atención a requerimientos de entidades oficiales",
+            "Afiliaciones al sistema de seguridad social"
+          ]
+        },
+        {
+          "titulo": "DoClick — Partner legal aliado",
+          "items": [
+            "Asesoría legal empresarial",
+            "Trámites societarios y reformas",
+            "Acompañamiento ante Cámara de Comercio",
+            "Reconocidos Highly Recommended por Leaders League 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "etiqueta": "Condiciones",
+      "tipo": "lista",
+      "titulo": "Condiciones y notas",
+      "items": [
+        "Esta propuesta no incluye: puesta a punto de información contable de períodos anteriores, emisión de facturas electrónicas y documentos soporte electrónicos (los realiza el cliente desde su herramienta), ni gestión de trámites ante entidades oficiales por fuera de las obligaciones tributarias ordinarias (costo adicional)",
+        "La relación comercial se da por iniciada con el pago del primer mes y la firma del contrato que detalla las obligaciones de cada parte",
+        "El precio del servicio se define por el nivel de ingresos de la empresa y el volumen de información a procesar. A medida que la operación crece, la tarifa se revisa y se ajusta en las evaluaciones semestrales, manteniendo la relación entre el servicio prestado y la realidad del negocio",
+        "Trabajamos con un contrato semestral. Cada seis meses realizamos una evaluación conjunta que nos permite ajustar la tarifa al nivel de actividad y asegurar la oportunidad y la calidad del servicio",
+        "La adecuada prestación del servicio está condicionada a la entrega correcta, completa y oportuna de la información contable. Contás con todo el apoyo de nuestro equipo y un ecosistema tecnológico completo para que este proceso sea natural",
+        "Vigencia de esta propuesta: 30 días calendario desde la fecha de emisión"
+      ]
+    },
+    {
+      "etiqueta": "Marco legal",
+      "tipo": "texto",
+      "titulo": "Cláusulas",
+      "texto": [
+        "Confidencialidad — TIC MAS SAS y Capital Lab S.A.S se comprometen a guardar absoluta confidencialidad y reserva sobre toda la información a la que tengan acceso en virtud de esta propuesta, su negociación, aceptación y la prestación del servicio. Cualquier revelación está prohibida y no podrá usarse como elemento de competencia desleal. Las condiciones específicas serán reguladas en el contrato de prestación de servicios.",
+        "Encargo de datos personales — Durante la prestación del servicio, Capital Lab actúa como Encargado del tratamiento de datos personales de terceros proporcionados por el cliente (Responsable), quien garantiza haber obtenido autorización de los titulares. Capital Lab usará los datos únicamente para la prestación de los servicios contratados y los suprimirá de sus sistemas al terminar la relación.",
+        "Tratamiento de datos personales — TIC MAS SAS autoriza a Capital Lab S.A.S a realizar el tratamiento de sus datos personales de conformidad con la normatividad vigente y la Política de Protección y Tratamiento de Datos Personales, accesible en caplab.com.co/tratamiento-de-datos. Capital Lab se compromete a respetar y facilitar el ejercicio de los derechos del cliente.",
+        "Formalización — Para efectos de formalizar la relación comercial se acuerda suscribir: (1) contrato de prestación de servicios, (2) contrato de encargo de datos personales y (3) política de protección y tratamiento de datos personales."
+      ]
+    }
+  ]
+}
