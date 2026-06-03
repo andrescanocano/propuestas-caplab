@@ -1,0 +1,174 @@
+{
+  "titulo": "Capital Lab — Propuesta de Servicios Contables, Tributarios y Financieros",
+  "fecha": "3 de junio de 2026",
+  "referencia": "PROP-2026-011",
+  "titulo_hero": "Contabilidad, impuestos y finanzas para tu grupo empresarial — con la planeación tributaria al frente",
+  "subtitulo": "Preparada para Stratos Group SAS e IMA",
+  "contacto_nombre": "Andrés Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "<strong>Empecemos</strong>",
+  "cta_texto": "Conversamos a fondo sobre cómo opera tu grupo. Una llamada y arrancamos con el acompañamiento contable, tributario y financiero que Stratos e IMA necesitan.",
+  "secciones": [
+    {
+      "etiqueta": "El momento",
+      "titulo": "Conversamos sobre tu operación — ahora acompañémosla mes a mes",
+      "tipo": "texto",
+      "texto": [
+        "En nuestra conversación entendimos cómo funciona tu grupo: una operación de tecnología que integra hardware y software, con dos modelos de ingreso —software como servicio y alquiler de equipos—, exportaciones y la necesidad de tener la información al día durante los primeros días de cada mes. También quedó claro lo que más valoras: una <strong>planeación tributaria que de verdad se anticipe</strong>, no que reaccione la semana antes del vencimiento.",
+        "Capital Lab no es una firma contable que usa tecnología. Somos una <strong>empresa de tecnología contable</strong> que traduce tus datos en decisiones. Para una operación como la tuya, esa diferencia se traduce en tres cosas concretas: cumplimiento tributario sin sobresaltos, información financiera clara y oportuna para decidir, y un equipo completo que opera tu contabilidad de principio a fin.",
+        "Esta propuesta cubre el <strong>acompañamiento contable, tributario y financiero mensual</strong> de <strong>Stratos Group SAS</strong> e <strong>IMA</strong>. Operamos la contabilidad, gestionamos las obligaciones ante la DIAN y entregamos análisis financiero para decidir, bajo un solo equipo y una sola tarifa de grupo — respetando que cada empresa se facture por separado."
+      ]
+    },
+    {
+      "etiqueta": "Servicios incluidos",
+      "tipo": "checklist",
+      "titulo": "Todo lo que necesitás, nada que no",
+      "items": [
+        "Procesamiento mensual de información contable bajo NIIF para Pymes, con la contabilidad al día dentro de los primeros días del mes siguiente",
+        "Causación completa de compras, gastos y documentos de proveedores",
+        "Conciliaciones bancarias periódicas sobre tus cuentas",
+        "Gestión integral DIAN: declaraciones tributarias, retención en la fuente e IVA bimestral —incluida la operación de exportación—, con presentación oportuna",
+        "<strong>Planeación tributaria proactiva</strong>: seguimiento del IVA y la renta mes a mes, optimizaciones legales y proyección anticipada para preparar el flujo de caja, no improvisar sobre la fecha de vencimiento",
+        "Reporte financiero mensual —estado de resultados, situación financiera, flujo de caja e indicadores—, con <strong>socialización periódica de resultados</strong> para revisar el desempeño y los indicadores que necesitas para licitar",
+        "Estados financieros bajo NIIF — Estado de Resultados, Situación Financiera, Flujo de Efectivo y Cambios en el Patrimonio",
+        "Un analista dedicado y un auxiliar contable asignados a tu cuenta",
+        "Consultas ilimitadas vía WhatsApp con tu analista dedicado",
+        "Consultas con los profesionales de Capital Lab, sujetas a disponibilidad",
+        "Integración con tu software contable (Siigo) y plataforma tecnológica Capital Lab sin inversión de tu parte — automatización contable, sincronización con la DIAN y centralización documental"
+      ],
+      "nota": "<strong>Nuestra tarifa ya incluye los servicios anualizados:</strong> declaración de renta, información exógena, declaración de industria y comercio (ICA), renovación de Cámara de Comercio y emisión de estados financieros anuales con notas. <strong>No cobramos mes 13</strong> — a diferencia de la práctica tradicional del contador colombiano, que factura un mes adicional al año por estos eventos."
+    },
+    {
+      "etiqueta": "Implementación",
+      "tipo": "checklist",
+      "titulo": "Configuración tecnológica desde el día uno",
+      "items": [
+        "Conexión con tu software contable Siigo para registrar la información en tiempo real, sin cambiarte de herramienta ni duplicar trabajo",
+        "Configuración de reenvíos automáticos desde tu correo corporativo hacia Capital Lab para recepción inmediata de facturas, notas crédito/débito y documentos soporte",
+        "Sincronización DIAN automatizada: configuración del token DIAN hacia nuestros sistemas para validar en tiempo real que la información tributaria oficial esté completa",
+        "Opcional — usuario de consulta bancaria: si nos habilitan un usuario de solo consulta de tu entidad bancaria, conciliamos la información de forma más eficiente y con mayor control sobre las transacciones",
+        "Plataforma Capital Lab: licenciamiento y configuración para automatización de eventos electrónicos y centralización documental, con acceso para tu equipo"
+      ]
+    },
+    {
+      "etiqueta": "Proceso",
+      "tipo": "fases",
+      "titulo": "Cómo funciona",
+      "fases": [
+        {
+          "titulo": "Onboarding y configuración",
+          "texto": "Confirmamos el alcance de cada empresa, levantamos saldos y pendientes y configuramos toda la infraestructura tecnológica —conexión con Siigo, reenvíos de correo, token DIAN y usuario bancario— para arrancar la operación corriente.",
+          "tiempo": "2–4 semanas"
+        },
+        {
+          "titulo": "Operación continua",
+          "texto": "Información contable actualizada en tiempo real. Procesamiento automático de documentos electrónicos, ciclos periódicos de causación y depuración. Al cierre de cada mes conciliamos, completamos el procesamiento e iniciamos la emisión de reportes para tenerlos listos en los primeros días.",
+          "tiempo": "Mensual"
+        },
+        {
+          "titulo": "Información para decidir",
+          "texto": "Borradores de declaraciones tributarias con mínimo 3 días de anticipación a cada vencimiento, para preparar el flujo de caja con calma. Reporte financiero mensual con socialización de resultados —rentabilidad, flujo de caja e indicadores para licitar— y planeación tributaria anticipada con acompañamiento estratégico continuo.",
+          "tiempo": "Mensual"
+        }
+      ]
+    },
+    {
+      "etiqueta": "Diferenciales",
+      "tipo": "cards",
+      "titulo": "Por qué Capital Lab",
+      "cards": [
+        {
+          "etiqueta": "Tecnología propia",
+          "titulo": "Automatización real, no discurso",
+          "texto": "Nos conectamos directamente con tu Siigo y con la DIAN para procesar tu información de forma automática y validar que no falte ningún documento. Reducción del 50% en tiempos de respuesta frente al mercado contable tradicional — para que tengas tus cifras al día en los primeros días del mes, no semanas después."
+        },
+        {
+          "etiqueta": "Cero multas",
+          "titulo": "31+ clientes, 4 ciudades, cero sanciones",
+          "texto": "Firma registrada ante la Junta Central de Contadores con tarjeta profesional como persona jurídica. Borradores tributarios mínimo 3 días antes de cada vencimiento. Reportes financieros y análisis para decidir, no solo números. En todo nuestro portafolio, el número de multas por incumplimiento es cero."
+        },
+        {
+          "etiqueta": "Equipo dedicado",
+          "titulo": "Un equipo asignado a tu cuenta",
+          "texto": "Tu operación la lleva un equipo dedicado: un <strong>auxiliar contable</strong> que recopila y organiza la información, un <strong>analista dedicado</strong> que ejecuta el cierre y el cumplimiento tributario, y un <strong>contador público</strong> que revisa, firma los estados financieros y presenta las declaraciones. María Isabel lidera el frente tributario y Andrés Cano el frente financiero — un equipo multidisciplinario completo, con continuidad y cobertura permanente."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Acompañamiento",
+      "tipo": "texto",
+      "titulo": "Cerca, aunque seamos digitales",
+      "texto": [
+        "Sabemos que valoras tener a quién llamar y resolver en el momento. Por eso cada empresa cuenta con un analista dedicado y un canal de WhatsApp para consultas, además de horas mensuales para agendar espacios con nuestros profesionales.",
+        "La socialización de resultados es mensual y la hacemos de forma virtual —es como mejor funciona y lo que nos ha permitido acompañar clientes en cuatro ciudades del país—, con la posibilidad de encuentros presenciales puntuales cuando un tema lo amerite."
+      ]
+    },
+    {
+      "etiqueta": "Inversión",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversión",
+      "columnas": ["Concepto", "Valor mensual"],
+      "filas": [
+        ["Stratos Group SAS — acompañamiento contable, tributario y financiero", "$1.850.000 + IVA"],
+        ["IMA — acompañamiento contable, tributario y financiero", "$550.000 + IVA"],
+        ["<strong>Valor final del grupo</strong> (descuento del 20% por vincular ambas empresas)", "<strong>$2.400.000 + IVA</strong>"],
+        ["IVA (19%)", "$456.000"],
+        ["<strong>Total mensual a pagar (ambas empresas)</strong>", "<strong>$2.856.000</strong>"]
+      ],
+      "nota": "<strong>Cómo se compone:</strong> el valor base de atender ambas empresas es de $3.000.000 + IVA mensuales. Por vincular a Stratos Group e IMA como grupo aplicamos un <strong>descuento del 20%</strong>, dejando la inversión en $2.400.000 + IVA. Cada empresa se factura por separado —Stratos Group SAS $1.850.000 + IVA e IMA $550.000 + IVA— respetando su estructura societaria independiente.<br><br><strong>Vertex:</strong> cuando inicie operación facturable, preparamos una oferta independiente para esa compañía con una tarifa preferencial por ser ya clientes activos del grupo.<br><br><strong>Cómo definimos y ajustamos la tarifa:</strong> el precio de nuestros servicios se define por el nivel de ingresos de cada empresa y el volumen de información a procesar. A medida que la operación crece —o cuando IMA reactive su facturación—, la tarifa se ajusta en consecuencia. Por eso trabajamos con un <strong>contrato semestral y evaluaciones cada seis meses</strong>, para mantener la tarifa alineada con la realidad del negocio y garantizar siempre la oportunidad y la calidad del servicio.<br><br><strong>Vigencia:</strong> esta propuesta tiene vigencia de 30 días calendario desde la fecha de emisión."
+    },
+    {
+      "etiqueta": "Servicios adicionales",
+      "tipo": "dos_columnas",
+      "titulo": "Más allá de la contabilidad",
+      "columnas": [
+        {
+          "titulo": "Capital Lab — Servicios complementarios",
+          "items": [
+            "Revisoría fiscal",
+            "Valoración de empresas",
+            "Auditoría",
+            "Atención a requerimientos de entidades oficiales",
+            "Afiliaciones al sistema de seguridad social"
+          ]
+        },
+        {
+          "titulo": "DoClick — Partner legal aliado",
+          "items": [
+            "Asesoría legal empresarial",
+            "Trámites societarios y reformas",
+            "Acompañamiento ante Cámara de Comercio",
+            "Reconocidos Highly Recommended por Leaders League 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "etiqueta": "Condiciones",
+      "tipo": "lista",
+      "titulo": "Condiciones y notas",
+      "items": [
+        "Esta propuesta cubre a Stratos Group SAS e IMA. Cada empresa se factura por separado y la relación se formaliza con un contrato por cada una",
+        "Continúan a cargo del cliente, como opera hoy: la emisión de facturas electrónicas de venta, el registro de la caja menor, el seguimiento de cartera y recibos de caja, y la nómina electrónica. Capital Lab integra y consolida esa información dentro de la contabilidad",
+        "Esta propuesta no incluye: puesta a punto de información contable de períodos anteriores, ni gestión de trámites ante entidades oficiales por fuera de las obligaciones tributarias ordinarias (costo adicional)",
+        "La relación comercial se da por iniciada con el pago del primer mes y la firma del contrato que detalla las obligaciones de cada parte",
+        "El precio del servicio se define por el nivel de ingresos de cada empresa y el volumen de información a procesar. A medida que la operación crece, la tarifa se revisa y se ajusta en las evaluaciones semestrales, manteniendo la relación entre el servicio prestado y la realidad del negocio",
+        "Trabajamos con un contrato semestral. Cada seis meses realizamos una evaluación conjunta que nos permite ajustar la tarifa al nivel de actividad y asegurar la oportunidad y la calidad del servicio",
+        "La adecuada prestación del servicio está condicionada a la entrega correcta, completa y oportuna de la información contable. Contás con todo el apoyo de nuestro equipo y un ecosistema tecnológico completo para que este proceso sea natural",
+        "Vigencia de esta propuesta: 30 días calendario desde la fecha de emisión"
+      ]
+    },
+    {
+      "etiqueta": "Marco legal",
+      "tipo": "texto",
+      "titulo": "Cláusulas",
+      "texto": [
+        "Confidencialidad — Stratos Group SAS, IMA y Capital Lab S.A.S se comprometen a guardar absoluta confidencialidad y reserva sobre toda la información a la que tengan acceso en virtud de esta propuesta, su negociación, aceptación y la prestación del servicio. Cualquier revelación está prohibida y no podrá usarse como elemento de competencia desleal. Las condiciones específicas serán reguladas en el contrato de prestación de servicios.",
+        "Encargo de datos personales — Durante la prestación del servicio, Capital Lab actúa como Encargado del tratamiento de datos personales de terceros proporcionados por el cliente (Responsable), quien garantiza haber obtenido autorización de los titulares. Capital Lab usará los datos únicamente para la prestación de los servicios contratados y los suprimirá de sus sistemas al terminar la relación.",
+        "Tratamiento de datos personales — Stratos Group SAS e IMA autorizan a Capital Lab S.A.S a realizar el tratamiento de sus datos personales de conformidad con la normatividad vigente y la Política de Protección y Tratamiento de Datos Personales, accesible en caplab.com.co/tratamiento-de-datos. Capital Lab se compromete a respetar y facilitar el ejercicio de los derechos del cliente.",
+        "Formalización — Para efectos de formalizar la relación comercial se acuerda suscribir, por cada empresa: (1) contrato de prestación de servicios, (2) contrato de encargo de datos personales y (3) política de protección y tratamiento de datos personales."
+      ]
+    }
+  ]
+}
