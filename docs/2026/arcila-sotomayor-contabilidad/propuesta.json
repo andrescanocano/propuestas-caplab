@@ -1,0 +1,163 @@
+{
+  "titulo": "Capital Lab — Propuesta de Servicios Contables, Tributarios y Financieros",
+  "fecha": "10 de junio de 2026",
+  "referencia": "PROP-2026-012",
+  "titulo_hero": "Contabilidad, impuestos y finanzas para tu grupo — operadas por quien ya conoce tus números",
+  "subtitulo": "Preparada para Arcila y Sotomayor SAS y Táctica",
+  "contacto_nombre": "Andrés Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "<strong>Empecemos</strong>",
+  "cta_texto": "Ya conocemos su operación a fondo. Una conversación y arrancamos con el acompañamiento contable, tributario y financiero que Arcila y Sotomayor y Táctica necesitan.",
+  "secciones": [
+    {
+      "etiqueta": "El momento",
+      "titulo": "Ya conocemos sus números — demos el siguiente paso",
+      "tipo": "texto",
+      "texto": [
+        "Durante el último año acompañamos a Arcila y Sotomayor como revisores fiscales. Eso nos dio algo que ningún proveedor nuevo tiene: <strong>conocemos su operación a fondo</strong> —su contabilidad, su situación tributaria, sus oportunidades de optimización y los puntos que vale la pena ordenar—. No empezamos de cero; empezamos donde ya estamos.",
+        "Capital Lab no es una firma contable que usa tecnología. Somos una <strong>empresa de tecnología contable</strong> que traduce sus datos en decisiones. Para una firma como la suya, esa diferencia se traduce en tres cosas concretas: cumplimiento tributario sin sobresaltos, información financiera clara y oportuna para decidir, y un equipo completo que opera su contabilidad de principio a fin —con la <strong>confidencialidad</strong> que el ejercicio profesional exige.",
+        "Esta propuesta cubre el <strong>acompañamiento contable, tributario y financiero mensual</strong> de <strong>Arcila y Sotomayor SAS</strong> y <strong>Táctica</strong>. Operamos la contabilidad, gestionamos las obligaciones ante la DIAN y entregamos análisis financiero para decidir, bajo un solo equipo y una sola tarifa de grupo — respetando que cada empresa se facture por separado."
+      ]
+    },
+    {
+      "etiqueta": "Servicios incluidos",
+      "tipo": "checklist",
+      "titulo": "Todo lo que necesitan, nada que no",
+      "items": [
+        "Procesamiento mensual de información contable bajo NIIF para Pymes, con la contabilidad al día dentro de los primeros días del mes siguiente",
+        "Causación completa de compras, gastos y documentos soporte de proveedores",
+        "Conciliaciones bancarias periódicas sobre sus cuentas",
+        "Gestión integral DIAN: declaraciones tributarias, retención en la fuente, IVA bimestral e industria y comercio (ICA), con presentación oportuna",
+        "<strong>Planeación tributaria proactiva</strong>: seguimiento del IVA y la renta mes a mes, identificación de optimizaciones legales y proyección anticipada para preparar el flujo de caja, no improvisar sobre la fecha de vencimiento",
+        "Reporte financiero mensual —estado de resultados, situación financiera, flujo de caja e indicadores—, con <strong>socialización periódica de resultados</strong> para revisar el desempeño del negocio",
+        "Estados financieros bajo NIIF — Estado de Resultados, Situación Financiera, Flujo de Efectivo y Cambios en el Patrimonio, con sus notas",
+        "Un analista dedicado y un auxiliar contable asignados a su cuenta",
+        "Consultas ilimitadas vía WhatsApp con su analista dedicado",
+        "Consultas con los profesionales de Capital Lab, sujetas a disponibilidad",
+        "Plataforma tecnológica Capital Lab sin inversión de su parte — automatización contable, sincronización con la DIAN y centralización documental"
+      ],
+      "nota": "<strong>Nuestra tarifa ya incluye los servicios anualizados:</strong> declaración de renta, información exógena, declaración de industria y comercio (ICA), renovación de Cámara de Comercio y emisión de estados financieros anuales con notas. <strong>No cobramos mes 13</strong> — a diferencia de la práctica tradicional del contador colombiano, que factura un mes adicional al año por estos eventos."
+    },
+    {
+      "etiqueta": "Implementación",
+      "tipo": "checklist",
+      "titulo": "Los digitalizamos sin que cambien su forma de trabajar",
+      "items": [
+        "Configuración de reenvíos automáticos desde su correo corporativo hacia Capital Lab para recepción inmediata de facturas, notas crédito/débito y documentos soporte — sin que ustedes tengan que reenviar nada manualmente",
+        "Sincronización DIAN automatizada: configuración del token DIAN hacia nuestros sistemas para validar en tiempo real que la información tributaria oficial esté completa, documento por documento",
+        "Captura y causación automática de documentos electrónicos con nuestra plataforma —los documentos llegan, se leen y se contabilizan sin doble digitación—, eliminando el flujo de papel y escaneos",
+        "Opcional — usuario de consulta bancaria: si nos habilitan un usuario de solo consulta de su entidad bancaria, conciliamos la información de forma más eficiente y con mayor control sobre las transacciones",
+        "Levantamiento ordenado de saldos iniciales y configuración del plan de cuentas para arrancar la operación corriente con información confiable"
+      ]
+    },
+    {
+      "etiqueta": "Proceso",
+      "tipo": "fases",
+      "titulo": "Cómo funciona",
+      "fases": [
+        {
+          "titulo": "Onboarding y configuración",
+          "texto": "Confirmamos el alcance de cada empresa, levantamos saldos y pendientes y configuramos toda la infraestructura tecnológica —reenvíos de correo, token DIAN, captura automática de documentos y usuario bancario— para arrancar la operación corriente. Aquí partimos con ventaja: ya conocemos sus cifras.",
+          "tiempo": "2–4 semanas"
+        },
+        {
+          "titulo": "Operación continua",
+          "texto": "Información contable actualizada en tiempo real. Procesamiento automático de documentos electrónicos, ciclos periódicos de causación y depuración. Al cierre de cada mes conciliamos, completamos el procesamiento e iniciamos la emisión de reportes para tenerlos listos en los primeros días.",
+          "tiempo": "Mensual"
+        },
+        {
+          "titulo": "Información para decidir",
+          "texto": "Borradores de declaraciones tributarias con mínimo 3 días de anticipación a cada vencimiento, para preparar el flujo de caja con calma. Reporte financiero mensual con socialización de resultados —rentabilidad, flujo de caja e indicadores— y planeación tributaria anticipada con acompañamiento estratégico continuo.",
+          "tiempo": "Mensual"
+        }
+      ]
+    },
+    {
+      "etiqueta": "Diferenciales",
+      "tipo": "cards",
+      "titulo": "Por qué Capital Lab",
+      "cards": [
+        {
+          "etiqueta": "Ya los conocemos",
+          "titulo": "Arrancamos donde otros tardarían meses",
+          "texto": "Venimos de acompañar su revisoría fiscal y su cierre 2025. Conocemos su contabilidad, su situación tributaria y las oportunidades concretas de optimización de su operación. Ese conocimiento previo se traduce en una transición sin curva de aprendizaje y en valor desde el primer mes."
+        },
+        {
+          "etiqueta": "Cero multas",
+          "titulo": "31+ clientes, 4 ciudades, cero sanciones",
+          "texto": "Firma registrada ante la Junta Central de Contadores con tarjeta profesional como persona jurídica. Borradores tributarios mínimo 3 días antes de cada vencimiento. Reportes financieros y análisis para decidir, no solo números. En todo nuestro portafolio, el número de multas por incumplimiento es cero."
+        },
+        {
+          "etiqueta": "Equipo dedicado",
+          "titulo": "Un equipo asignado a su cuenta",
+          "texto": "Su operación la lleva un equipo dedicado: un <strong>auxiliar contable</strong> que recopila y organiza la información, un <strong>analista dedicado</strong> que ejecuta el cierre y el cumplimiento tributario, y un <strong>contador público</strong> que revisa, firma los estados financieros y presenta las declaraciones. María Isabel lidera el frente tributario y Andrés Cano el frente financiero — un equipo multidisciplinario completo, con continuidad y cobertura permanente."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Acompañamiento",
+      "tipo": "texto",
+      "titulo": "Cerca, aunque seamos digitales",
+      "texto": [
+        "Sabemos que valoran tener a quién llamar y resolver en el momento. Por eso cada empresa cuenta con un analista dedicado y un canal de WhatsApp para consultas, además de horas mensuales para agendar espacios con nuestros profesionales.",
+        "La socialización de resultados es mensual y la hacemos de forma virtual —es como mejor funciona y lo que nos ha permitido acompañar clientes en cuatro ciudades del país—, con la posibilidad de encuentros presenciales puntuales cuando un tema lo amerite."
+      ]
+    },
+    {
+      "etiqueta": "Inversión",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversión",
+      "columnas": ["Concepto", "Valor mensual"],
+      "filas": [
+        ["Arcila y Sotomayor SAS — acompañamiento contable, tributario y financiero", "$2.770.000 + IVA"],
+        ["Táctica — acompañamiento contable, tributario y financiero", "$590.000 + IVA"],
+        ["<strong>Valor del grupo (descuento del 10% por vincular ambas empresas)</strong>", "<strong>$3.360.000 + IVA</strong>"],
+        ["IVA (19%)", "$638.400"],
+        ["<strong>Total mensual a pagar (ambas empresas)</strong>", "<strong>$3.998.400</strong>"]
+      ],
+      "nota": "<strong>Cómo se compone:</strong> el valor base de atender ambas empresas es de $3.733.333 + IVA mensuales. Por vincular a Arcila y Sotomayor y Táctica como grupo aplicamos un <strong>descuento del 10%</strong>, dejando la inversión en $3.360.000 + IVA. Cada empresa se factura por separado —Arcila y Sotomayor SAS $2.770.000 + IVA y Táctica $590.000 + IVA— respetando su estructura societaria independiente.<br><br><strong>Beneficio para los socios:</strong> mientras el grupo sea cliente activo de Capital Lab, los accionistas acceden a una <strong>tarifa preferencial en la presentación de su declaración de renta de persona natural</strong>. Lo cotizamos aparte con el descuento aplicado cuando llegue la temporada.<br><br><strong>Cómo definimos y ajustamos la tarifa:</strong> el precio de nuestros servicios se define por el nivel de ingresos de cada empresa y el volumen de información a procesar. A medida que la operación crece, la tarifa se ajusta en consecuencia. Por eso trabajamos con un <strong>contrato semestral y evaluaciones cada seis meses</strong>, para mantener la tarifa alineada con la realidad del negocio y garantizar siempre la oportunidad y la calidad del servicio.<br><br><strong>Vigencia:</strong> esta propuesta tiene vigencia de 30 días calendario desde la fecha de emisión."
+    },
+    {
+      "etiqueta": "Servicios adicionales",
+      "tipo": "lista",
+      "titulo": "Más allá de la contabilidad",
+      "items": [
+        "Valoración de empresas",
+        "Auditoría",
+        "Atención a requerimientos de entidades oficiales",
+        "Afiliaciones al sistema de seguridad social",
+        "Declaración de renta de persona natural para los socios, con tarifa preferencial por ser el grupo cliente activo"
+      ],
+      "nota": "Estos servicios se cotizan de forma independiente según el alcance que se requiera."
+    },
+    {
+      "etiqueta": "Condiciones",
+      "tipo": "lista",
+      "titulo": "Condiciones y notas",
+      "items": [
+        "Esta propuesta cubre a Arcila y Sotomayor SAS y Táctica. Cada empresa se factura por separado y la relación se formaliza con un contrato por cada una",
+        "Al asumir la operación contable de Arcila y Sotomayor, el acompañamiento de revisoría fiscal actual se sustituye por este nuevo modelo de servicio integral",
+        "Continúan a cargo del cliente, como opera hoy: la emisión de facturas electrónicas de venta, el registro de la caja menor, el seguimiento de cartera y recibos de caja, y la nómina electrónica. Capital Lab integra y consolida esa información dentro de la contabilidad",
+        "Esta propuesta no incluye la puesta a punto de información contable de períodos anteriores —normalización de saldos heredados y depuración de cierres previos—, que se cotiza por separado según el alcance",
+        "Tampoco incluye la gestión de trámites ante entidades oficiales por fuera de las obligaciones tributarias ordinarias (costo adicional)",
+        "La relación comercial se da por iniciada con el pago del primer mes y la firma del contrato que detalla las obligaciones de cada parte",
+        "El precio del servicio se define por el nivel de ingresos de cada empresa y el volumen de información a procesar. A medida que la operación crece, la tarifa se revisa y se ajusta en las evaluaciones semestrales, manteniendo la relación entre el servicio prestado y la realidad del negocio",
+        "Trabajamos con un contrato semestral. Cada seis meses realizamos una evaluación conjunta que nos permite ajustar la tarifa al nivel de actividad y asegurar la oportunidad y la calidad del servicio",
+        "La adecuada prestación del servicio está condicionada a la entrega correcta, completa y oportuna de la información contable. Cuentan con todo el apoyo de nuestro equipo y un ecosistema tecnológico completo para que este proceso sea natural",
+        "Vigencia de esta propuesta: 30 días calendario desde la fecha de emisión"
+      ]
+    },
+    {
+      "etiqueta": "Marco legal",
+      "tipo": "texto",
+      "titulo": "Cláusulas",
+      "texto": [
+        "Confidencialidad — Arcila y Sotomayor SAS, Táctica y Capital Lab S.A.S se comprometen a guardar absoluta confidencialidad y reserva sobre toda la información a la que tengan acceso en virtud de esta propuesta, su negociación, aceptación y la prestación del servicio. Cualquier revelación está prohibida y no podrá usarse como elemento de competencia desleal. Las condiciones específicas serán reguladas en el contrato de prestación de servicios.",
+        "Encargo de datos personales — Durante la prestación del servicio, Capital Lab actúa como Encargado del tratamiento de datos personales de terceros proporcionados por el cliente (Responsable), quien garantiza haber obtenido autorización de los titulares. Capital Lab usará los datos únicamente para la prestación de los servicios contratados y los suprimirá de sus sistemas al terminar la relación.",
+        "Tratamiento de datos personales — Arcila y Sotomayor SAS y Táctica autorizan a Capital Lab S.A.S a realizar el tratamiento de sus datos personales de conformidad con la normatividad vigente y la Política de Protección y Tratamiento de Datos Personales, accesible en caplab.com.co/tratamiento-de-datos. Capital Lab se compromete a respetar y facilitar el ejercicio de los derechos del cliente.",
+        "Formalización — Para efectos de formalizar la relación comercial se acuerda suscribir, por cada empresa: (1) contrato de prestación de servicios, (2) contrato de encargo de datos personales y (3) política de protección y tratamiento de datos personales."
+      ]
+    }
+  ]
+}
