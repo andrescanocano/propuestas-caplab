@@ -110,13 +110,13 @@
       "titulo": "Detalle de la inversión",
       "columnas": ["Concepto", "Valor mensual"],
       "filas": [
-        ["Arcila y Sotomayor SAS — acompañamiento contable, tributario y financiero", "$2.770.000 + IVA"],
-        ["Táctica — acompañamiento contable, tributario y financiero", "$590.000 + IVA"],
-        ["<strong>Valor del grupo (descuento del 10% por vincular ambas empresas)</strong>", "<strong>$3.360.000 + IVA</strong>"],
+        ["Acompañamiento contable, tributario y financiero — Arcila y Sotomayor SAS y Táctica (ambas empresas)", "$3.733.333 + IVA"],
+        ["Descuento del 10% por vincular ambas empresas como grupo", "−$373.333"],
+        ["<strong>Valor mensual del grupo, con descuento (ambas empresas)</strong>", "<strong>$3.360.000 + IVA</strong>"],
         ["IVA (19%)", "$638.400"],
         ["<strong>Total mensual a pagar (ambas empresas)</strong>", "<strong>$3.998.400</strong>"]
       ],
-      "nota": "<strong>Cómo se compone:</strong> el valor base de atender ambas empresas es de $3.733.333 + IVA mensuales. Por vincular a Arcila y Sotomayor y Táctica como grupo aplicamos un <strong>descuento del 10%</strong>, dejando la inversión en $3.360.000 + IVA. Cada empresa se factura por separado —Arcila y Sotomayor SAS $2.770.000 + IVA y Táctica $590.000 + IVA— respetando su estructura societaria independiente.<br><br><strong>Beneficio para los socios:</strong> mientras el grupo sea cliente activo de Capital Lab, los accionistas acceden a una <strong>tarifa preferencial en la presentación de su declaración de renta de persona natural</strong>. Lo cotizamos aparte con el descuento aplicado cuando llegue la temporada.<br><br><strong>Cómo definimos y ajustamos la tarifa:</strong> el precio de nuestros servicios se define por el nivel de ingresos de cada empresa y el volumen de información a procesar. A medida que la operación crece, la tarifa se ajusta en consecuencia. Por eso trabajamos con un <strong>contrato semestral y evaluaciones cada seis meses</strong>, para mantener la tarifa alineada con la realidad del negocio y garantizar siempre la oportunidad y la calidad del servicio.<br><br><strong>Vigencia:</strong> esta propuesta tiene vigencia de 30 días calendario desde la fecha de emisión."
+      "nota": "<strong>Cómo se compone:</strong> el valor cubre la operación contable, tributaria y financiera de ambas empresas —Arcila y Sotomayor SAS y Táctica—. Sobre el valor base de $3.733.333 + IVA aplicamos un <strong>descuento del 10%</strong> (−$373.333) por vincularlas como grupo, dejando la inversión mensual en $3.360.000 + IVA ($3.998.400 con IVA incluido).<br><br><strong>Beneficio para los socios:</strong> mientras el grupo sea cliente activo de Capital Lab, los accionistas acceden a una <strong>tarifa preferencial en la presentación de su declaración de renta de persona natural</strong>. Lo cotizamos aparte con el descuento aplicado cuando llegue la temporada.<br><br><strong>Cómo definimos y ajustamos la tarifa:</strong> el precio de nuestros servicios se define por el nivel de ingresos de cada empresa y el volumen de información a procesar. A medida que la operación crece, la tarifa se ajusta en consecuencia. Por eso trabajamos con un <strong>contrato semestral y evaluaciones cada seis meses</strong>, para mantener la tarifa alineada con la realidad del negocio y garantizar siempre la oportunidad y la calidad del servicio.<br><br><strong>Vigencia:</strong> esta propuesta tiene vigencia de 30 días calendario desde la fecha de emisión."
     },
     {
       "etiqueta": "Servicios adicionales",
@@ -136,7 +136,7 @@
       "tipo": "lista",
       "titulo": "Condiciones y notas",
       "items": [
-        "Esta propuesta cubre a Arcila y Sotomayor SAS y Táctica. Cada empresa se factura por separado y la relación se formaliza con un contrato por cada una",
+        "Esta propuesta cubre a Arcila y Sotomayor SAS y Táctica; la relación se formaliza con un contrato de prestación de servicios por cada empresa",
         "Al asumir la operación contable de Arcila y Sotomayor, el acompañamiento de revisoría fiscal actual se sustituye por este nuevo modelo de servicio integral",
         "Continúan a cargo del cliente, como opera hoy: la emisión de facturas electrónicas de venta, el registro de la caja menor, el seguimiento de cartera y recibos de caja, y la nómina electrónica. Capital Lab integra y consolida esa información dentro de la contabilidad",
         "Esta propuesta no incluye la puesta a punto de información contable de períodos anteriores —normalización de saldos heredados y depuración de cierres previos—, que se cotiza por separado según el alcance",
