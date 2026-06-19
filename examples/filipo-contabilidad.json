@@ -1,0 +1,181 @@
+{
+  "titulo": "Capital Lab — Propuesta de Servicios Contables, Tributarios y Financieros",
+  "fecha": "19 de junio de 2026",
+  "referencia": "PROP-2026-013",
+  "titulo_hero": "Tu contabilidad, tus impuestos y tu nómina al día — en un solo equipo potenciado por tecnología",
+  "subtitulo": "Preparada para Filipo Pizzeria",
+  "contacto_nombre": "Andrés Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "<strong>Empecemos</strong>",
+  "cta_texto": "Conocemos el momento que vive Filipo Pizzeria. Una llamada y arrancamos para que la transición a la nueva empresa y el cumplimiento de tus obligaciones queden impecables desde el primer mes.",
+  "secciones": [
+    {
+      "etiqueta": "El momento",
+      "titulo": "Entendemos el momento de Filipo Pizzeria",
+      "tipo": "texto",
+      "texto": [
+        "Filipo Pizzeria está en un momento de crecimiento y ordenamiento: un local consolidado en Belén, un segundo punto a punto de abrir en San Lucas y la migración de la operación a la nueva empresa antes del cierre de junio. Es justo el momento para dejar la contabilidad, los impuestos y la nómina sobre una base sólida — y dejar atrás un esquema que hoy no te está respondiendo (nómina electrónica y medios magnéticos sin reportar, documento soporte sin emitir, sin reportes para entender el negocio).",
+        "Capital Lab no es una firma contable que usa tecnología. Somos una <strong>empresa de tecnología contable</strong> que traduce tus datos en decisiones. Para un negocio de restaurantes como el tuyo —alto volumen de compras, régimen de impuesto al consumo y nómina operativa— esa diferencia se traduce en tres cosas concretas: cumplimiento sin sobresaltos, información financiera clara para decidir entre dos puntos de venta, y un equipo completo que opera tu contabilidad de principio a fin. <strong>Ya acompañamos a otros restaurantes</strong>, así que conocemos de cerca los retos de tu operación.",
+        "Esta propuesta cubre el <strong>acompañamiento contable, tributario y financiero mensual completo</strong> de Filipo Pizzeria e incluye, como servicio adicional, la <strong>gestión de tu nómina</strong> variabilizada por número de empleados."
+      ]
+    },
+    {
+      "etiqueta": "Servicios incluidos",
+      "tipo": "checklist",
+      "titulo": "Todo lo que incluye",
+      "items": [
+        "Procesamiento mensual de información contable bajo NIIF para Pymes",
+        "Causación completa de compras, ventas y gastos, con manejo de impuesto al consumo",
+        "Conciliaciones bancarias periódicas sobre tus cuentas",
+        "Gestión integral DIAN: declaraciones tributarias, retenciones, IVA, impuesto al consumo y presentación oportuna",
+        "Emisión de documento soporte electrónico ante la DIAN por las compras a quienes no facturan electrónicamente",
+        "Asesoría tributaria y financiera proactiva: planeación, optimizaciones legales y acompañamiento para la toma de decisiones",
+        "Reporte financiero con socialización periódica de resultados (recomendamos un ritmo trimestral)",
+        "Estados financieros bajo NIIF — Estado de Resultados, Situación Financiera, Flujo de Efectivo y Cambios en el Patrimonio",
+        "Un analista contable dedicado y un auxiliar contable asignados a tu cuenta",
+        "Consultas ilimitadas vía WhatsApp con tu analista dedicado",
+        "Consultas con los profesionales de Capital Lab, sujetas a disponibilidad",
+        "Software contable y plataforma tecnológica Capital Lab proporcionados por nosotros, sin inversión de tu parte — automatización contable y centralización documental"
+      ],
+      "nota": "<strong>Nuestra tarifa ya incluye los servicios anualizados:</strong> declaración de renta, información exógena, declaración de industria y comercio (ICA), renovación de Cámara de Comercio y emisión de estados financieros anuales con notas. <strong>No cobramos mes 13</strong> — a diferencia de la práctica tradicional del contador colombiano, que factura un mes adicional al año por estos eventos."
+    },
+    {
+      "etiqueta": "Nómina",
+      "tipo": "checklist",
+      "titulo": "Gestión de nómina — servicio adicional",
+      "texto": "Nos planteaste la necesidad de ordenar la nómina. La incluimos como un servicio adicional, variabilizado por número de empleados, que cubre:",
+      "items": [
+        "Liquidación mensual de nómina y generación de las colillas de pago",
+        "Liquidación de la planilla de seguridad social (PILA) mensual",
+        "Liquidación de prestaciones sociales: primas, cesantías, intereses sobre cesantías y vacaciones",
+        "Nómina electrónica reportada ante la DIAN"
+      ],
+      "nota": "<strong>No incluye las afiliaciones</strong> al sistema de seguridad social, que hoy gestiona tu aliado de recursos humanos. <strong>El valor de la nómina es variable: $30.000 por empleado al mes</strong> (referencia: 10 empleados = $300.000 mensuales). El total se ajusta cada mes al número real de empleados activos, por lo que crece de forma natural cuando abras San Lucas."
+    },
+    {
+      "etiqueta": "Implementación",
+      "tipo": "checklist",
+      "titulo": "Configuración tecnológica desde el día uno",
+      "items": [
+        "Definición del flujo de causación sobre la herramienta contable, sin duplicar trabajo ni reprocesos",
+        "Configuración de reenvíos automáticos desde tu correo corporativo hacia Capital Lab para recepción inmediata de facturas, notas crédito/débito y documentos soporte",
+        "Sincronización DIAN automatizada: configuración del token DIAN hacia nuestros sistemas para tener tu información tributaria oficial en tiempo real",
+        "Integración con tu entidad bancaria: gestión del usuario de consulta para conciliaciones precisas y control detallado de transacciones",
+        "Parametrización de centros de costos para separar lo administrativo de cada punto de venta (Belén y San Lucas), si decides usar tu Siigo o el software que te proporcionamos",
+        "Plataforma Capital Lab: licenciamiento y configuración para automatización de eventos electrónicos y centralización documental"
+      ]
+    },
+    {
+      "etiqueta": "Proceso",
+      "tipo": "fases",
+      "titulo": "Cómo funciona",
+      "fases": [
+        {
+          "titulo": "Diagnóstico y onboarding",
+          "texto": "Levantamos el alcance, ordenamos los pendientes de la nueva empresa y configuramos toda la infraestructura tecnológica para arrancar la operación corriente. Coordinamos la transición de los empleados a la nueva razón social antes del cierre de junio.",
+          "tiempo": "2–4 semanas"
+        },
+        {
+          "titulo": "Operación continua",
+          "texto": "Información contable actualizada en tiempo real. Procesamiento automático de documentos electrónicos, ciclos periódicos de causación y depuración. Al cierre de cada mes conciliamos, completamos el procesamiento e iniciamos la emisión de reportes.",
+          "tiempo": "Mensual"
+        },
+        {
+          "titulo": "Información para decidir",
+          "texto": "Borradores de declaraciones tributarias mínimo 3 días antes de cada vencimiento. Reporte financiero para revisar rentabilidad, flujo de caja y desempeño de cada punto de venta, con socialización periódica de resultados. Acompañamiento estratégico continuo.",
+          "tiempo": "Mensual / Trimestral"
+        }
+      ]
+    },
+    {
+      "etiqueta": "Diferenciales",
+      "tipo": "cards",
+      "titulo": "Por qué Capital Lab",
+      "cards": [
+        {
+          "etiqueta": "Tecnología propia",
+          "titulo": "Automatización real, no discurso",
+          "texto": "Nuestra plataforma automatiza hasta el 90% de los eventos electrónicos, se conecta directamente con la DIAN y procesa información de forma automática. Reducción del 50% en tiempos de respuesta frente al mercado contable tradicional. Acceso a software contable y herramientas tecnológicas sin inversión inicial — todo incluido en la tarifa."
+        },
+        {
+          "etiqueta": "Cero multas",
+          "titulo": "31+ clientes, 4 ciudades, cero sanciones",
+          "texto": "Firma registrada ante la Junta Central de Contadores con tarjeta profesional como persona jurídica. Borradores tributarios mínimo 3 días antes de cada vencimiento. Dashboards ejecutivos, análisis descriptivo y reportes financieros para decidir — no solo números. En todo nuestro portafolio, el número de multas por incumplimiento es cero."
+        },
+        {
+          "etiqueta": "Equipo dedicado",
+          "titulo": "Un equipo asignado a tu cuenta",
+          "texto": "Tu operación la lleva un equipo dedicado: un <strong>auxiliar contable</strong> que recopila y organiza la información, un <strong>analista dedicado</strong> que ejecuta el cierre y el cumplimiento tributario, y un <strong>contador público</strong> que revisa, firma los estados financieros y presenta las declaraciones. María Isabel lidera el frente tributario y Andrés Cano el frente financiero — un equipo multidisciplinario completo respaldando tu contabilidad, con continuidad y cobertura permanente."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Inversión",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversión",
+      "columnas": ["Concepto", "Valor mensual"],
+      "filas": [
+        ["Gestión contable, tributaria y financiera mensual — valor base", "$2.500.000 + IVA"],
+        ["Liquidación de nómina y planilla de seguridad social", "$30.000 por empleado (variable)"],
+        ["Software contable y plataforma (incluido)", "$0"],
+        ["<strong>Subtotal base mensual</strong> (sin nómina)", "<strong>$2.500.000 + IVA</strong>"],
+        ["IVA (19%) sobre el valor base", "$475.000"],
+        ["<strong>Total mensual base</strong> (sin nómina)", "<strong>$2.975.000</strong>"]
+      ],
+      "nota": "<strong>El valor de la nómina es variable</strong> y se suma al total según el número de empleados activos cada mes: $30.000 por empleado + IVA (referencia: 10 empleados = $300.000 + IVA).<br><br><strong>Cómo definimos y ajustamos la tarifa:</strong> el precio de nuestros servicios se define por el nivel de ingresos de la empresa y el volumen de información a procesar. A medida que los ingresos crecen, la tarifa se ajusta en consecuencia. Por eso trabajamos con un <strong>contrato semestral y evaluaciones cada seis meses</strong>. Con la apertura de San Lucas revisaremos la tarifa para alinearla con el nuevo nivel de operación.<br><br><strong>Vigencia:</strong> esta propuesta tiene vigencia de 30 días calendario desde la fecha de emisión."
+    },
+    {
+      "etiqueta": "Servicios adicionales",
+      "tipo": "dos_columnas",
+      "titulo": "Más allá de la contabilidad",
+      "columnas": [
+        {
+          "titulo": "Capital Lab — Servicios complementarios",
+          "items": [
+            "Acompañamiento en la implementación de política de cartera y flujo de caja",
+            "Afiliaciones al sistema de seguridad social",
+            "Revisoría fiscal",
+            "Valoración de empresas",
+            "Auditoría",
+            "Atención a requerimientos de entidades oficiales"
+          ]
+        },
+        {
+          "titulo": "DoClick — Partner legal aliado",
+          "items": [
+            "Asesoría legal empresarial",
+            "Trámites societarios y reformas",
+            "Acompañamiento ante Cámara de Comercio",
+            "Reconocidos Highly Recommended por Leaders League 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "etiqueta": "Condiciones",
+      "tipo": "lista",
+      "titulo": "Condiciones y notas",
+      "items": [
+        "El valor de la nómina se factura según el número de empleados activos en cada período ($30.000 por empleado + IVA) y no incluye las afiliaciones al sistema de seguridad social",
+        "Esta propuesta no incluye: puesta a punto de información contable de períodos anteriores, emisión de facturas electrónicas (la realiza el cliente desde su herramienta de facturación), ni gestión de trámites ante entidades oficiales por fuera de las obligaciones tributarias ordinarias (costo adicional)",
+        "La relación comercial se da por iniciada con el pago del primer mes y la firma del contrato que detalla las obligaciones de cada parte",
+        "El precio del servicio se define por el nivel de ingresos de la empresa y el volumen de información a procesar. A medida que la operación crece —en particular con la apertura del nuevo punto de venta— la tarifa se revisa y se ajusta en las evaluaciones semestrales",
+        "Trabajamos con un contrato semestral. Cada seis meses realizamos una evaluación conjunta que nos permite ajustar la tarifa al nivel de actividad y asegurar la oportunidad y la calidad del servicio",
+        "La adecuada prestación del servicio está condicionada a la entrega correcta, completa y oportuna de la información contable. Contás con todo el apoyo de nuestro equipo y un ecosistema tecnológico completo para que este proceso sea natural",
+        "Vigencia de esta propuesta: 30 días calendario desde la fecha de emisión"
+      ]
+    },
+    {
+      "etiqueta": "Marco legal",
+      "tipo": "texto",
+      "titulo": "Cláusulas",
+      "texto": [
+        "Confidencialidad — Filipo Pizzeria y Capital Lab S.A.S se comprometen a guardar absoluta confidencialidad y reserva sobre toda la información a la que tengan acceso en virtud de esta propuesta, su negociación, aceptación y la prestación del servicio. Cualquier revelación está prohibida y no podrá usarse como elemento de competencia desleal. Las condiciones específicas serán reguladas en el contrato de prestación de servicios.",
+        "Encargo de datos personales — Durante la prestación del servicio, Capital Lab actúa como Encargado del tratamiento de datos personales de terceros proporcionados por el cliente (Responsable), quien garantiza haber obtenido autorización de los titulares. Capital Lab usará los datos únicamente para la prestación de los servicios contratados y los suprimirá de sus sistemas al terminar la relación.",
+        "Tratamiento de datos personales — Filipo Pizzeria autoriza a Capital Lab S.A.S a realizar el tratamiento de sus datos personales de conformidad con la normatividad vigente y la Política de Protección y Tratamiento de Datos Personales, accesible en caplab.com.co/tratamiento-de-datos. Capital Lab se compromete a respetar y facilitar el ejercicio de los derechos del cliente.",
+        "Formalización — Para efectos de formalizar la relación comercial se acuerda suscribir: (1) contrato de prestación de servicios, (2) contrato de encargo de datos personales y (3) política de protección y tratamiento de datos personales."
+      ]
+    }
+  ]
+}
