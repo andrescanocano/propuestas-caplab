@@ -1,0 +1,259 @@
+{
+  "titulo": "Capital Lab — Propuesta de Constitución y Servicios Contables",
+  "fecha": "22 de junio de 2026",
+  "referencia": "PROP-2026-014",
+  "titulo_hero": "Formaliza tu e-commerce y lleva tu contabilidad bien desde el primer día",
+  "subtitulo": "Preparada para Esteban Gómez",
+  "contacto_nombre": "Andrés Cano",
+  "contacto_cargo": "CEO",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "<strong>Empecemos</strong>",
+  "cta_texto": "Cuéntanos un poco más de tu operación y avanzamos. Para nosotros la contabilidad bien hecha es ventaja, no cumplimiento.",
+  "secciones": [
+    {
+      "etiqueta": "Contexto",
+      "titulo": "Dónde estás hoy",
+      "tipo": "texto",
+      "texto": [
+        "Tienes un e-commerce que viene creciendo: hoy facturas entre $100 y $150 millones al mes y proyectas cerrar julio entre $400 y $500 millones. Es un buen momento — y también el momento de hacer las cosas bien desde el inicio.",
+        "Como el negocio aún no está formalizado, esta propuesta cubre los dos frentes que necesitas resolver: <strong>(1) constituir la sociedad</strong> para operar en regla, y <strong>(2) montar tu contabilidad</strong> con un equipo y una plataforma que te den información para decidir, no solo para cumplir.",
+        "<strong>Una nota sobre las tarifas:</strong> nuestro acompañamiento contable se cotiza según el nivel de ventas y el volumen de información que mueve el negocio. El valor de esta propuesta corresponde a tu rango actual y lo revisaremos el próximo año según cómo cierren tus ventas de 2026."
+      ]
+    },
+    {
+      "etiqueta": "Paso 1 — Constitución",
+      "titulo": "Constituimos tu sociedad",
+      "tipo": "checklist",
+      "texto": "El primer paso es formalizar. Este proceso lo atendemos junto a <strong>DoClick</strong>, nuestra firma legal aliada especializada en derecho societario, que se encarga de toda la parte legal del trámite.",
+      "items": [
+        "Proyección del documento de constitución (estatutos)",
+        "Acompañamiento durante todo el proceso",
+        "Diligenciamiento de los formularios (toda la parte legal del trámite)",
+        "Ingreso del trámite ante la Cámara de Comercio"
+      ]
+    },
+    {
+      "etiqueta": "Quiénes te acompañan",
+      "titulo": "Dos equipos, un mismo proceso",
+      "tipo": "dos_columnas",
+      "columnas": [
+        {
+          "titulo": "DoClick — Trámites legales y societarios",
+          "items": [
+            "Elaboración del documento de constitución y estatutos",
+            "Diligenciamiento de formularios e ingreso a Cámara de Comercio",
+            "Acompañamiento legal durante el proceso"
+          ]
+        },
+        {
+          "titulo": "Capital Lab — Acompañamiento tributario",
+          "items": [
+            "Orientación sobre la estructura tributaria del negocio",
+            "Definición del régimen recomendado (ordinario vs. simple)",
+            "Enlace con el arranque contable y la configuración DIAN"
+          ]
+        }
+      ]
+    },
+    {
+      "etiqueta": "Por qué SAS",
+      "titulo": "Por qué una SAS",
+      "tipo": "cards",
+      "cards": [
+        {
+          "etiqueta": "Responsabilidad limitada",
+          "texto": "Los socios responden hasta el monto de sus aportes. Tu patrimonio personal queda protegido."
+        },
+        {
+          "etiqueta": "Flexibilidad",
+          "texto": "Estatutos adaptables a tu negocio, sin junta directiva ni revisor fiscal obligatorios bajo ciertos umbrales."
+        },
+        {
+          "etiqueta": "Simplicidad",
+          "texto": "Constitución por documento privado, sin escritura pública. Proceso rápido para empezar a operar formal."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Timeline",
+      "titulo": "Cómo avanza la constitución",
+      "tipo": "fases",
+      "fases": [
+        {
+          "titulo": "Definición",
+          "texto": "Nombre, objeto social, socios, aportes y estructura de gobierno.",
+          "tiempo": "1 semana"
+        },
+        {
+          "titulo": "Formalización",
+          "texto": "Elaboración de documentos, firma e ingreso del trámite a la Cámara de Comercio.",
+          "tiempo": "1-2 semanas"
+        },
+        {
+          "titulo": "Lista para operar",
+          "texto": "Sociedad registrada y conectada con el arranque contable y la configuración DIAN.",
+          "tiempo": "Continúa con el Paso 2"
+        }
+      ]
+    },
+    {
+      "etiqueta": "Inversión — Constitución",
+      "titulo": "Inversión — Constitución (pago único)",
+      "tipo": "tabla",
+      "columnas": ["Concepto", "Valor"],
+      "filas": [
+        ["Constitución de la sociedad (asesoría + parte legal + ingreso a Cámara)", "$3.550.000"],
+        ["IVA (19%)", "$674.500"],
+        ["<strong>Total (pago único)</strong>", "<strong>$4.224.500</strong>"]
+      ],
+      "nota": "<strong>No incluye</strong> los gastos de registro ni el impuesto de registro ante la Cámara de Comercio, ni cualquier otro costo que esta cobre. Estos dependen del capital social que definas y se pagan directamente a la Cámara. Te orientamos sobre el monto óptimo."
+    },
+    {
+      "etiqueta": "Paso 2 — Contabilidad",
+      "titulo": "Llevamos tu contabilidad mensual",
+      "tipo": "checklist",
+      "texto": "Una vez constituida la sociedad, nos encargamos de toda tu operación contable, tributaria y financiera — incluyendo la puesta a punto inicial ante la DIAN.",
+      "items": [
+        "Configuración inicial DIAN en el onboarding: inscripción del RUT, definición del régimen (ordinario vs. simple) y resolución de facturación electrónica",
+        "Procesamiento mensual de la información contable",
+        "Gestión integral DIAN: declaraciones, retenciones y facturación electrónica",
+        "Contabilidad bajo NIIF y estados financieros",
+        "Planeación tributaria y optimización fiscal",
+        "Conciliaciones de cuentas clave",
+        "Consultas ilimitadas con nuestros profesionales",
+        "Analista contable dedicado a tu cuenta",
+        "Plataforma de automatización y software contable propio (incluido)"
+      ]
+    },
+    {
+      "etiqueta": "Por qué Capital Lab",
+      "titulo": "Por qué Capital Lab",
+      "tipo": "cards",
+      "cards": [
+        {
+          "etiqueta": "Tecnología propia",
+          "texto": "Plataforma que captura, procesa y registra tu información automáticamente, con acceso directo a las bases de datos de la DIAN."
+        },
+        {
+          "etiqueta": "Anticipación",
+          "texto": "Te entregamos los borradores tributarios varios días antes del vencimiento. Cero multas por incumplimiento en todo nuestro portafolio."
+        },
+        {
+          "etiqueta": "Información para decidir",
+          "texto": "Estados financieros, indicadores y proyecciones que traducen los números en decisiones para tu negocio."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Cómo funciona",
+      "titulo": "Cómo funciona el servicio",
+      "tipo": "fases",
+      "fases": [
+        {
+          "titulo": "Diagnóstico y onboarding",
+          "texto": "Entendemos tu operación, configuramos los flujos automáticos y dejamos lista la parte DIAN (RUT, régimen, facturación electrónica).",
+          "tiempo": "2-4 semanas"
+        },
+        {
+          "titulo": "Operación continua",
+          "texto": "Procesamiento automático de documentos, ciclos semanales y cierre mensual en pocos días.",
+          "tiempo": "Mensual"
+        },
+        {
+          "titulo": "Información oportuna",
+          "texto": "Estados financieros bajo NIIF, dashboards y proyecciones de flujo de caja.",
+          "tiempo": "Periódica"
+        }
+      ]
+    },
+    {
+      "etiqueta": "Inversión — Contabilidad",
+      "titulo": "Inversión — Contabilidad mensual",
+      "tipo": "tabla",
+      "columnas": ["Concepto", "Valor mensual"],
+      "filas": [
+        ["Gestión contable, tributaria y financiera", "$2.250.000"],
+        ["Software contable (incluido)", "$0"],
+        ["IVA (19%)", "$427.500"],
+        ["<strong>Total mensual</strong>", "<strong>$2.677.500</strong>"]
+      ],
+      "nota": "La tarifa depende del <strong>nivel de ventas y del volumen de información</strong> del negocio. Este valor corresponde a tu rango de ventas actual y se revisará el próximo año según el cierre de ventas de 2026. <strong>Nuestra tarifa ya incluye los servicios anualizados: no cobramos mes 13.</strong>"
+    },
+    {
+      "etiqueta": "Tu equipo",
+      "titulo": "Quién está detrás de tu contabilidad",
+      "tipo": "dos_columnas",
+      "columnas": [
+        {
+          "titulo": "Un equipo, no una sola persona",
+          "items": [
+            "Auxiliar contable que procesa el día a día",
+            "Analista dedicado a tu cuenta",
+            "Contador público que revisa y firma",
+            "Continuidad garantizada: el servicio no depende de una sola persona"
+          ]
+        },
+        {
+          "titulo": "Liderazgo",
+          "items": [
+            "María Isabel — liderazgo tributario",
+            "Andrés Cano — liderazgo financiero",
+            "Firma con tarjeta profesional ante la Junta Central de Contadores"
+          ]
+        }
+      ]
+    },
+    {
+      "etiqueta": "Servicios adicionales",
+      "titulo": "Más allá de la contabilidad",
+      "tipo": "dos_columnas",
+      "columnas": [
+        {
+          "titulo": "Capital Lab — Servicios complementarios",
+          "items": [
+            "Revisoría fiscal",
+            "Valoración de empresas",
+            "Auditoría",
+            "Atención a requerimientos de entidades oficiales",
+            "Afiliaciones al sistema de seguridad social"
+          ]
+        },
+        {
+          "titulo": "DoClick — Partner legal aliado",
+          "items": [
+            "Asesoría legal empresarial",
+            "Trámites societarios y reformas",
+            "Acompañamiento ante Cámara de Comercio",
+            "Reconocidos Highly Recommended por Leaders League 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "etiqueta": "Condiciones",
+      "titulo": "Condiciones y notas",
+      "tipo": "lista",
+      "items": [
+        "Esta propuesta contempla dos servicios independientes: la constitución de la sociedad (pago único, a través de nuestra firma legal aliada DoClick) y el acompañamiento contable mensual. Pueden contratarse de forma conjunta o por separado.",
+        "La oferta de constitución no incluye los gastos de registro ni el impuesto de registro ante la Cámara de Comercio, ni cualquier otro costo que esta cobre; dependen del capital social definido y se pagan directamente a la Cámara.",
+        "El acompañamiento contable no incluye: puesta a punto de información contable de períodos anteriores, ni gestión de trámites ante entidades oficiales por fuera de las obligaciones tributarias ordinarias (costo adicional).",
+        "El precio del servicio contable se define por el nivel de ventas y el volumen de información a procesar. Como el negocio está iniciando, este valor corresponde al rango de ventas actual y se revisará el próximo año según el cierre de ventas de 2026, ajustándolo a la realidad de la operación.",
+        "Nuestra tarifa ya incluye los servicios anualizados: no cobramos mes 13.",
+        "La relación comercial se da por iniciada con el pago del primer mes (servicio contable) y la firma del contrato que detalla las obligaciones de cada parte.",
+        "La adecuada prestación del servicio está condicionada a la entrega correcta, completa y oportuna de la información contable. Cuentas con todo el apoyo de nuestro equipo y un ecosistema tecnológico completo para que este proceso sea natural.",
+        "Vigencia de esta propuesta: 30 días calendario desde la fecha de emisión."
+      ]
+    },
+    {
+      "etiqueta": "Marco legal",
+      "titulo": "Cláusulas",
+      "tipo": "texto",
+      "texto": [
+        "Confidencialidad — Esteban Gómez y Capital Lab S.A.S se comprometen a guardar absoluta confidencialidad y reserva sobre toda la información a la que tengan acceso en virtud de esta propuesta, su negociación, aceptación y la prestación del servicio. Cualquier revelación está prohibida y no podrá usarse como elemento de competencia desleal. Las condiciones específicas serán reguladas en el contrato de prestación de servicios.",
+        "Encargo de datos personales — Durante la prestación del servicio, Capital Lab actúa como Encargado del tratamiento de datos personales de terceros proporcionados por el cliente (Responsable), quien garantiza haber obtenido autorización de los titulares. Capital Lab usará los datos únicamente para la prestación de los servicios contratados y los suprimirá de sus sistemas al terminar la relación.",
+        "Tratamiento de datos personales — Esteban Gómez autoriza a Capital Lab S.A.S a realizar el tratamiento de sus datos personales de conformidad con la normatividad vigente y la Política de Protección y Tratamiento de Datos Personales, accesible en caplab.com.co/tratamiento-de-datos. Capital Lab se compromete a respetar y facilitar el ejercicio de los derechos del cliente.",
+        "Formalización — Para efectos de formalizar la relación comercial se acuerda suscribir: (1) contrato de prestación de servicios, (2) contrato de encargo de datos personales y (3) política de protección y tratamiento de datos personales. La constitución de la sociedad se regula mediante el acuerdo específico con la firma legal aliada DoClick."
+      ]
+    }
+  ]
+}
