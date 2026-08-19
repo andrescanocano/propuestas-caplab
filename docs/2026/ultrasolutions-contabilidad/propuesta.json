@@ -1,0 +1,225 @@
+{
+  "titulo": "Capital Lab — Propuesta de Servicios Contables, Tributarios y Financieros",
+  "fecha": "19 de agosto de 2026",
+  "referencia": "PROP-2026-016",
+  "titulo_hero": "Ultrasolutions<span style=\"display:block;font-size:0.46em;font-weight:400;line-height:1.3;margin-top:18px;color:var(--text-secondary)\">Cifras reales, mes a mes, de cada frente del negocio</span>",
+  "subtitulo": "Preparada para Marcela y Giomar — Ultrasolutions S.A.S. y sus establecimientos de comercio",
+  "contacto_nombre": "Andrés Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "<strong>Empecemos</strong>",
+  "cta_texto": "Ya nos sentamos a conversar y conocemos cómo opera Ultrasolutions. Lo que sigue es poner esa conversación a trabajar. Una llamada y arrancamos con el empalme, para que el primer diagnóstico esté en sus manos dentro de los primeros 45 días.",
+  "secciones": [
+    {
+      "etiqueta": "El momento",
+      "tipo": "texto",
+      "titulo": "El momento de Ultrasolutions",
+      "texto": [
+        "Ultrasolutions creció hasta convertirse en varios negocios que conviven bajo una misma sociedad. El personal en las instalaciones del cliente, la logística integral, el mantenimiento técnico, los servicios generales y la ferretería. Cada frente tiene su propia estructura de costos y su propio margen, y esa es justamente la información que hoy no está disponible en el momento en que se necesita.",
+        "La contabilidad está al día y las obligaciones se vienen cumpliendo. Lo que falta es la capa siguiente. Cifras mes a mes, márgenes por frente de negocio y una lectura del AIU que permita saber cuánto queda realmente después de la administración y de los imprevistos. Eso es lo que sostiene una conversación con un banco y lo que permite decidir dónde crecer.",
+        "Hay además un frente que no es contable sino operativo. Hoy la información nace en papel, se imprime y se transporta para que llegue a la contabilidad. Eso consume tiempo del equipo administrativo, retrasa el cierre y hace que los números lleguen tarde por construcción, por buena que sea la contabilidad al final. <strong>Ahí es donde nuestro ecosistema tecnológico cambia el día a día</strong>, no solo el resultado del mes.",
+        "Capital Lab no es una firma contable que usa tecnología. Somos una <strong>empresa de tecnología contable</strong> que traduce datos en decisiones. Esta propuesta cubre el <strong>acompañamiento contable, tributario y financiero mensual completo</strong> de Ultrasolutions S.A.S. y de sus establecimientos de comercio, incluida Ultraferretera."
+      ]
+    },
+    {
+      "etiqueta": "Diagnóstico",
+      "tipo": "checklist",
+      "titulo": "El diagnóstico con el que arrancamos",
+      "texto": "Antes de proponer nada, ponemos sobre la mesa dos cosas concretas. Este ejercicio está incluido en el servicio y lo entregamos dentro de los primeros 45 días.",
+      "items": [
+        "<strong>Industria y comercio.</strong> Revisión de la situación del impuesto frente a los municipios donde efectivamente se prestan los servicios, no solo donde está el domicilio de la sociedad, con el mapa de lo que hay que corregir y en qué orden",
+        "<strong>Estado actual de la información.</strong> Levantamiento del flujo con el que hoy se mueve la información contable, desde que nace el documento hasta que llega a la contabilidad, con los puntos de mejora identificados uno por uno",
+        "Plan de eficiencias operacionales y administrativas sobre ese flujo, con accionables concretos para dejar atrás el papel, los reprocesos y el transporte físico de documentos",
+        "Puesta a disposición de nuestro ecosistema tecnológico sobre la operación del día a día, para que la información se capture donde se origina y deje de depender de que alguien la imprima y la mueva"
+      ],
+      "nota": "Las acciones que se deriven de este diagnóstico —correcciones, saneamientos o trámites ante entidades— se dimensionan y se cotizan por separado. <strong>Nada se ejecuta sin alcance y valor aprobados por ustedes.</strong>"
+    },
+    {
+      "etiqueta": "Servicios incluidos",
+      "tipo": "checklist",
+      "titulo": "Todo lo que incluye cada mes",
+      "items": [
+        "Procesamiento mensual de la información contable bajo NIIF para Pymes",
+        "Causación completa de compras, ventas y gastos, con separación por centro de costo para cada frente del negocio",
+        "Conciliaciones bancarias periódicas sobre las cuentas de la empresa",
+        "Gestión integral ante la DIAN — declaraciones tributarias, retenciones, IVA y presentación oportuna",
+        "Declaración de industria y comercio en los municipios donde la empresa tenga la obligación",
+        "Asesoría tributaria y financiera proactiva, con planeación y alternativas legales para la toma de decisiones",
+        "Lectura del AIU sobre los contratos, para distinguir qué parte del ingreso es administración, qué parte cubre imprevistos y qué parte es utilidad efectiva",
+        "Seguimiento de los márgenes de cada unidad de negocio a partir de los centros de costo",
+        "Reporte financiero mensual con socialización periódica de resultados",
+        "Estados financieros bajo NIIF — Estado de Resultados, Situación Financiera, Flujo de Efectivo y Cambios en el Patrimonio",
+        "Información financiera preparada para presentarse ante bancos y entidades que la soliciten",
+        "Un analista contable dedicado y un auxiliar contable asignados a la cuenta",
+        "Canal directo con el analista dedicado por WhatsApp",
+        "Software contable y plataforma tecnológica Capital Lab, sin inversión de su parte"
+      ],
+      "nota": "<strong>Nuestra tarifa ya incluye los servicios anualizados.</strong> Declaración de renta, información exógena, declaración de industria y comercio, renovación de Cámara de Comercio y emisión de estados financieros anuales con notas. <strong>No cobramos mes 13.</strong>"
+    },
+    {
+      "etiqueta": "Implementación",
+      "tipo": "checklist",
+      "titulo": "Nuestro ecosistema tecnológico, desde el día uno",
+      "items": [
+        "Despliegue de nuestro ecosistema tecnológico sobre su operación del día a día, sin inversión de su parte",
+        "Evaluación conjunta, de aquí a noviembre, de la mejor manera de combinar las herramientas que ustedes ya tienen con las que nosotros ponemos a disposición, para optimizar lo que hoy cuesta administrar la información",
+        "Definición del flujo de causación sobre la herramienta contable, sin duplicar trabajo ni generar reprocesos",
+        "Configuración de reenvíos automáticos desde el correo corporativo hacia Capital Lab, para que la información deje de moverse en físico",
+        "Sincronización automatizada con la DIAN mediante token, para tener la información tributaria oficial en tiempo cercano",
+        "Parametrización de centros de costo por unidad de negocio, de modo que cada frente tenga su propio resultado desde el primer cierre",
+        "Usuario de consulta bancaria para conciliaciones precisas, opcional y gestionado por ustedes ante la entidad",
+        "Plataforma Capital Lab para la captura automática de los documentos electrónicos que reciben y la centralización documental"
+      ]
+    },
+    {
+      "etiqueta": "Proceso",
+      "tipo": "fases",
+      "titulo": "Cómo funciona",
+      "fases": [
+        {
+          "titulo": "Empalme y puesta en marcha",
+          "texto": "Recibimos la información del asesor actual y configuramos toda la infraestructura tecnológica para arrancar la operación corriente. El empalme lo coordinamos nosotros. Ustedes cambian de asesor sin cargar con el cambio.",
+          "tiempo": "2–4 semanas"
+        },
+        {
+          "titulo": "Diagnóstico integral",
+          "texto": "Entregamos los dos frentes del diagnóstico. La situación de industria y comercio frente a los municipios donde se presta el servicio, y el estado actual del flujo de información con los puntos de mejora y los accionables para ganar eficiencia administrativa. De ahí sale el mapa de lo que hay que resolver y en qué orden.",
+          "tiempo": "Primeros 45 días"
+        },
+        {
+          "titulo": "Operación continua",
+          "texto": "Información contable actualizada de forma permanente. Procesamiento automático de documentos electrónicos, ciclos periódicos de causación y depuración. Al cierre de cada mes conciliamos, completamos el procesamiento e iniciamos la emisión de reportes.",
+          "tiempo": "Mensual"
+        },
+        {
+          "titulo": "Información para decidir",
+          "texto": "Borradores de declaraciones tributarias con al menos tres días de antelación a cada vencimiento. Reporte financiero mensual para revisar rentabilidad, flujo de caja y desempeño de cada frente del negocio, con socialización periódica de resultados.",
+          "tiempo": "Mensual"
+        }
+      ]
+    },
+    {
+      "etiqueta": "Su operación",
+      "tipo": "lista",
+      "titulo": "Lo que ya sabemos de su operación",
+      "items": [
+        "El AIU no es un porcentaje decorativo. Define cuánto del contrato es realmente utilidad y cambia la base de varios impuestos, así que se lee contrato por contrato",
+        "Prestar un servicio con personal en las instalaciones del cliente no es lo mismo que contratar una empresa temporal, y el tratamiento contable y tributario tampoco es el mismo",
+        "Servicios y ferretería conviven bajo un mismo NIT, y los traslados de inventario entre ambos frentes solo se leen bien con centros de costo bien estructurados",
+        "El impuesto de industria y comercio se causa donde se presta el servicio, no únicamente donde está el domicilio de la sociedad. Con operación en varias ciudades, eso hay que tenerlo mapeado"
+      ]
+    },
+    {
+      "etiqueta": "Diferenciales",
+      "tipo": "cards",
+      "titulo": "Por qué Capital Lab",
+      "cards": [
+        {
+          "etiqueta": "Información a tiempo",
+          "titulo": "Números que sirven para decidir",
+          "texto": "Borradores de impuestos con al menos tres días de antelación a cada vencimiento y reporte financiero mensual, no una carpeta al final del año. Dos plataformas propias procesan cientos de documentos al día y se conectan directamente con la DIAN. La tecnología es el motor, no el argumento. Lo que importa es que la información llegue cuando todavía sirve para actuar."
+        },
+        {
+          "etiqueta": "Respaldo",
+          "titulo": "Más de 30 empresas en cuatro ciudades",
+          "texto": "Firma registrada ante la Junta Central de Contadores con tarjeta profesional como persona jurídica, con clientes en Medellín, Bogotá, Neiva y Quibdó y cuatro años de permanencia promedio. Más de $500 millones recuperados o compensados en saldos a favor de nuestros clientes."
+        },
+        {
+          "etiqueta": "Equipo dedicado",
+          "titulo": "Un equipo asignado a la cuenta",
+          "texto": "La operación la lleva un equipo con roles definidos. Un <strong>auxiliar contable</strong> que recopila y organiza la información, un <strong>analista dedicado</strong> que ejecuta el cierre y el cumplimiento tributario, y un <strong>contador público</strong> que revisa, firma los estados financieros y presenta las declaraciones. María Isabel lidera el frente tributario y Andrés Cano el frente financiero."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Inversión",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversión",
+      "columnas": [
+        "Concepto",
+        "Valor mensual"
+      ],
+      "filas": [
+        [
+          "Gestión contable, tributaria y financiera de Ultrasolutions S.A.S. y sus establecimientos de comercio",
+          "1 SMMLV + IVA"
+        ],
+        [
+          "Diagnóstico integral de arranque (incluido)",
+          "$0"
+        ],
+        [
+          "Software contable y plataforma tecnológica (incluido)",
+          "$0"
+        ],
+        [
+          "<strong>Valor base mensual</strong> — 1 SMMLV vigente para 2026",
+          "<strong>$1.750.905 + IVA</strong>"
+        ],
+        [
+          "IVA (19%)",
+          "$332.672"
+        ],
+        [
+          "<strong>Total mensual</strong>",
+          "<strong>$2.083.577</strong>"
+        ]
+      ],
+      "nota": "<strong>Es un precio especial.</strong> El valor de esta propuesta no corresponde a la tarifa estándar de Capital Lab para una operación del tamaño y la complejidad de Ultrasolutions.<br><br><strong>Está condicionado</strong> al tamaño actual de la empresa y a su nivel de movimientos.<br><br><strong>Cuando esas condiciones cambien, les avisamos.</strong> Si los movimientos aumentan o los ingresos empiezan a crecer, Capital Lab les notifica para iniciar el ajuste de la tarifa. No es algo que se descubra en una renovación.<br><br><strong>Ese ajuste procede en cualquier momento de la relación comercial</strong>, sin necesidad de esperar el vencimiento del contrato ni el cierre de un período, y se rige por la <strong>política de precios vigente de la firma</strong>, aplicada de forma consistente con la de nuestros demás clientes según su tamaño y nivel de operación.<br><br>Con independencia de lo anterior, cada seis meses hacemos una revisión conjunta del servicio como punto formal de seguimiento.<br><br>Al estar expresada en salarios mínimos, la tarifa se actualiza cada año en la misma proporción del salario mínimo legal vigente. Ese ajuste es por indexación y es independiente del ajuste por crecimiento.<br><br><strong>Vigencia</strong> — 30 días calendario desde la fecha de emisión."
+    },
+    {
+      "etiqueta": "Servicios adicionales",
+      "tipo": "dos_columnas",
+      "titulo": "Más allá de la contabilidad",
+      "columnas": [
+        {
+          "titulo": "Capital Lab — Servicios complementarios",
+          "items": [
+            "Afiliaciones al sistema de seguridad social",
+            "Corrección y saneamiento de períodos anteriores",
+            "Atención a requerimientos de entidades oficiales",
+            "Revisoría fiscal",
+            "Valoración de empresas",
+            "Auditoría"
+          ]
+        },
+        {
+          "titulo": "DoClick — Partner legal aliado",
+          "items": [
+            "Asesoría legal empresarial",
+            "Trámites societarios y reformas",
+            "Acompañamiento ante Cámara de Comercio",
+            "Reconocidas Highly Recommended por Leaders League 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "etiqueta": "Condiciones",
+      "tipo": "lista",
+      "titulo": "Condiciones y notas",
+      "items": [
+        "La administración de la nómina no está incluida. Hoy la lleva el equipo interno de Ultrasolutions y así continúa",
+        "Esta propuesta no incluye la puesta a punto de información contable de períodos anteriores, la emisión de facturas de venta ni de documentos o eventos electrónicos (los realiza el equipo de Ultrasolutions desde su herramienta), el manejo del inventario de la ferretería, ni la gestión de trámites ante entidades oficiales por fuera de las obligaciones tributarias ordinarias",
+        "Las acciones que se deriven del diagnóstico de arranque —correcciones, saneamientos o trámites ante entidades— se dimensionan y se cotizan por separado, con alcance y valor aprobados antes de ejecutar",
+        "La relación comercial se da por iniciada con el pago del primer mes y la firma del contrato que detalla las obligaciones de cada parte",
+        "La tarifa de esta propuesta es un <strong>precio especial</strong> otorgado en función del tamaño actual de la empresa y su nivel de movimientos, y está condicionada a que esas condiciones se mantengan. Si los movimientos aumentan o los ingresos crecen, Capital Lab les notificará para iniciar el ajuste de la tarifa. Ese ajuste <strong>procede en cualquier momento de la relación comercial, sin necesidad de esperar el vencimiento del contrato ni el cierre de un período</strong>, y se regirá por la <strong>política de precios vigente de la firma</strong>, aplicada de forma consistente con la de nuestros demás clientes según su tamaño y nivel de operación",
+        "Al estar expresada en salarios mínimos, la tarifa se actualiza cada año en la misma proporción del salario mínimo legal vigente. Ese ajuste corresponde a la indexación anual y es independiente del ajuste por crecimiento descrito arriba",
+        "Cada seis meses realizamos una revisión conjunta del servicio. Es un punto formal de seguimiento y no la única ventana para ajustar la tarifa",
+        "La adecuada prestación del servicio está condicionada a la entrega correcta, completa y oportuna de la información contable. Cuentan con todo el apoyo de nuestro equipo y un ecosistema tecnológico completo para que ese proceso sea natural",
+        "Vigencia de esta propuesta — 30 días calendario desde la fecha de emisión"
+      ]
+    },
+    {
+      "etiqueta": "Marco legal",
+      "tipo": "texto",
+      "titulo": "Cláusulas",
+      "texto": [
+        "Confidencialidad — Ultrasolutions S.A.S. y Capital Lab S.A.S. se comprometen a guardar absoluta confidencialidad y reserva sobre toda la información a la que tengan acceso en virtud de esta propuesta, su negociación, aceptación y la prestación del servicio. Cualquier revelación está prohibida y no podrá usarse como elemento de competencia desleal. Las condiciones específicas serán reguladas en el contrato de prestación de servicios.",
+        "Encargo de datos personales — Durante la prestación del servicio, Capital Lab actúa como Encargado del tratamiento de datos personales de terceros proporcionados por el cliente (Responsable), quien garantiza haber obtenido autorización de los titulares. Capital Lab usará los datos únicamente para la prestación de los servicios contratados y los suprimirá de sus sistemas al terminar la relación.",
+        "Tratamiento de datos personales — Ultrasolutions S.A.S. autoriza a Capital Lab S.A.S. a realizar el tratamiento de sus datos personales de conformidad con la normatividad vigente y la Política de Protección y Tratamiento de Datos Personales, accesible en caplab.com.co/tratamiento-de-datos. Capital Lab se compromete a respetar y facilitar el ejercicio de los derechos del cliente.",
+        "Formalización — Para efectos de formalizar la relación comercial se acuerda suscribir (1) contrato de prestación de servicios, (2) contrato de encargo de datos personales y (3) política de protección y tratamiento de datos personales."
+      ]
+    }
+  ]
+}
