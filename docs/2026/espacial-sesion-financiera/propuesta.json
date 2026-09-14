@@ -1,0 +1,194 @@
+{
+  "titulo": "Capital Lab — Sesión de análisis y entendimiento financiero",
+  "fecha": "14 de septiembre de 2026",
+  "referencia": "PROP-2026-017",
+  "titulo_hero": "Una sesión para entender sus números",
+  "subtitulo": "Preparada para Mariana Sanín y Melissa Del Valle — Espacial Estudio de Diseño S.A.S.",
+  "contacto_nombre": "Andrés Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "Empecemos",
+  "cta_texto": "Una respuesta de ustedes confirmando y arrancamos. Acordamos la fecha de la sesión, les paso la lista de información y me pongo a trabajar sobre lo que me manden. Si algo de esta propuesta no les cuadra, me lo dicen y lo ajustamos.",
+  "secciones": [
+    {
+      "etiqueta": "La sesión",
+      "titulo": "Hola Mariana y Melissa",
+      "tipo": "texto",
+      "texto": [
+        "Gracias por la conversación del 11 de septiembre. De ahí nace esta propuesta, y en particular de algo que quedó pedido sobre el final de la llamada. Sentarnos unas horas a revisar los números que ya tienen, para confirmar si los están leyendo bien. La respuesta fue sí en ese momento. Esta propuesta es ese sí, por escrito y con el alcance definido.",
+        "El servicio lo presto yo directamente, no el equipo operativo de Capital Lab. Soy contador público y magíster en administración financiera. Lo que contratan son esas horas de análisis y de conversación, y esa cercanía es parte de lo que hace que el ejercicio sirva."
+      ]
+    },
+    {
+      "etiqueta": "El punto de partida",
+      "titulo": "La palabra fue entender",
+      "tipo": "texto",
+      "texto": [
+        "De todo lo que hablamos, hay una palabra que volvió una y otra vez. Entender. No más gráficas, no más reportes. Entender.",
+        "En Capital Lab trabajamos desde una idea simple. El problema casi nunca es la falta de información, es la falta de claridad. Una empresa puede tener todo medido y aun así no poder decidir, porque los números no hablan solos. Alguien tiene que traducirlos, y para traducirlos primero hay que entender el negocio que los produjo.",
+        "Hay una pregunta concreta que quedó sobre la mesa y que es el norte de este ejercicio. Si el año viene cumpliendo lo proyectado, si nadie les debe y ustedes no le deben a nadie, ¿por qué la utilidad no aparece en la cuenta? Esa pregunta tiene respuesta, y la respuesta está en sus propios números.",
+        "Ustedes ya llegaron solas a una parte, y tiene que ver con cómo se cruzan los anticipos que reciben con los que pagan. Esa intuición es correcta y es un buen punto de partida. Lo que falta es ponerle números y dejarlo dicho de una forma que sirva para decidir."
+      ]
+    },
+    {
+      "etiqueta": "Su negocio",
+      "titulo": "Lo que ya entendimos de Espacial Estudio",
+      "tipo": "lista",
+      "texto": "Antes de leer un número hay que saber de dónde sale. Esto es lo que entendimos de su negocio en la conversación, y es el punto de partida del análisis.",
+      "items": [
+        "Trabajan por proyecto, no por mes. Un proyecto toma cerca de un trimestre, así que el año tiene picos y valles y ningún mes suelto cuenta la historia completa.",
+        "Tienen dos líneas que no se parecen entre sí. El diseño no carga costos más allá de la estructura fija. La materialización —carpintería, mobiliario y obra— es la que más vende y la única que carga costo directo.",
+        "Cada una dirige comercialmente sus propios proyectos y las decisiones las toman juntas. Por eso la sesión es con las dos, no con una.",
+        "Facturan contra cada pago, incluido el anticipo. Eso adelanta el ingreso en los libros frente al momento en que el proyecto de verdad avanza, y ese desfase se puede medir.",
+        "El costo de materialización lo ponen en buena parte proveedores externos, y a varios hay que anticiparles. Eso mueve la caja en dirección contraria y en un momento distinto.",
+        "Ya construyeron sus propias herramientas para seguir el negocio, con el estado de cada proyecto y el seguimiento de las metas. Esa información entra al análisis como fuente de trabajo, no como anexo."
+      ]
+    },
+    {
+      "etiqueta": "Cómo funciona",
+      "titulo": "El trabajo, en cuatro momentos",
+      "tipo": "fases",
+      "fases": [
+        {
+          "titulo": "Ustedes comparten la información",
+          "tiempo": "Al aceptar",
+          "texto": "Les paso la lista de lo que necesito. No es un formulario genérico. Sale de lo que ya conversamos y está armada para su negocio, con lo que ustedes ya tienen en sus propias aplicaciones y lo que se le pide a quien lleva la contabilidad. Entre más completa venga, más profunda sale la sesión. Si algo no aparece, o no saben dónde está, me lo dicen y vemos juntas cómo resolverlo."
+        },
+        {
+          "titulo": "Analizo la información antes de que nos sentemos",
+          "tiempo": "Antes de la sesión",
+          "texto": "Este es el momento que separa esta sesión de una conversación. Cruzo lo que sale de sus aplicaciones con lo que dice la contabilidad y con lo que muestran los extractos, ordeno el resultado por proyecto y por línea de negocio, y llego a la reunión con la lectura hecha y con las preguntas que necesito hacerles. No llego a improvisar sobre unas cifras que veo por primera vez."
+        },
+        {
+          "titulo": "Nos sentamos a trabajar",
+          "tiempo": "Hasta tres horas",
+          "texto": "Es una sesión de trabajo, no una presentación. Yo explico y ustedes preguntan, las veces que haga falta y hasta que quede claro. No hay pregunta básica y no hay que saber de números para entrar. El objetivo se puede medir al salir. Que ustedes dos puedan explicar con sus propias palabras qué está pasando con la plata de Espacial Estudio."
+        },
+        {
+          "titulo": "Les queda un reporte escrito",
+          "tiempo": "Después de la sesión",
+          "texto": "Les mando un documento con lo que vi en sus números y las recomendaciones que se deriven, escrito en el mismo lenguaje en el que lo hablamos. Sirve para volver sobre la conversación cuando se sienten las dos a decidir, y para que lo que quedó claro un martes siga estando claro en diciembre."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Alcance",
+      "titulo": "Qué van a poder responder al salir",
+      "tipo": "checklist",
+      "texto": "El resultado no es un informe más. Es que estas preguntas dejen de estar abiertas.",
+      "items": [
+        "<strong>Dónde está la plata.</strong> Por qué la utilidad que muestran los números no coincide con el saldo del banco, qué parte de esa diferencia es un tema de tiempos y qué parte es otra cosa.",
+        "<strong>Qué tanto se puede leer el resultado por proyecto.</strong> Su negocio factura contra pagos y ejecuta durante meses, así que lo que deja un proyecto no se ve en un mes. Vamos a mirar hasta dónde llega hoy su información para responderlo, y qué haría falta para que ese número exista sin tener que reconstruirlo cada vez.",
+        "<strong>Qué tanto se puede separar cada línea.</strong> Diseño y materialización no se comportan igual, y leerlas juntas esconde el resultado de las dos. Vamos a ver qué tan lejos permite llegar la información que tengan, y qué se necesitaría para separarlas bien.",
+        "<strong>Qué dicen sus impuestos.</strong> Qué están pagando, sobre qué base se calcula y por qué da lo que da. Con eso deja de ser un número que llega y se paga.",
+        "<strong>Qué tan lejos quedó el presupuesto.</strong> En qué punto se separó de la realidad y qué habría que cambiarle para que vuelva a servir de referencia.",
+        "<strong>Si el negocio aguanta una contratación más.</strong> Con qué números se responde esa pregunta, y qué tendría que pasar para que la respuesta sea sí.",
+        "<strong>Qué preguntas quedan abiertas.</strong> Lo que los números no alcanzan a responder todavía, y qué haría falta para responderlo."
+      ],
+      "nota": "El resultado de esta sesión es una lectura de sus números y las recomendaciones que se deriven de ella. Ejecutar esas recomendaciones no hace parte de este servicio. Con ellas en la mano, <strong>ustedes y su equipo determinan las mejores acciones para atenderlas y en qué momento.</strong>"
+    },
+    {
+      "etiqueta": "Inversión",
+      "titulo": "Detalle de la inversión",
+      "tipo": "tabla",
+      "columnas": [
+        "Concepto",
+        "Valor"
+      ],
+      "filas": [
+        [
+          "Sesión de trabajo de hasta tres horas, análisis previo y reporte escrito — valor de lista, 1 SMMLV vigente para 2026",
+          "$1.750.905"
+        ],
+        [
+          "Descuento especial del 50 %",
+          "−$875.453"
+        ],
+        [
+          "<strong>Valor del servicio</strong>",
+          "<strong>$875.452</strong>"
+        ],
+        [
+          "IVA (19 %) — aplica únicamente en la vía de factura electrónica",
+          "$166.336"
+        ],
+        [
+          "<strong>Total a pagar si eligen factura electrónica de Capital Lab S.A.S.</strong>",
+          "<strong>$1.041.788</strong>"
+        ],
+        [
+          "<strong>Total a pagar si eligen cuenta de cobro de Andrés Cano</strong>",
+          "<strong>$875.452</strong>"
+        ]
+      ],
+      "nota": "<strong>Sobre el valor.</strong> El precio es especial y hay una razón. Nos gusta trabajar con empresas que se interesan de verdad por sus cifras, y en la conversación quedó claro que Espacial Estudio es un negocio que funciona, al que solo le falta un poco más de claridad sobre sus propios números. Ojalá este ejercicio les sirva y encuentren en él las respuestas a las preguntas que hoy se están haciendo.<br><br><strong>Dos vías de facturación, a elección de ustedes.</strong> Como el servicio lo presto yo directamente, puede contratarse de dos maneras, las dos igual de formales. La primera es con Capital Lab S.A.S. como contratante, y en ese caso se emite factura electrónica con IVA. La segunda es conmigo como contratante, en mi calidad de contador público persona natural, y en ese caso el soporte es una cuenta de cobro. Lo que cambia entre una y otra es quién queda como contratante del servicio. Es la misma figura que Capital Lab ya usa en otros servicios que se prestan de forma personal, como la revisoría fiscal. Ustedes escogen la que les sirva y yo emito el documento que corresponda.<br><br>El pago se hace una vez aceptada la propuesta y antes de que empiece el análisis."
+    },
+    {
+      "etiqueta": "Lo que sigue",
+      "titulo": "Después de la sesión, si ustedes quieren",
+      "tipo": "texto",
+      "texto": [
+        "Esta sesión se sostiene sola. No es la puerta de entrada a nada y no obliga a nada. Si al final quedan tranquilas con lo que entendieron, ese es un buen resultado y ahí termina el encargo.",
+        "Si en cambio les queda la sensación de que esto se debería mirar con más calma y durante más tiempo, existe la opción de un acompañamiento de algunos meses, con la misma lógica de esta sesión pero sostenida. No lo cotizo aquí a propósito. Tiene más sentido hablarlo cuando ya sepamos qué encontramos.",
+        "La tranquilidad de decidir bien empieza por saber que la información detrás de la decisión está bien construida."
+      ]
+    },
+    {
+      "etiqueta": "Servicios adicionales",
+      "tipo": "dos_columnas",
+      "titulo": "Más allá de esta sesión",
+      "columnas": [
+        {
+          "titulo": "Capital Lab — Servicios complementarios",
+          "items": [
+            "Afiliaciones al sistema de seguridad social",
+            "Corrección y saneamiento de períodos anteriores",
+            "Atención a requerimientos de entidades oficiales",
+            "Revisoría fiscal",
+            "Valoración de empresas",
+            "Auditoría"
+          ]
+        },
+        {
+          "titulo": "DoClick — Partner legal aliado",
+          "items": [
+            "Asesoría legal empresarial",
+            "Trámites societarios y reformas",
+            "Acompañamiento ante Cámara de Comercio",
+            "Reconocidas Highly Recommended por Leaders League 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "etiqueta": "Condiciones",
+      "titulo": "Condiciones y notas",
+      "tipo": "lista",
+      "items": [
+        "Esta propuesta cubre una sesión de trabajo de hasta tres horas, el análisis previo de la información que ustedes compartan y el reporte escrito posterior. No incluye la ejecución de las acciones que se deriven de ese análisis",
+        "El reporte recoge lo que vimos en sus números y las recomendaciones que se deriven. Ejecutarlas no hace parte de este servicio. Con esas recomendaciones, <strong>ustedes y su equipo determinan las mejores acciones para atenderlas</strong>",
+        "Este es un servicio de análisis y explicación. No reemplaza ni interfiere con el trabajo contable que hoy se hace en Espacial Estudio, y no implica cambiar nada de lo que ya está funcionando",
+        "La lista de información que necesito se envía una vez aceptada la propuesta. La profundidad del análisis depende de lo que se alcance a compartir. Si algún documento no está disponible, se trabaja con lo que haya y en el reporte queda dicho qué no se pudo revisar",
+        "Esta propuesta no incluye manejo de inventarios, emisión de facturas de venta, emisión de documentos o eventos electrónicos —incluido el documento soporte— ni integración con el software contable en el que hoy vive su contabilidad",
+        "El valor se paga una vez aceptada la propuesta y antes de iniciar el análisis",
+        "La fecha de la sesión se acuerda una vez recibida la información, con el tiempo suficiente para hacer el análisis previo",
+        "La sesión puede ser presencial en Medellín o virtual, como ustedes prefieran",
+        "La información que compartan se usa únicamente para este análisis y se maneja bajo las cláusulas de confidencialidad de esta propuesta",
+        "Este servicio no es recurrente y no genera obligación de continuidad para ninguna de las partes",
+        "El descuento de esta propuesta aplica exclusivamente a este servicio y no constituye tarifa de referencia para servicios posteriores",
+        "Vigencia de esta propuesta — 30 días calendario desde la fecha de emisión"
+      ]
+    },
+    {
+      "etiqueta": "Marco legal",
+      "tipo": "texto",
+      "titulo": "Cláusulas",
+      "texto": [
+        "Confidencialidad — Espacial Estudio de Diseño S.A.S. y Capital Lab S.A.S. se comprometen a guardar absoluta confidencialidad y reserva sobre toda la información a la que tengan acceso en virtud de esta propuesta, su negociación, aceptación y la prestación del servicio. Cualquier revelación está prohibida y no podrá usarse como elemento de competencia desleal. Las condiciones específicas serán reguladas en el contrato de prestación de servicios.",
+        "Encargo de datos personales — Durante la prestación del servicio, Capital Lab actúa como Encargado del tratamiento de datos personales de terceros proporcionados por el cliente (Responsable), quien garantiza haber obtenido autorización de los titulares. Capital Lab usará los datos únicamente para la prestación de los servicios contratados y los suprimirá de sus sistemas al terminar la relación.",
+        "Tratamiento de datos personales — Espacial Estudio de Diseño S.A.S. autoriza a Capital Lab S.A.S. a realizar el tratamiento de sus datos personales de conformidad con la normatividad vigente y la Política de Protección y Tratamiento de Datos Personales, accesible en caplab.com.co/tratamiento-de-datos. Capital Lab se compromete a respetar y facilitar el ejercicio de los derechos del cliente.",
+        "Formalización — Para efectos de formalizar la relación comercial se acuerda suscribir (1) contrato de prestación de servicios, (2) contrato de encargo de datos personales y (3) política de protección y tratamiento de datos personales."
+      ]
+    }
+  ]
+}
