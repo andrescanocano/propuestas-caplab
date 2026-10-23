@@ -1,0 +1,217 @@
+{
+  "titulo": "Capital Lab — Propuesta de Servicios Contables, Tributarios y Financieros",
+  "fecha": "19 de octubre de 2026",
+  "referencia": "PROP-2026-018",
+  "titulo_hero": "Bulldog Creativo<span style=\"display:block;font-size:0.46em;font-weight:400;line-height:1.3;margin-top:18px;color:var(--text-secondary)\">Una estrategia contable para la agencia que viene</span>",
+  "subtitulo": "Preparada para Santiago Valencia — Bulldog Creativo",
+  "contacto_nombre": "Andrés Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "<strong>Empecemos</strong>",
+  "cta_texto": "Ya nos conocemos y ya trabajamos juntos. Con tu propuesta de contenido y esta sobre la mesa, nos sentamos a revisar las dos, ajustamos lo que haga falta y arrancamos con el empalme.",
+  "secciones": [
+    {
+      "etiqueta": "El momento",
+      "titulo": "El momento de Bulldog Creativo",
+      "tipo": "texto",
+      "texto": [
+        "Gracias por la conversación del 19 de octubre. Bulldog Creativo viene de un año de recambio. Desde febrero ajustaste la estructura, pasaste parte del equipo a freelance y enfocaste la agencia en la producción de contenidos. Lo último que falta en ese recambio, en tus palabras, es <strong>la estrategia contable</strong>.",
+        "Esa estrategia tiene un norte claro. Concentrar la operación en la sociedad, pasarla al régimen ordinario y hacerlo de forma estratégica, sin apuros. Y lograr algo que dijiste sin rodeos: no volver a tener problemas ni con la DIAN ni con la UGPP.",
+        "Para eso hacen falta dos cosas que van juntas. Una contabilidad e impuestos bien llevados mes a mes, y alguien que te explique los números con tiempo para decidir. Que sepas cada mes si la agencia está dejando utilidad, y que los impuestos se conozcan antes de que haya que pagarlos.",
+        "Capital Lab no es una firma contable que usa tecnología. Somos una <strong>empresa de tecnología contable</strong> que traduce datos en decisiones. Esta propuesta cubre el <strong>acompañamiento contable, tributario y financiero mensual</strong> de la sociedad de Bulldog Creativo, pensado sobre su paso al régimen ordinario."
+      ]
+    },
+    {
+      "etiqueta": "Su operación",
+      "titulo": "Lo que ya entendimos de Bulldog Creativo",
+      "tipo": "lista",
+      "texto": "Esto es lo que nos llevamos de la conversación, y es el punto de partida del trabajo.",
+      "items": [
+        "Hoy la operación vive en dos vehículos. La sociedad, en el régimen simple, emite la factura electrónica. Dani, como persona natural, lleva la nómina, las cuentas de cobro, la seguridad social y los gastos",
+        "La decisión que viene es unificar todo en la sociedad y pasarla al régimen ordinario. Es una decisión que quieres tomar con criterio y con los números en la mano, no por afán",
+        "La agencia tiene dos áreas, social media y producción de contenidos, con un equipo fijo de cuatro o cinco personas y un grupo de freelance que cobran por pieza",
+        "La caja pesa tanto como la utilidad. Por eso los impuestos tienen que conocerse con anticipación, para planear el pago y no salir a conseguir la plata de un día para otro",
+        "Más que reportes, buscas acompañamiento. Una reunión al mes en la que los números se expliquen y sirvan para corregir a tiempo"
+      ]
+    },
+    {
+      "etiqueta": "Servicios incluidos",
+      "tipo": "checklist",
+      "titulo": "Todo lo que incluye cada mes",
+      "items": [
+        "Procesamiento mensual de la información contable bajo NIIF para Pymes",
+        "Causación completa de compras, ventas y gastos, con la separación de las dos áreas de la agencia",
+        "Conciliaciones bancarias periódicas sobre las cuentas de la sociedad",
+        "Gestión integral ante la DIAN — declaraciones tributarias, retenciones, IVA y presentación oportuna",
+        "<strong>Acompañamiento en el paso al régimen ordinario.</strong> Te ayudamos a definir el cuándo y el cómo, con sus efectos en impuestos, y lo acompañamos hasta que la sociedad quede operando en el nuevo régimen",
+        "<strong>Proyección de impuestos para evitar sorpresas.</strong> Cada mes proyectamos el IVA y el impuesto de renta, y trabajamos con un calendario de vencimientos para que el valor a pagar se conozca con tiempo",
+        "Borradores de las declaraciones con al menos tres días de anticipación a cada vencimiento",
+        "<strong>Reunión mensual de socialización financiera.</strong> Nos sentamos contigo a revisar el resultado del mes, si la agencia está dejando utilidad, cómo va la caja y qué conviene corregir",
+        "Reporte financiero mensual como base de esa reunión",
+        "Estados financieros bajo NIIF — Estado de Resultados, Situación Financiera, Flujo de Efectivo y Cambios en el Patrimonio",
+        "Asesoría tributaria y financiera proactiva, con planeación y alternativas legales para la toma de decisiones",
+        "Un analista contable dedicado y un auxiliar contable asignados a la cuenta",
+        "Canal directo con el analista dedicado por WhatsApp",
+        "Software contable y plataforma tecnológica Capital Lab, sin inversión de tu parte"
+      ],
+      "nota": "<strong>Nuestra tarifa ya incluye los servicios anualizados de la sociedad.</strong> Declaración de renta, información exógena, declaración de industria y comercio en los municipios donde haya obligación, renovación de Cámara de Comercio y estados financieros anuales con notas. <strong>No cobramos mes 13.</strong>"
+    },
+    {
+      "etiqueta": "Implementación",
+      "tipo": "checklist",
+      "titulo": "Nuestro ecosistema tecnológico, desde el día uno",
+      "items": [
+        "Definición del flujo de causación sobre la herramienta contable, sin duplicar trabajo ni generar reprocesos",
+        "Configuración de reenvíos automáticos desde el correo de la agencia hacia Capital Lab, para recibir las facturas y los documentos electrónicos en cuanto llegan",
+        "Sincronización automatizada con la DIAN mediante token, para tener la información tributaria oficial al día",
+        "Usuario de consulta bancaria para conciliaciones precisas, opcional y gestionado por ustedes ante la entidad",
+        "Plataforma Capital Lab para la captura automática de los documentos electrónicos y la centralización documental"
+      ]
+    },
+    {
+      "etiqueta": "Proceso",
+      "tipo": "fases",
+      "titulo": "Cómo funciona",
+      "fases": [
+        {
+          "titulo": "Empalme y puesta en marcha",
+          "texto": "Recibimos la información del asesor actual y configuramos la infraestructura tecnológica para arrancar la operación corriente. El empalme lo coordinamos nosotros. Cambias de contador sin cargar con el cambio.",
+          "tiempo": "2–4 semanas"
+        },
+        {
+          "titulo": "La ruta al régimen ordinario",
+          "texto": "Con la información de la sociedad y de lo que hoy va por persona natural, definimos contigo la ruta del paso al ordinario. Qué se mueve a la sociedad, en qué orden y desde cuándo, y qué efecto tiene en los impuestos. La decisión es tuya; nuestro trabajo es que la tomes con los números claros.",
+          "tiempo": "Al arrancar"
+        },
+        {
+          "titulo": "Operación continua",
+          "texto": "Información contable actualizada de forma permanente. Procesamiento automático de documentos electrónicos, ciclos periódicos de causación y depuración. Al cierre de cada mes conciliamos, completamos el procesamiento y preparamos el reporte.",
+          "tiempo": "Mensual"
+        },
+        {
+          "titulo": "Información para decidir",
+          "texto": "Proyección de IVA y renta, borradores con al menos tres días de anticipación y la reunión mensual de socialización financiera, para revisar utilidad, caja y desempeño de cada área de la agencia.",
+          "tiempo": "Mensual"
+        }
+      ]
+    },
+    {
+      "etiqueta": "Diferenciales",
+      "tipo": "cards",
+      "titulo": "Por qué Capital Lab",
+      "cards": [
+        {
+          "etiqueta": "Impuestos sin sorpresas",
+          "titulo": "Cero multas por incumplimiento",
+          "texto": "Borradores con al menos tres días de anticipación a cada vencimiento y proyección mensual del impuesto de renta, como política para todos nuestros clientes. En todo nuestro portafolio, el número de multas por incumplimiento es cero."
+        },
+        {
+          "etiqueta": "Conocemos las agencias",
+          "titulo": "Lo que se ve cuando la información está completa",
+          "texto": "Una agencia de publicidad de tres o cuatro empleados, que facturaba cerca de $1.000 millones al año, encontró al ordenar y digitalizar su información un saldo a favor de renta por más de $150 millones que nadie había visto. De ahí salió una estrategia fiscal a dos años. Su accionista lo dijo así: <em>«nunca habíamos recibido una información tan completa y una explicación tan clara.»</em>"
+        },
+        {
+          "etiqueta": "Equipo dedicado",
+          "titulo": "Más de 30 empresas en cuatro ciudades",
+          "texto": "La operación la lleva un equipo con roles definidos: un <strong>auxiliar contable</strong>, un <strong>analista dedicado</strong> y un <strong>contador público</strong> que revisa, firma y presenta. María Isabel lidera el frente tributario y Andrés Cano el frente financiero. Clientes en Medellín, Bogotá, Neiva y Quibdó, con cuatro años de permanencia promedio."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Inversión",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversión",
+      "columnas": ["Concepto", "Valor mensual"],
+      "filas": [
+        ["Gestión contable, tributaria y financiera mensual de la sociedad, con el acompañamiento en el paso al régimen ordinario", "$2.250.000 + IVA"],
+        ["Software contable y plataforma tecnológica (incluido)", "$0"],
+        ["<strong>Valor base mensual</strong>", "<strong>$2.250.000 + IVA</strong>"],
+        ["IVA (19 %)", "$427.500"],
+        ["<strong>Total mensual</strong>", "<strong>$2.677.500</strong>"],
+        ["<strong>Total anual</strong> — $27.000.000 + IVA", "<strong>$32.130.000</strong>"]
+      ],
+      "nota": "<strong>Cómo definimos y ajustamos la tarifa.</strong> El precio se define por el volumen de información a procesar y el nivel de ingresos de la empresa. Esta tarifa está pensada sobre la operación concentrada en la sociedad y en el régimen ordinario. Cada seis meses hacemos una revisión conjunta del alcance y del volumen, y con ella ajustamos lo que haga falta, en cualquiera de las dos direcciones.<br><br><strong>Vigencia</strong> — 30 días calendario desde la fecha de emisión."
+    },
+    {
+      "etiqueta": "Forma de pago",
+      "tipo": "tabla",
+      "titulo": "Un cruce de servicios, bien hecho",
+      "texto": [
+        "Lo conversamos en la llamada: en cruzar servicios, cero rollo. Esta propuesta se paga con servicios de Bulldog Creativo, y el valor de esos servicios lo define tu propuesta.",
+        "Del lado de Bulldog, el alcance es el que hablamos: manejo de Instagram para Capital Lab, para Andrés y para María Isabel, producción de contenido, alineación de los perfiles y contenido en colaboración entre las tres marcas. TikTok también entra en el alcance y LinkedIn queda por fuera. El detalle lo define tu propuesta de contenido."
+      ],
+      "columnas": ["Cada mes", "Valor"],
+      "filas": [
+        ["Capital Lab factura a Bulldog Creativo su servicio contable, tributario y financiero", "$2.250.000 + IVA"],
+        ["Bulldog Creativo factura a Capital Lab sus servicios de redes y contenido", "Según su propuesta"],
+        ["<strong>Las dos cuentas se cruzan</strong>", "<strong>Se paga solo la diferencia</strong>"]
+      ],
+      "nota": "<strong>Cada parte factura su servicio completo, con su IVA, y los valores se cruzan cada mes.</strong> Así los dos tenemos el soporte en regla y la contabilidad de cada uno refleja lo que de verdad pasó. Si en algún mes los valores no coinciden, la diferencia se paga en dinero.<br><br>Cada seis meses, junto con la revisión de nuestro servicio, revisamos también el alcance y el volumen de los servicios de Bulldog, para que el cruce siga siendo justo para las dos partes."
+    },
+    {
+      "etiqueta": "Opcionales",
+      "tipo": "lista",
+      "titulo": "Lo que cotizamos aparte",
+      "texto": "Salieron en la conversación y con gusto los asumimos. No hacen parte de la tarifa mensual ni del cruce, y cada uno se cotiza por separado cuando lo decidas.",
+      "items": [
+        "<strong>Declaración de renta de Santiago y de Dani como personas naturales.</strong> Con borrador socializado antes de presentar y un documento de recomendaciones después. Nuestra idea es que cada uno pague lo justo",
+        "<strong>Emiliano.</strong> Lo cotizamos aparte una vez revisemos sus estados financieros, como quedamos",
+        "<strong>Liquidación de nómina y seguridad social</strong>, si decides que también la llevemos nosotros"
+      ]
+    },
+    {
+      "etiqueta": "Servicios adicionales",
+      "tipo": "dos_columnas",
+      "titulo": "Más allá de la contabilidad",
+      "columnas": [
+        {
+          "titulo": "Capital Lab — Servicios complementarios",
+          "items": [
+            "Afiliaciones al sistema de seguridad social",
+            "Corrección y saneamiento de períodos anteriores",
+            "Atención a requerimientos de entidades oficiales",
+            "Revisoría fiscal",
+            "Valoración de empresas",
+            "Auditoría"
+          ]
+        },
+        {
+          "titulo": "DoClick — Partner legal aliado",
+          "items": [
+            "Asesoría legal empresarial",
+            "Trámites societarios y reformas",
+            "Acompañamiento ante Cámara de Comercio",
+            "Reconocidas Highly Recommended por Leaders League 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "etiqueta": "Condiciones",
+      "tipo": "lista",
+      "titulo": "Condiciones y notas",
+      "items": [
+        "Esta propuesta cubre la contabilidad y los impuestos de la sociedad de Bulldog Creativo. La contabilidad de personas naturales, sus declaraciones de renta y Emiliano no están incluidos y se cotizan aparte",
+        "La liquidación de nómina y seguridad social no está incluida",
+        "Esta propuesta no incluye la puesta a punto de información contable de períodos anteriores, la emisión de facturas de venta ni de documentos o eventos electrónicos (los realiza el equipo de Bulldog desde su herramienta), ni la gestión de trámites ante entidades oficiales por fuera de las obligaciones tributarias ordinarias",
+        "La tarifa está pensada sobre la operación concentrada en la sociedad y en el régimen ordinario. Si esa decisión cambia, revisamos juntos el alcance y la tarifa",
+        "La forma de pago es un cruce de servicios. Cada parte expide su factura electrónica con IVA por el valor completo de su servicio, y los valores se cruzan cada mes. Si en algún mes no coinciden, la diferencia se paga en dinero",
+        "Cada seis meses hacemos una revisión conjunta del alcance y del volumen de los dos servicios, y de ella sale cualquier ajuste a la tarifa o al cruce",
+        "La relación comercial se da por iniciada con la firma del contrato que detalla las obligaciones de cada parte, incluido el cruce de servicios",
+        "La adecuada prestación del servicio está condicionada a la entrega correcta, completa y oportuna de la información contable. Cuentas con todo el apoyo de nuestro equipo y un ecosistema tecnológico completo para que ese proceso sea natural",
+        "Vigencia de esta propuesta — 30 días calendario desde la fecha de emisión"
+      ]
+    },
+    {
+      "etiqueta": "Marco legal",
+      "tipo": "texto",
+      "titulo": "Cláusulas",
+      "texto": [
+        "Confidencialidad — Bulldog Creativo y Capital Lab S.A.S. se comprometen a guardar absoluta confidencialidad y reserva sobre toda la información a la que tengan acceso en virtud de esta propuesta, su negociación, aceptación y la prestación del servicio. Cualquier revelación está prohibida y no podrá usarse como elemento de competencia desleal. Las condiciones específicas serán reguladas en el contrato de prestación de servicios.",
+        "Encargo de datos personales — Durante la prestación del servicio, Capital Lab actúa como Encargado del tratamiento de datos personales de terceros proporcionados por el cliente (Responsable), quien garantiza haber obtenido autorización de los titulares. Capital Lab usará los datos únicamente para la prestación de los servicios contratados y los suprimirá de sus sistemas al terminar la relación.",
+        "Tratamiento de datos personales — Bulldog Creativo autoriza a Capital Lab S.A.S. a realizar el tratamiento de sus datos personales de conformidad con la normatividad vigente y la Política de Protección y Tratamiento de Datos Personales, accesible en caplab.com.co/tratamiento-de-datos. Capital Lab se compromete a respetar y facilitar el ejercicio de los derechos del cliente.",
+        "Formalización — Para efectos de formalizar la relación comercial se acuerda suscribir (1) contrato de prestación de servicios, que incluye las condiciones del cruce de servicios, (2) contrato de encargo de datos personales y (3) política de protección y tratamiento de datos personales."
+      ]
+    }
+  ]
+}
