@@ -106,6 +106,9 @@ def render_section(section):
             html_parts.append("</div>")
         html_parts.append("</div>")
 
+    elif tipo == "html" and "html" in section:
+        html_parts.append(f'<div class="custom-html">{section["html"]}</div>')
+
     # Nota opcional
     if "nota" in section:
         html_parts.append(f'<div class="note">{section["nota"]}</div>')
