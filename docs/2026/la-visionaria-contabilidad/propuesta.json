@@ -1,0 +1,216 @@
+{
+  "titulo": "Capital Lab — Propuesta de Servicios Contables, Tributarios y Financieros",
+  "fecha": "23 de noviembre de 2026",
+  "referencia": "PROP-2026-020",
+  "titulo_hero": "La Visionaria<span style=\"display:block;font-size:0.46em;font-weight:400;line-height:1.3;margin-top:18px;color:var(--text-secondary)\">Una contabilidad en orden para la etapa que viene</span>",
+  "subtitulo": "Preparada para Johanna Hoyos — Grupo de Inversiones La Visionaria S.A.S.",
+  "contacto_nombre": "Andrés Cano",
+  "contacto_cargo": "CEO — Capital Lab",
+  "contacto_email": "andrescano@caplab.com.co",
+  "cta_titulo": "<strong>Revisémosla juntos</strong>",
+  "cta_texto": "Nos interesa trabajar con usted y con La Visionaria. Le propongo que revisemos juntos este alcance y confirmemos que cubre lo que la empresa necesita. Con la firma del contrato y el pago del primer mes, arrancamos.",
+  "secciones": [
+    {
+      "etiqueta": "El momento",
+      "titulo": "El momento de La Visionaria",
+      "tipo": "texto",
+      "texto": [
+        "Gracias por la conversación. Nos contó cómo funciona el negocio y hacia dónde lo quiere llevar, y eso es lo que recoge esta propuesta.",
+        "La Visionaria es una sociedad joven, constituida en 2025, que ya opera con equipo propio y con planes de crecer. En 2027 quiere empezar a importar. Es el momento de tener una contabilidad en orden, que acompañe ese paso y no lo frene.",
+        "Esta propuesta cubre la <strong>gestión y asesoría contable, tributaria y financiera mensual</strong> de Grupo de Inversiones La Visionaria S.A.S., con la nómina de su equipo. La idea es simple: que la contabilidad esté al día, que los impuestos se conozcan antes de pagarlos y que cada mes alguien le explique los números en su idioma."
+      ]
+    },
+    {
+      "etiqueta": "Su operación",
+      "titulo": "Lo que ya entendimos de La Visionaria",
+      "tipo": "lista",
+      "texto": "Esto es lo que nos llevamos de la conversación, y es el punto de partida del trabajo.",
+      "items": [
+        "Comercializa productos farmacéuticos, cosméticos y para el cuidado de la piel, al por mayor y al detal",
+        "Es responsable del impuesto de renta en el régimen ordinario, de retención en la fuente y de IVA, y está obligada a llevar contabilidad",
+        "Tiene equipo de trabajo: empleados con nómina y personas que prestan servicios y cobran con cuenta de cobro. Cuando quien cobra no factura, esa cuenta necesita su documento soporte",
+        "Quiere importar en 2027. Una importación cambia la forma de registrar el inventario, sus costos y sus impuestos, y conviene que la contabilidad llegue lista a ese momento",
+        "Hoy tiene otro contador. El cambio lo coordinamos nosotros, para que no se pierda el histórico ni se incumpla ninguna fecha"
+      ]
+    },
+    {
+      "etiqueta": "Servicios incluidos",
+      "tipo": "checklist",
+      "titulo": "Todo lo que incluye cada mes",
+      "items": [
+        "Procesamiento de la información contable bajo NIIF para Pymes, con causación semanal de compras, ventas y gastos",
+        "Conciliaciones bancarias de las cuentas de la sociedad",
+        "Impuestos de los periodos intermedios: <strong>retención en la fuente cada mes e IVA en la periodicidad que le corresponda</strong>, con su presentación oportuna",
+        "Certificados de retención a proveedores",
+        "<strong>Documentos soporte.</strong> Usted nos envía las cuentas de cobro de quienes le prestan servicios y nosotros emitimos el documento soporte",
+        "<strong>La nómina de su equipo.</strong> Liquidamos la nómina y emitimos la nómina electrónica. Qué se liquida, qué se paga y cuántos días de vacaciones tiene cada persona deja de ser una duda",
+        "<strong>Proyección de impuestos para evitar sorpresas.</strong> Cada mes proyectamos el IVA y el impuesto de renta, con un calendario de vencimientos, para que el valor a pagar se conozca con tiempo",
+        "Borradores de las declaraciones con al menos tres días de anticipación a cada vencimiento",
+        "<strong>Reunión mensual de socialización financiera.</strong> Nos sentamos con usted a revisar el resultado del mes, cómo va la caja y qué conviene corregir",
+        "Reporte financiero mensual como base de esa reunión",
+        "Estados financieros trimestrales bajo NIIF para Pymes — Estado de Resultados, Situación Financiera, Flujo de Efectivo y Cambios en el Patrimonio",
+        "Asesoría tributaria y financiera proactiva, con planeación y alternativas legales para tomar decisiones",
+        "Un analista contable y un auxiliar contable dedicados a la cuenta, con acceso a María Isabel en el frente tributario y a Andrés Cano en el frente financiero",
+        "Consultas por WhatsApp con el analista dedicado",
+        "<strong>Acceso a Kpital</strong>, el software de Capital Lab, que funciona como su gestor documental: allí tiene sus facturas y documentos, y puede consultarlos y trabajar con ellos en lo que el software permita. Incluido en la tarifa"
+      ],
+      "nota": "<strong>Nuestra tarifa ya incluye los servicios anualizados de la sociedad.</strong> Declaración de renta, declaración de industria y comercio en los municipios donde haya obligación, información exógena, renovación de la Cámara de Comercio y estados financieros anuales con notas. Aplica a los años que llevemos nosotros; lo que corresponde a su contador actual se explica en las condiciones. <strong>No cobramos mes 13.</strong>"
+    },
+    {
+      "etiqueta": "El flujo",
+      "tipo": "html",
+      "titulo": "Cómo viaja su información",
+      "texto": [
+        "La información llega sola, se revisa y termina convertida en algo que usted puede leer. El recorrido tiene cinco pasos.",
+        "Las facturas que le llegan al correo se reenvían de forma automática a Kpital, el software de Capital Lab. Kpital las carga y se sincroniza con la DIAN, así que nada de lo facturado se queda por fuera. Nuestro equipo revisa esa información desde Kpital, con una conexión programada entre los sistemas, y la analiza cuando hace falta.",
+        "De ahí pasa a su contabilidad, en el software contable que definamos con usted al arrancar. La conexión con Kpital la vamos automatizando donde se pueda. Al final del recorrido está lo que importa: lo que usted recibe."
+      ],
+      "html": "\n<style>\n.flujo-cl .paso{transform-box:fill-box}\n.flujo-cl.js-anim .paso{opacity:0;transform:translateY(18px);transition:opacity .7s ease,transform .7s ease}\n.flujo-cl.js-anim.play .paso{opacity:1;transform:none}\n.flujo-cl .flecha{stroke-dasharray:6 7;animation:flujo-dash 1.1s linear infinite}\n@keyframes flujo-dash{to{stroke-dashoffset:-26}}\n.flujo-cl .pulso{transform-box:fill-box;transform-origin:center;opacity:0}\n.flujo-cl.play .pulso{animation:flujo-pulso 6s ease-out infinite}\n@keyframes flujo-pulso{0%{opacity:.55;transform:scale(1)}12%{opacity:0;transform:scale(1.9)}100%{opacity:0;transform:scale(1.9)}}\n.flujo-cl .chip{transform-box:fill-box;transform-origin:center}\n.flujo-cl.js-anim .chip{opacity:0;transform:scale(.85);transition:opacity .5s ease,transform .5s cubic-bezier(.2,1.4,.4,1)}\n.flujo-cl.js-anim.play .chip{opacity:1;transform:none}\n@media (prefers-reduced-motion:reduce){.flujo-cl .paso,.flujo-cl .chip{opacity:1!important;transform:none!important;transition:none!important}.flujo-cl .flecha,.flujo-cl .pulso{animation:none!important}}\n@media print{.flujo-cl .paso,.flujo-cl .chip{opacity:1!important;transform:none!important}.flujo-cl .flecha,.flujo-cl .pulso{animation:none!important}}\n</style><svg class=\"flujo-cl\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 900 1032\" width=\"100%\" style=\"max-width:100%;height:auto;display:block;margin:24px auto 0\" font-family=\"PT Sans, Segoe UI, sans-serif\" role=\"img\" aria-label=\"Flujo del servicio: reenvíos desde el correo, Kpital con la DIAN, revisión y análisis, su software contable, y lo que usted recibe\"><g class=\"paso\" style=\"transition-delay:0.00s\"><rect x=\"10\" y=\"10\" width=\"880\" height=\"150\" rx=\"14\" fill=\"#EFEEED\" stroke=\"#D8D9DD\" stroke-width=\"2\"/><circle class=\"pulso\" cx=\"75\" cy=\"85\" r=\"32\" fill=\"none\" stroke=\"#002233\" stroke-width=\"3\" style=\"animation-delay:1.4s\"/><circle cx=\"75\" cy=\"85\" r=\"32\" fill=\"#002233\"/><text x=\"75\" y=\"95\" text-anchor=\"middle\" font-size=\"28\" font-weight=\"700\" fill=\"#FFFFFF\">1</text><text x=\"135\" y=\"64\" font-size=\"32\" font-weight=\"700\" fill=\"#002233\">Reenvíos desde su correo</text><text x=\"135\" y=\"106\" font-size=\"26\" fill=\"#505658\">Las facturas electrónicas</text><text x=\"135\" y=\"140\" font-size=\"26\" fill=\"#505658\">llegan solas a Kpital</text></g><g class=\"paso\" style=\"transition-delay:0.20s\"><line class=\"flecha\" x1=\"75\" y1=\"164\" x2=\"75\" y2=\"190\" stroke=\"#9799A0\" stroke-width=\"4\"/><polygon points=\"63,188 87,188 75,202\" fill=\"#9799A0\"/></g><g class=\"paso\" style=\"transition-delay:0.35s\"><rect x=\"10\" y=\"204\" width=\"880\" height=\"150\" rx=\"14\" fill=\"#EFEEED\" stroke=\"#D8D9DD\" stroke-width=\"2\"/><circle class=\"pulso\" cx=\"75\" cy=\"279\" r=\"32\" fill=\"none\" stroke=\"#002233\" stroke-width=\"3\" style=\"animation-delay:2.4s\"/><circle cx=\"75\" cy=\"279\" r=\"32\" fill=\"#002233\"/><text x=\"75\" y=\"289\" text-anchor=\"middle\" font-size=\"28\" font-weight=\"700\" fill=\"#FFFFFF\">2</text><text x=\"135\" y=\"258\" font-size=\"32\" font-weight=\"700\" fill=\"#002233\">Kpital recibe y carga</text><text x=\"135\" y=\"300\" font-size=\"26\" fill=\"#505658\">Sincronizado con la DIAN:</text><text x=\"135\" y=\"334\" font-size=\"26\" fill=\"#505658\">nada facturado queda por fuera</text></g><g class=\"paso\" style=\"transition-delay:0.55s\"><line class=\"flecha\" x1=\"75\" y1=\"358\" x2=\"75\" y2=\"384\" stroke=\"#9799A0\" stroke-width=\"4\"/><polygon points=\"63,382 87,382 75,396\" fill=\"#9799A0\"/></g><g class=\"paso\" style=\"transition-delay:0.70s\"><rect x=\"10\" y=\"398\" width=\"880\" height=\"150\" rx=\"14\" fill=\"#EFEEED\" stroke=\"#D8D9DD\" stroke-width=\"2\"/><circle class=\"pulso\" cx=\"75\" cy=\"473\" r=\"32\" fill=\"none\" stroke=\"#002233\" stroke-width=\"3\" style=\"animation-delay:3.4s\"/><circle cx=\"75\" cy=\"473\" r=\"32\" fill=\"#002233\"/><text x=\"75\" y=\"483\" text-anchor=\"middle\" font-size=\"28\" font-weight=\"700\" fill=\"#FFFFFF\">3</text><text x=\"135\" y=\"452\" font-size=\"32\" font-weight=\"700\" fill=\"#002233\">Revisión y análisis</text><text x=\"135\" y=\"494\" font-size=\"26\" fill=\"#505658\">Nuestro equipo revisa desde Kpital</text><text x=\"135\" y=\"528\" font-size=\"26\" fill=\"#505658\">y analiza cuando hace falta</text></g><g class=\"paso\" style=\"transition-delay:0.90s\"><line class=\"flecha\" x1=\"75\" y1=\"552\" x2=\"75\" y2=\"578\" stroke=\"#9799A0\" stroke-width=\"4\"/><polygon points=\"63,576 87,576 75,590\" fill=\"#9799A0\"/></g><g class=\"paso\" style=\"transition-delay:1.05s\"><rect x=\"10\" y=\"592\" width=\"880\" height=\"150\" rx=\"14\" fill=\"#EFEEED\" stroke=\"#D8D9DD\" stroke-width=\"2\"/><circle class=\"pulso\" cx=\"75\" cy=\"667\" r=\"32\" fill=\"none\" stroke=\"#002233\" stroke-width=\"3\" style=\"animation-delay:4.4s\"/><circle cx=\"75\" cy=\"667\" r=\"32\" fill=\"#002233\"/><text x=\"75\" y=\"677\" text-anchor=\"middle\" font-size=\"28\" font-weight=\"700\" fill=\"#FFFFFF\">4</text><text x=\"135\" y=\"646\" font-size=\"32\" font-weight=\"700\" fill=\"#002233\">Su contabilidad</text><text x=\"135\" y=\"688\" font-size=\"26\" fill=\"#505658\">En el software que definamos juntos</text><text x=\"135\" y=\"722\" font-size=\"26\" fill=\"#505658\">y vamos automatizando la conexión</text></g><g class=\"paso\" style=\"transition-delay:1.25s\"><line class=\"flecha\" x1=\"75\" y1=\"746\" x2=\"75\" y2=\"772\" stroke=\"#9799A0\" stroke-width=\"4\"/><polygon points=\"63,770 87,770 75,784\" fill=\"#9799A0\"/></g><g class=\"paso\" style=\"transition-delay:1.40s\"><rect x=\"10\" y=\"786\" width=\"880\" height=\"236\" rx=\"14\" fill=\"#002233\"/><circle class=\"pulso\" cx=\"75\" cy=\"836\" r=\"32\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"3\" style=\"animation-delay:5.4s\"/><circle cx=\"75\" cy=\"836\" r=\"32\" fill=\"#FFFFFF\"/><text x=\"75\" y=\"846\" text-anchor=\"middle\" font-size=\"28\" font-weight=\"700\" fill=\"#002233\">5</text><text x=\"135\" y=\"848\" font-size=\"32\" font-weight=\"700\" fill=\"#FFFFFF\">Lo que usted recibe</text></g><g class=\"chip\" style=\"transition-delay:1.90s\"><rect x=\"40\" y=\"886\" width=\"400\" height=\"56\" rx=\"10\" fill=\"#FFFFFF\"/><text x=\"240\" y=\"922\" text-anchor=\"middle\" font-size=\"24\" font-weight=\"700\" fill=\"#002233\">Impuestos a tiempo</text></g><g class=\"chip\" style=\"transition-delay:2.08s\"><rect x=\"460\" y=\"886\" width=\"400\" height=\"56\" rx=\"10\" fill=\"#FFFFFF\"/><text x=\"660\" y=\"922\" text-anchor=\"middle\" font-size=\"24\" font-weight=\"700\" fill=\"#002233\">Reporte financiero mensual</text></g><g class=\"chip\" style=\"transition-delay:2.26s\"><rect x=\"40\" y=\"956\" width=\"400\" height=\"56\" rx=\"10\" fill=\"#FFFFFF\"/><text x=\"240\" y=\"992\" text-anchor=\"middle\" font-size=\"24\" font-weight=\"700\" fill=\"#002233\">Reunión de socialización</text></g><g class=\"chip\" style=\"transition-delay:2.44s\"><rect x=\"460\" y=\"956\" width=\"400\" height=\"56\" rx=\"10\" fill=\"#FFFFFF\"/><text x=\"660\" y=\"992\" text-anchor=\"middle\" font-size=\"24\" font-weight=\"700\" fill=\"#002233\">Kpital con sus documentos</text></g></svg><script>(function(){var s=document.querySelectorAll('.flujo-cl');if(!s.length)return;\nvar rm=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;\ns.forEach(function(el){if(rm||!('IntersectionObserver' in window)){el.classList.add('play');return;}\nel.classList.add('js-anim');var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){el.classList.add('play');io.disconnect();}});},{threshold:0.25});io.observe(el);});})();</script>"
+    },
+    {
+      "etiqueta": "Implementación",
+      "tipo": "checklist",
+      "titulo": "Lo que dejamos listo desde el día uno",
+      "items": [
+        "Definición del software contable y del flujo de causación, sin duplicar trabajo ni generar reprocesos",
+        "Configuración de reenvíos automáticos desde el correo de La Visionaria hacia Capital Lab, para recibir las facturas y los documentos electrónicos en cuanto llegan",
+        "Sincronización automatizada con la DIAN mediante token, para tener la información tributaria oficial al día",
+        "Usuario de consulta bancaria para conciliaciones precisas, opcional y gestionado por usted ante la entidad",
+        "Su acceso a Kpital, para consultar la información cuando la necesite"
+      ]
+    },
+    {
+      "etiqueta": "Proceso",
+      "tipo": "fases",
+      "titulo": "Cómo funciona",
+      "fases": [
+        {
+          "titulo": "Empalme y puesta en marcha",
+          "texto": "Recibimos la información de su contador actual y configuramos los reenvíos, la sincronización con la DIAN y el software contable. El empalme lo coordinamos nosotros. Cambia de contador sin cargar con el cambio. Lo ideal es que su contador actual cierre lo que lleva; si no, lo conversamos, como se explica en las condiciones.",
+          "tiempo": "El primer mes"
+        },
+        {
+          "titulo": "Operación continua",
+          "texto": "La información contable se mantiene al día. Los documentos electrónicos se procesan en cuanto llegan y la causación corre cada semana. Al cierre de cada mes conciliamos, liquidamos la nómina, completamos el procesamiento y preparamos el reporte.",
+          "tiempo": "Semanal y mensual"
+        },
+        {
+          "titulo": "Información para decidir",
+          "texto": "Proyección de IVA y renta, borradores con al menos tres días de anticipación y la reunión mensual de socialización financiera, para revisar el resultado, la caja y lo que viene, incluidas las importaciones de 2027.",
+          "tiempo": "Mensual"
+        }
+      ]
+    },
+    {
+      "etiqueta": "Diferenciales",
+      "tipo": "cards",
+      "titulo": "Por qué Capital Lab",
+      "cards": [
+        {
+          "etiqueta": "Impuestos sin sorpresas",
+          "titulo": "Cero multas por incumplimiento",
+          "texto": "Borradores con al menos tres días de anticipación a cada vencimiento y proyección mensual del impuesto de renta, como política para todos nuestros clientes. En todo nuestro portafolio, el número de multas por incumplimiento es cero."
+        },
+        {
+          "etiqueta": "Sin traumatismos",
+          "titulo": "Cambia de contador sin cargar con el cambio",
+          "texto": "Nosotros coordinamos el empalme con su contador actual: recibimos la información, revisamos lo que llega y dejamos claro qué queda pendiente y quién lo presenta. Usted no tiene que perseguir a nadie."
+        },
+        {
+          "etiqueta": "Equipo dedicado",
+          "titulo": "Más de 30 empresas en cuatro ciudades",
+          "texto": "La operación la lleva un equipo con roles definidos: un <strong>auxiliar contable</strong>, un <strong>analista dedicado</strong> y un <strong>contador público</strong> que revisa, firma y presenta. María Isabel lidera el frente tributario y Andrés Cano el frente financiero. Clientes en Medellín, Bogotá, Neiva y Quibdó, con cuatro años de permanencia promedio."
+        }
+      ]
+    },
+    {
+      "etiqueta": "Inversión",
+      "tipo": "tabla",
+      "titulo": "Detalle de la inversión",
+      "columnas": [
+        "Concepto",
+        "Valor mensual"
+      ],
+      "filas": [
+        [
+          "Gestión y asesoría contable, tributaria y financiera mensual de La Visionaria, con la nómina, la nómina electrónica y los documentos soporte",
+          "$2.000.000 + IVA"
+        ],
+        [
+          "Acceso a Kpital, el software de Capital Lab (incluido)",
+          "$0"
+        ],
+        [
+          "<strong>Valor base mensual</strong>",
+          "<strong>$2.000.000 + IVA</strong>"
+        ],
+        [
+          "IVA (19 %)",
+          "$380.000"
+        ],
+        [
+          "<strong>Total mensual</strong>",
+          "<strong>$2.380.000</strong>"
+        ],
+        [
+          "<strong>Total anual</strong> — $24.000.000 + IVA",
+          "<strong>$28.560.000</strong>"
+        ]
+      ],
+      "nota": "<strong>Cómo definimos y ajustamos la tarifa.</strong> El precio se define por el volumen de información a procesar y el nivel de ingresos de la empresa. La tarifa se revisa una vez al año, al cumplir cada año de servicio, y se ajusta con la variación anual del IPC.<br><br><strong>Forma de pago.</strong> El servicio inicia con la firma del contrato y el pago anticipado del primer mes. A partir de ahí, emitimos la factura de cada mes y el pago se hace con la emisión de cada factura.<br><br><strong>Vigencia</strong> — 30 días calendario desde la fecha de emisión."
+    },
+    {
+      "etiqueta": "Opcionales",
+      "tipo": "lista",
+      "titulo": "Lo que se cotiza aparte",
+      "texto": "Salieron en la conversación. No hacen parte de la tarifa mensual.",
+      "items": [
+        "<strong>Los servicios para otras sociedades.</strong> Esta propuesta cubre solo a Grupo de Inversiones La Visionaria S.A.S.",
+        "<strong>Los servicios para personas naturales</strong>, incluidas sus declaraciones de renta y el cierre o la subsanación de su situación tributaria",
+        "<strong>Lo que corresponde a su contador actual</strong>, si no lo presenta. Lo explicamos en las condiciones"
+      ]
+    },
+    {
+      "etiqueta": "Servicios adicionales",
+      "tipo": "lista",
+      "titulo": "Más allá de la contabilidad",
+      "items": [
+        "Afiliaciones al sistema de seguridad social",
+        "Corrección y saneamiento de periodos anteriores",
+        "Atención a requerimientos de entidades oficiales",
+        "Revisoría fiscal",
+        "Valoración de empresas",
+        "Auditoría"
+      ],
+      "texto": "Si en el camino los necesita, los cotizamos aparte."
+    },
+    {
+      "etiqueta": "Condiciones",
+      "tipo": "lista",
+      "titulo": "Condiciones y notas",
+      "items": [
+        "Esta propuesta cubre la contabilidad, los impuestos, la nómina y el acompañamiento financiero de Grupo de Inversiones La Visionaria S.A.S. desde el mes en que inicie el servicio. No cubre otras sociedades ni personas naturales, que se cotizan aparte",
+        "Trabajamos sobre el software contable que definamos con usted al arrancar. La conexión automática con Kpital la construimos en el camino, donde se pueda",
+        "Incluye la liquidación de la nómina y la nómina electrónica. Las afiliaciones al sistema de seguridad social no están incluidas y se cotizan aparte",
+        "Incluye la emisión de los documentos soporte a partir de las cuentas de cobro que usted nos envía",
+        "Esta propuesta no incluye la tesorería ni los pagos, que siguen en manos de La Visionaria; la emisión de facturas de venta; la puesta a punto de información contable de periodos anteriores; los asuntos legales; ni la gestión de trámites ante entidades oficiales por fuera de las obligaciones tributarias ordinarias",
+        "<strong>Lo que lleva su contador actual.</strong> La contabilidad y las declaraciones de los periodos anteriores al inicio del servicio corresponden a su contador actual. Lo ideal es que él cierre lo que lleva y presente lo que de esos periodos vence después. Si el servicio arranca en enero de 2027, eso incluye el cierre del año gravable 2026: el IVA del último periodo, la retención en la fuente de diciembre, los certificados de retención, los estados financieros de 2026, la renta, la información exógena y la declaración de industria y comercio. La renovación de la Cámara de Comercio de 2027 sí la hacemos nosotros, con los estados financieros que él entregue. Si arranca antes de enero, definimos al firmar quién cierra 2026. Si su contador actual no lo va a hacer, nosotros lo podemos asumir, revisando antes la información. En ese caso puede haber un costo adicional, que depende de cómo quede la contabilidad que recibimos",
+        "La tarifa se revisa una vez al año, al cumplir cada año de servicio, y se ajusta con la variación anual del IPC",
+        "El servicio inicia con la firma del contrato que detalla las obligaciones de cada parte y con el pago anticipado del primer mes. Desde ahí, la factura se emite cada mes y el pago se recibe con la emisión de cada factura",
+        "La adecuada prestación del servicio está condicionada a la entrega correcta, completa y oportuna de la información contable. Cuenta con todo el apoyo de nuestro equipo y un ecosistema tecnológico completo para que ese proceso sea natural",
+        "Vigencia de esta propuesta — 30 días calendario desde la fecha de emisión"
+      ]
+    },
+    {
+      "etiqueta": "Marco legal",
+      "tipo": "texto",
+      "titulo": "Cláusulas",
+      "texto": [
+        "Confidencialidad — Grupo de Inversiones La Visionaria S.A.S., NIT 901.963.545-2, y Capital Lab S.A.S. se comprometen a guardar absoluta confidencialidad y reserva sobre toda la información a la que tengan acceso en virtud de esta propuesta, su negociación, aceptación y la prestación del servicio. Cualquier revelación está prohibida y no podrá usarse como elemento de competencia desleal. Las condiciones específicas serán reguladas en el contrato de prestación de servicios.",
+        "Encargo de datos personales — Durante la prestación del servicio, Capital Lab actúa como Encargado del tratamiento de datos personales de terceros proporcionados por el cliente (Responsable), quien garantiza haber obtenido autorización de los titulares. Capital Lab usará los datos únicamente para la prestación de los servicios contratados y los suprimirá de sus sistemas al terminar la relación.",
+        "Tratamiento de datos personales — Grupo de Inversiones La Visionaria S.A.S. autoriza a Capital Lab S.A.S. a realizar el tratamiento de sus datos personales de conformidad con la normatividad vigente y la Política de Protección y Tratamiento de Datos Personales, accesible en caplab.com.co/tratamiento-de-datos. Capital Lab se compromete a respetar y facilitar el ejercicio de los derechos del cliente.",
+        "Formalización — Para efectos de formalizar la relación comercial se acuerda suscribir (1) contrato de prestación de servicios, (2) contrato de encargo de datos personales y (3) política de protección y tratamiento de datos personales."
+      ]
+    }
+  ]
+}
